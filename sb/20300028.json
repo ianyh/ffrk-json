@@ -1,0 +1,76 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Truespell Icespire",
+      "text": "Six single attacks (2.90 each), 3.20 multiplier if exploiting Ice weakness",
+      "condition": "Ice",
+      "slot": "Attack"
+    },
+    {
+      "name": "Truespell Icerend",
+      "text": "One single attack (16.40) capped at 99999, grants [Instant Cast 1] to the user",
+      "condition": "Ice",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Ice 3 with Stacking",
+      "text": "Increase Attach Ice Level by 3 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Instant ATB 3",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Truespell Icespire",
+      "text": "Six single attacks (2.90 each), 3.20 multiplier if exploiting Ice weakness",
+      "condition": "Ice",
+      "slot": "Attack"
+    },
+    {
+      "name": "Truespell Icerend",
+      "text": "One single attack (16.40) capped at 99999, grants [Instant Cast 1] to the user",
+      "condition": "Ice",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20300028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300028/20300028_256.png",
+  "character": "Rinoa",
+  "name": "Apocalypse R",
+  "name_jp": "アポカリプス・R",
+  "tier": "SASB",
+  "sb_version": "SASB3",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 1] to the user",
+  "verified": true
+}

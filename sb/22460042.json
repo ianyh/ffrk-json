@@ -1,0 +1,121 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Attach Wind with Stacking], [Dual Awoken Black Magic Mode I (Onion Knight (Wind))] and [Black Magic Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Black Magic Mode I (Onion Knight (Wind))",
+      "text": "Black Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic abilities trigger 2 additional times, causes [Imperil Wind 10% (5s)] after using two Black Magic abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Onion Knight (Wind))]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Black Magic Mode II (Onion Knight (Wind))",
+      "text": "Black Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Black Magic abilities, casts Dual Wind Sorcery after using Black Magic abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Wind Sorcery",
+      "text": "One single attack (16.92) capped at 99999, causes [DEF, RES and MND -70% (8s)], grants [Attach Wind] to all allies with any Attach Wind"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Black Magic Resonance +5% Boost",
+      "text": "Black Magic abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Attach Wind with Stacking], [Dual Awoken Black Magic Mode I (Onion Knight (Wind))] and [Black Magic Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Black Magic Mode I (Onion Knight (Wind))",
+      "text": "Black Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic abilities trigger 2 additional times, causes [Imperil Wind 10% (5s)] after using two Black Magic abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Onion Knight (Wind))]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Black Magic Mode II (Onion Knight (Wind))",
+      "text": "Black Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Black Magic abilities, casts Dual Wind Sorcery after using Black Magic abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Wind Sorcery",
+      "text": "One single attack (16.92) capped at 99999, causes [DEF, RES and MND -70% (8s)], grants [Attach Wind] to all allies with any Attach Wind"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    }
+  ],
+  "id": "22460042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460042/22460042_256.png",
+  "character": "Onion Knight",
+  "name": "Awoken Aeroga",
+  "name_jp": "覚醒エアロガ",
+  "tier": "DASB",
+  "sb_version": "DASB3",
+  "realm": "III",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Attach Wind with Stacking], [Dual Awoken Black Magic Mode I (Onion Knight (Wind))] and [Black Magic Resonance +5% Boost] to the user",
+  "verified": true
+}

@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "23230052",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230052/23230052_256.png",
+  "character": "Ultimecia",
+  "name": "Super Raiment (Ultimecia)",
+  "name_jp": "超装【アルティミシア】",
+  "tier": "LBG+",
+  "sb_version": "LBG+2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

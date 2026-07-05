@@ -1,0 +1,99 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cloud)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Wind Mode I (Cloud)",
+      "text": "Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Wind abilities after casting 1/2/3+ Wind abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Cloud)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Wind Mode II (Cloud)",
+      "text": "Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 1 additional time, instant cast speed for Wind abilities, grants [Dual SOLDIER Mode] to the user after using Wind abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual SOLDIER Mode",
+      "text": "Critical chance =100%, critical hits deal 20% more damage (additive with the base critical coefficient and other Critical Damage statuses), casts Dual Slash Impact after using a Wind ability",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Dual Slash Impact",
+      "text": "One single attack (4.45) capped at 49999/69999/89999 after 1/2/3 uses, ignores DEF, 100% hit rate"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Wind Resonance +5% Boost",
+      "text": "Wind abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cloud)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Wind Mode I (Cloud)",
+      "text": "Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Wind abilities after casting 1/2/3+ Wind abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Cloud)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Wind Mode II (Cloud)",
+      "text": "Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 1 additional time, instant cast speed for Wind abilities, grants [Dual SOLDIER Mode] to the user after using Wind abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual SOLDIER Mode",
+      "text": "Critical chance =100%, critical hits deal 20% more damage (additive with the base critical coefficient and other Critical Damage statuses), casts Dual Slash Impact after using a Wind ability",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Dual Slash Impact",
+      "text": "One single attack (4.45) capped at 49999/69999/89999 after 1/2/3 uses, ignores DEF, 100% hit rate"
+    }
+  ],
+  "id": "20110034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110034/20110034_256.png",
+  "character": "Cloud",
+  "name": "Awoken Finishing Touch",
+  "name_jp": "覚醒画龍点睛",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Cloud)] and [Wind Resonance +5% Boost] to the user",
+  "verified": true
+}

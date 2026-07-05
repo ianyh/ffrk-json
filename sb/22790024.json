@@ -1,0 +1,60 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000] and [Chocobo Love Mode] to the user"
+    },
+    {
+      "name": "Awoken Fire",
+      "text": "Fire abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Chocobo Love Mode",
+      "text": "Fire abilities deal 50% more damage, instant cast speed for Fire abilities, casts Giga Flame Follow-Up after using 3 Fire abilities, removed after casting Giga Flame Follow-Up  one time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Giga Flame Follow-Up",
+      "text": "13 single attacks (1.56 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000] and [Chocobo Love Mode] to the user"
+    },
+    {
+      "name": "Awoken Fire",
+      "text": "Fire abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22790024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22790024/22790024_256.png",
+  "character": "Ace",
+  "name": "Wild Card",
+  "name_jp": "テレポカード",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire with Stacking], [Awoken Fire], [Damage Cap +10000] and [Chocobo Love Mode] to the user",
+  "verified": true
+}

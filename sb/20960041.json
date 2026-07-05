@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "20960041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960041/20960041_256.png",
+  "character": "Y'shtola",
+  "name": "Super Flash (Y'shtola)",
+  "name_jp": "超閃【ヤ・シュトラ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "XIV",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

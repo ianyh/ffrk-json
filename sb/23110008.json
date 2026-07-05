@@ -1,0 +1,77 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [40% Damage Reduction Barrier 1] to all allies, grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Silver Swordsman Mode] to the user"
+    },
+    {
+      "name": "Sword Within",
+      "text": "Six single attacks (0.87/0.93 each) if the user hasn't/has any Damage Reduction Barrier",
+      "condition": "Knight",
+      "slot": "Attack"
+    },
+    {
+      "name": "Knight's Veil",
+      "text": "Three single attacks (0.90 each), grants [50% Damage Reduction Barrier 1] to all allies",
+      "condition": "Knight",
+      "slot": "Defend"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Attach Holy 3 with Stacking",
+      "text": "Increase Attach Holy Level by 3 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Silver Swordsman Mode",
+      "text": "Grants [HP Stock (2000)] to all allies when any Damage Reduction Barrier is removed, removed after triggering 3 times, grants [Instant Cast 3] and [Holy Ability +30% Boost 3]/[Holy Ability +50% Boost 3] if 0~1/2+ XIV allies are alive when removed"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [40% Damage Reduction Barrier 1] to all allies, grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Silver Swordsman Mode] to the user"
+    },
+    {
+      "name": "Sword Within",
+      "text": "Six single attacks (0.87/0.93 each) if the user hasn't/has any Damage Reduction Barrier",
+      "condition": "Knight",
+      "slot": "Attack"
+    },
+    {
+      "name": "Knight's Veil",
+      "text": "Three single attacks (0.90 each), grants [50% Damage Reduction Barrier 1] to all allies",
+      "condition": "Knight",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23110008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23110008/23110008_256.png",
+  "character": "Haurchefant",
+  "name": "Passage of Arms",
+  "name_jp": "パッセージオブアームズ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIV",
+  "elements": [
+    "Holy",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [40% Damage Reduction Barrier 1] to all allies, grants [Attach Holy 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Silver Swordsman Mode] to the user",
+  "verified": true
+}

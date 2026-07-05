@@ -1,0 +1,76 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Void Domination] and [Almagest] to the user"
+    },
+    {
+      "name": "Beckoning Void",
+      "text": "3/8 single attacks (3.05 each) if the user has Wicked Thoughts level 0/1, grants [Quick Cast 1] to the user if the user has Wicked Thoughts level 0, causes Wicked Thoughts -1 to the user",
+      "condition": "Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Malicious Craving",
+      "text": "Three single attacks (3.05 each) if the user has Boundless Ambition level 0, one single attack (16.40) capped at 99999 if the user has Boundless Ambition level 1, grants [Quick Cast 1] to the user if the user has Boundless Ambition level 0",
+      "condition": "Dark",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Dark 3 with Stacking",
+      "text": "Increase Attach Dark Level by 3 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Void Domination",
+      "text": "Grants [Instant ATB 3], [Instant Cast 3] and Wicked Thoughts +3 after using three of Beckoning Void or Malicious Craving, removed after triggering, removed if the character hasn't [Synchro Mode]"
+    },
+    {
+      "name": "Almagest",
+      "text": "Grants Boundless Ambition +1 after using six of Beckoning Void or Malicious Craving, removed after triggering, removed if the character hasn't [Synchro Mode]"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Void Domination] and [Almagest] to the user"
+    },
+    {
+      "name": "Beckoning Void",
+      "text": "3/8 single attacks (3.05 each) if the user has Wicked Thoughts level 0/1, grants [Quick Cast 1] to the user if the user has Wicked Thoughts level 0, causes Wicked Thoughts -1 to the user",
+      "condition": "Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Malicious Craving",
+      "text": "Three single attacks (3.05 each) if the user has Boundless Ambition level 0, one single attack (16.40) capped at 99999 if the user has Boundless Ambition level 1, grants [Quick Cast 1] to the user if the user has Boundless Ambition level 0",
+      "condition": "Dark",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22080019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080019/22080019_256.png",
+  "character": "Exdeath",
+  "name": "Almagest",
+  "name_jp": "アルマゲスト",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Void Domination] and [Almagest] to the user",
+  "verified": true
+}

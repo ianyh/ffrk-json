@@ -1,0 +1,118 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Cornelian Princess Mode I (Sarah)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Cornelian Princess Mode I (Sarah)",
+      "text": "Cast speed x2.00/x2.50/x3.00 for White Magic and Bard abilities after using 1/2/3+ White Magic or Bard abilities, casts Dual Healing Song after using White Magic and Bard abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Cornelian Princess Mode II (Sarah)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Cornelian Princess Mode II (Sarah)",
+      "text": "Instant cast speed for White Magic and Bard abilities, casts Dual Healing Warsong after using White Magic and Bard abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Healing Warsong",
+      "text": "Restores HP (55), grants [Regenga] and [Quick Cast 1]"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds",
+      "duration": "4 seconds"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Healing Song",
+      "text": "Restores HP (10/15/25/35/45) at rank 1/2/3/4/5 of the triggering ability, grants [Quick Cast 1] to all allies every second cast if Warrior of Light or Garland are alive"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "White Magic Healing Resonance Boost +5%",
+      "text": "White Magic abilities restore 5% more HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Cornelian Princess Mode I (Sarah)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Cornelian Princess Mode I (Sarah)",
+      "text": "Cast speed x2.00/x2.50/x3.00 for White Magic and Bard abilities after using 1/2/3+ White Magic or Bard abilities, casts Dual Healing Song after using White Magic and Bard abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Cornelian Princess Mode II (Sarah)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Cornelian Princess Mode II (Sarah)",
+      "text": "Instant cast speed for White Magic and Bard abilities, casts Dual Healing Warsong after using White Magic and Bard abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Healing Warsong",
+      "text": "Restores HP (55), grants [Regenga] and [Quick Cast 1]"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds",
+      "duration": "4 seconds"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22300016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22300016/22300016_256.png",
+  "character": "Sarah",
+  "name": "Awoken Oathsworn Melody",
+  "name_jp": "覚醒誓いの歌",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Cornelian Princess Mode I (Sarah)] and [White Magic Healing Resonance Boost +5%] to the user",
+  "verified": true
+}

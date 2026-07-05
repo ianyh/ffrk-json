@@ -1,0 +1,115 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Tri-Element Mode II (Fire, Ice, Lightning)], [Dual Awoken Spellblade Mode I (Steiner)], [Spellblade Resonance +5% Boost] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Dual Awoken Spellblade Mode I (Steiner)",
+      "text": "Spellblade abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 and critical chance =50%/75%/100% for equipped Spellblade abilities after casting 1/2/3+ Spellblade abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Spellblade Mode II (Steiner)], removes [Dual Awoken Spellblade Mode I (Steiner)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Spellblade Mode II (Steiner)",
+      "text": "Increases the damage/healing cap by 20000, Spellblade abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade abilities trigger 1 additional time, cast speed x2.00 for Spellblade abilities, casts Dual Loyal Spellblade after using Spellblade abilities (max 1)",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Loyal Spellblade",
+      "text": "One single attack (2.57) capped at 99999, causes [DEF, RES and MND -70% (8s)] if 0-3 FF9 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] to all allies if 4+ FF9 allies are alive"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (8s)",
+      "text": "ATK, DEF, MAG and RES +30%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Tri-Element Mode II (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Spellblade Resonance +5% Boost",
+      "text": "Spellblade abilities deal 5% more damage"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Tri-Element Mode II (Fire, Ice, Lightning)], [Dual Awoken Spellblade Mode I (Steiner)], [Spellblade Resonance +5% Boost] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Dual Awoken Spellblade Mode I (Steiner)",
+      "text": "Spellblade abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 and critical chance =50%/75%/100% for equipped Spellblade abilities after casting 1/2/3+ Spellblade abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Spellblade Mode II (Steiner)], removes [Dual Awoken Spellblade Mode I (Steiner)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Spellblade Mode II (Steiner)",
+      "text": "Increases the damage/healing cap by 20000, Spellblade abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade abilities trigger 1 additional time, cast speed x2.00 for Spellblade abilities, casts Dual Loyal Spellblade after using Spellblade abilities (max 1)",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Loyal Spellblade",
+      "text": "One single attack (2.57) capped at 99999, causes [DEF, RES and MND -70% (8s)] if 0-3 FF9 allies are alive, grants [ATK, DEF, MAG and RES +30% (8s)] to all allies if 4+ FF9 allies are alive"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (8s)",
+      "text": "ATK, DEF, MAG and RES +30%",
+      "duration": "8 seconds"
+    }
+  ],
+  "id": "20570024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570024/20570024_256.png",
+  "character": "Steiner",
+  "name": "Awoken Steiner Rush",
+  "name_jp": "覚醒盲進スタイナー",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Tri-Element Mode II (Fire, Ice, Lightning)], [Dual Awoken Spellblade Mode I (Steiner)], [Spellblade Resonance +5% Boost] and [Instant Cast 1] to the user",
+  "verified": true
+}

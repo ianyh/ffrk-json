@@ -1,0 +1,103 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Darkness Mode I (Vayne)] and [Darkness Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Darkness Mode I (Vayne)",
+      "text": "Darkness abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Darkness abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Darkness abilities after casting 1/2/3+ Darkness abilities, casts Dual Dark Strategy after using two equipped Darkness abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Vayne)], removes [Dual Awoken Darkness Mode I (Vayne)]"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Darkness Mode II (Vayne)",
+      "text": "Increases the damage/healing cap by 20000, Darkness abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Darkness abilities trigger 1 additional time, instant cast speed for Darkness abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Dark Strategy",
+      "text": "One single ranged hybrid attack (4.45 or 18.64), ignores DEF and RES"
+    },
+    {
+      "name": "ATK and MND +50% (25s)",
+      "text": "ATK and MND +50%"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Darkness Resonance +5% Boost",
+      "text": "Darkness abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Darkness Mode I (Vayne)] and [Darkness Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Darkness Mode I (Vayne)",
+      "text": "Darkness abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Darkness abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Darkness abilities after casting 1/2/3+ Darkness abilities, casts Dual Dark Strategy after using two equipped Darkness abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant Cast 1], grants [Instant ATB 1] and [Dual Awoken Darkness Mode II (Vayne)], removes [Dual Awoken Darkness Mode I (Vayne)]"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Darkness Mode II (Vayne)",
+      "text": "Increases the damage/healing cap by 20000, Darkness abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Darkness abilities trigger 1 additional time, instant cast speed for Darkness abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    }
+  ],
+  "id": "22620015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620015/22620015_256.png",
+  "character": "Vayne",
+  "name": "Awoken Relentless Drive",
+  "name_jp": "覚醒不撓邁進",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MND +50% (25s)] or [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Darkness Mode I (Vayne)] and [Darkness Resonance +5% Boost] to the user",
+  "verified": true
+}

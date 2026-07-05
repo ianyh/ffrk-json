@@ -1,0 +1,94 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Enna Kros)], [Earth Resonance +5% Boost] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Dual Awoken Earth Mode I (Enna Kros)",
+      "text": "Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 2 additional times, casts Dual Sweet Coffee after casting Earth abilities (max 2 chases)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Enna Kros)], removes [Dual Awoken Earth Mode I (Enna Kros)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Earth Mode II (Enna Kros)",
+      "text": "Increases the damage/healing cap by 10000, Earth abilities trigger 1 additional time, Earth abilities deal 20%/30%/50% more damage after casting 1/2/3+ Earth abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Sweet Coffee",
+      "text": "One single attack (15.58) capped at 99999, 17.22 if exploiting Earth or Holy weakness"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Earth Resonance +5% Boost",
+      "text": "Earth abilities deal 5% more damage"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Enna Kros)], [Earth Resonance +5% Boost] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Dual Awoken Earth Mode I (Enna Kros)",
+      "text": "Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 2 additional times, casts Dual Sweet Coffee after casting Earth abilities (max 2 chases)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Enna Kros)], removes [Dual Awoken Earth Mode I (Enna Kros)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Earth Mode II (Enna Kros)",
+      "text": "Increases the damage/healing cap by 10000, Earth abilities trigger 1 additional time, Earth abilities deal 20%/30%/50% more damage after casting 1/2/3+ Earth abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    }
+  ],
+  "id": "23280012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280012/23280012_256.png",
+  "character": "Enna Kros",
+  "name": "Awoken Creator's Judgment",
+  "name_jp": "覚醒創造神の審判",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Enna Kros)], [Earth Resonance +5% Boost] and [Instant Cast 1] to the user",
+  "verified": true
+}

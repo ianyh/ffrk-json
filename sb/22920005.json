@@ -1,0 +1,119 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Umaro)] and [Ice Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Ice Mode I (Umaro)",
+      "text": "Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice abilities trigger 2 additional times, cast speed x2.00 for equipped Ice abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Umaro)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Ice Mode II (Umaro)",
+      "text": "Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Ice abilities, grants [100% Critical (15s)], [Raging Yeti Mode] and [ATK +50%, DEF and RES -30% (8s)] to the user after using Ice abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "100% Critical (15s)",
+      "text": "Critical chance =100%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Raging Yeti Mode",
+      "text": "Casts Dual Snowball Toss after using equipped Ice abilities, removed after casting Dual Snowball Toss three times",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Snowball Toss",
+      "text": "One single attack (2.64) capped at 99999, 100% hit rate"
+    },
+    {
+      "name": "ATK +50%, DEF and RES -30% (8s)",
+      "text": "ATK +50%, DEF and RES -30%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ice Resonance +5% Boost",
+      "text": "Ice abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Umaro)] and [Ice Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Ice Mode I (Umaro)",
+      "text": "Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice abilities trigger 2 additional times, cast speed x2.00 for equipped Ice abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Umaro)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Ice Mode II (Umaro)",
+      "text": "Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Ice abilities, grants [100% Critical (15s)], [Raging Yeti Mode] and [ATK +50%, DEF and RES -30% (8s)] to the user after using Ice abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "100% Critical (15s)",
+      "text": "Critical chance =100%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Raging Yeti Mode",
+      "text": "Casts Dual Snowball Toss after using equipped Ice abilities, removed after casting Dual Snowball Toss three times",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Snowball Toss",
+      "text": "One single attack (2.64) capped at 99999, 100% hit rate"
+    },
+    {
+      "name": "ATK +50%, DEF and RES -30% (8s)",
+      "text": "ATK +50%, DEF and RES -30%",
+      "duration": "8 seconds"
+    }
+  ],
+  "id": "22920005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22920005/22920005_256.png",
+  "character": "Umaro",
+  "name": "Awoken Clobbering Blow",
+  "name_jp": "覚醒ぼこすかどっかーん",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Umaro)] and [Ice Resonance +5% Boost] to the user",
+  "verified": true
+}

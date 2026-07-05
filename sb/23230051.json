@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Weapon Skill",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Weapon Skill",
+      "text": ""
+    }
+  ],
+  "id": "23230051",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230051/23230051_256.png",
+  "character": "Ultimecia",
+  "name": "War-Awoken Satellite Eater",
+  "name_jp": "戦醒サテライトイーター",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "VIII",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

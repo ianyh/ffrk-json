@@ -1,0 +1,72 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Lightningfall",
+      "text": "5/10 single attacks (0.80 each) if user has Lightning Garb level 0/1, grants [Instant ATB 1] to the user if user has Lightning Garb level 1, set Lightning Garb level to 0",
+      "condition": "Lightning",
+      "slot": "Attack"
+    },
+    {
+      "name": "Lightning Howl",
+      "text": "Three single attacks (0.80 each), grants Lightning Garb +1 to the user",
+      "condition": "Lightning",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Lightning 3 with Stacking",
+      "text": "Increase Attach Lightning Level by 3 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Lightningfall",
+      "text": "5/10 single attacks (0.80 each) if user has Lightning Garb level 0/1, grants [Instant ATB 1] to the user if user has Lightning Garb level 1, set Lightning Garb level to 0",
+      "condition": "Lightning",
+      "slot": "Attack"
+    },
+    {
+      "name": "Lightning Howl",
+      "text": "Three single attacks (0.80 each), grants Lightning Garb +1 to the user",
+      "condition": "Lightning",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20600022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600022/20600022_256.png",
+  "character": "Lightning",
+  "name": "Gestalt Drive",
+  "name_jp": "ゲシュタルトドライブ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Instant ATB 1] to the user",
+  "verified": true
+}

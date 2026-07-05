@@ -1,0 +1,65 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Mortal Wings Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Darkness",
+      "text": "Darkness abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Darkness abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Mortal Wings Follow-Up",
+      "text": "Casts Mortal Wings after using two Dark abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Mortal Wings",
+      "text": "Five single attacks (1.57 each), ten attacks if the user has any Doom"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Mortal Wings Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Darkness",
+      "text": "Darkness abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Darkness abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22410010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410010/22410010_256.png",
+  "character": "Cid Raines",
+  "name": "Angel of Doom",
+  "name_jp": "死天使",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Dark], [Awoken Darkness], [Damage Cap +10000] and [Mortal Wings Follow-Up] to the user",
+  "verified": true
+}

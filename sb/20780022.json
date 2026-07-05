@@ -1,0 +1,74 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Dark 20% (25s)], grants [Awoken High Roller Mode], [Damage Cap +10000], [Ton 80 Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken High Roller Mode",
+      "text": "Support and Sharpshooter abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Support and Sharpshooter abilities at ability rank 1/2/3/4/5, casts Gamer Awakening Mode after casting Support or Sharpshooter abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Gamer Awakening Mode",
+      "text": "Grants [Quick Cast 1] to all allies"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Dark 20% (25s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Ton 80 Follow-Up",
+      "text": "Casts Ton 80 after using three Support or Sharpshooter abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Ton 80",
+      "text": "Grants [Dark +50% Boost 1] to all allies"
+    },
+    {
+      "name": "Dark +50% Boost 1",
+      "text": "Dark attacks deal 50% more damage",
+      "duration": "1 turn"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Dark 20% (25s)], grants [Awoken High Roller Mode], [Damage Cap +10000], [Ton 80 Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken High Roller Mode",
+      "text": "Support and Sharpshooter abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Support and Sharpshooter abilities at ability rank 1/2/3/4/5, casts Gamer Awakening Mode after casting Support or Sharpshooter abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20780022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20780022/20780022_256.png",
+  "character": "Setzer",
+  "name": "The Blackjack Soars",
+  "name_jp": "闇を駆けるカジノ船",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [Imperil Dark 20% (25s)], grants [Awoken High Roller Mode], [Damage Cap +10000], [Ton 80 Follow-Up] to the user",
+  "verified": true
+}

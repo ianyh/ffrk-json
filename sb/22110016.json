@@ -1,0 +1,131 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000] and [Dual Awoken Leap Mode I (Freya)] to the user, grants [Dragoon Resonance +3% Boost] to all Dragoon allies"
+    },
+    {
+      "name": "Dual Awoken Leap Mode I (Freya)",
+      "text": "Dragoon abilities deal 30% more damage, Dragoon and Dancer abilities trigger 2 additional times, instant cast speed for Dancer abilities, grants [HP Stock (3000)] to all allies after using two Dragoon or Dancer abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Leap Mode II (Freya)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Leap Mode II (Freya)",
+      "text": "Instant cast speed for Dancer abilities, grants [Jump Instant Cast 1], [No Air Time 1], [Dragoon +50% Boost 1], [Damage Cap +10000 1] and [Dualcast Dragoon 1] to all allies after using a Dragoon or Dancer ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Jump Instant Cast 1",
+      "text": "Instant cast speed for Jump attacks",
+      "duration": "1 turn"
+    },
+    {
+      "name": "No Air Time 1",
+      "text": "Changes air time to 0.01 seconds",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dragoon +50% Boost 1",
+      "text": "Dragoon abilities deal 50% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Damage Cap +10000 1",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dualcast Dragoon 1",
+      "text": "Dragoon abilities trigger 1 additional time",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dragoon Resonance +3% Boost",
+      "text": "Dragoon abilities deal 3% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000] and [Dual Awoken Leap Mode I (Freya)] to the user, grants [Dragoon Resonance +3% Boost] to all Dragoon allies"
+    },
+    {
+      "name": "Dual Awoken Leap Mode I (Freya)",
+      "text": "Dragoon abilities deal 30% more damage, Dragoon and Dancer abilities trigger 2 additional times, instant cast speed for Dancer abilities, grants [HP Stock (3000)] to all allies after using two Dragoon or Dancer abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Leap Mode II (Freya)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Leap Mode II (Freya)",
+      "text": "Instant cast speed for Dancer abilities, grants [Jump Instant Cast 1], [No Air Time 1], [Dragoon +50% Boost 1], [Damage Cap +10000 1] and [Dualcast Dragoon 1] to all allies after using a Dragoon or Dancer ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Jump Instant Cast 1",
+      "text": "Instant cast speed for Jump attacks",
+      "duration": "1 turn"
+    },
+    {
+      "name": "No Air Time 1",
+      "text": "Changes air time to 0.01 seconds",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dragoon +50% Boost 1",
+      "text": "Dragoon abilities deal 50% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Damage Cap +10000 1",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dualcast Dragoon 1",
+      "text": "Dragoon abilities trigger 1 additional time",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22110016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22110016/22110016_256.png",
+  "character": "Freya",
+  "name": "Awoken Dragon Breath",
+  "name_jp": "覚醒ドラゴンブレス",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Attach Wind with Stacking], [Damage Cap +10000] and [Dual Awoken Leap Mode I (Freya)] to the user, grants [Dragoon Resonance +3% Boost] to all Dragoon allies",
+  "verified": true
+}

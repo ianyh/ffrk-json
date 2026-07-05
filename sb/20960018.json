@@ -1,0 +1,73 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Regenga], and [Instant Cast 1], grants [Synchro Mode], [Damage Cap +10000] and Lilies +2 to the user"
+    },
+    {
+      "name": "Thin Air",
+      "text": "Restores HP (105), grants [White Magic Heals +20% Boost 1] to the user",
+      "condition": "White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Afflatus Benison",
+      "text": "Grants [Stoneskin: 10%]/[Dual Blink 1] if the user has Lilies level 0/1+, causes Lilies -1 to the user",
+      "condition": "White Magic, Black Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Regenga], and [Instant Cast 1], grants [Synchro Mode], [Damage Cap +10000] and Lilies +2 to the user"
+    },
+    {
+      "name": "Thin Air",
+      "text": "Restores HP (105), grants [White Magic Heals +20% Boost 1] to the user",
+      "condition": "White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Afflatus Benison",
+      "text": "Grants [Stoneskin: 10%]/[Dual Blink 1] if the user has Lilies level 0/1+, causes Lilies -1 to the user",
+      "condition": "White Magic, Black Magic",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20960018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960018/20960018_256.png",
+  "character": "Y'shtola",
+  "name": "Scion's Afflatus",
+  "name_jp": "ハートオブサイオンズ",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "XIV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Regenga], and [Instant Cast 1], grants [Synchro Mode], [Damage Cap +10000] and Lilies +2 to the user",
+  "verified": true
+}

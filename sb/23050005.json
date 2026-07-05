@@ -1,0 +1,69 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ Tactics allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and Antilaws +1 to the user"
+    },
+    {
+      "name": "Chocobo Rush",
+      "text": "One single attack that deals 50000/99999 damage if the user has Antilaws level 0/1, causes Antilaws -1 to the user",
+      "condition": "Black Magic, Dancer",
+      "slot": "Attack"
+    },
+    {
+      "name": "Tail Wag",
+      "text": "Grants [Quick Cast 1] and [40% Damage Reduction Barrier 1], grants Antilaws +1 to the user",
+      "condition": "Black Magic, Dancer",
+      "slot": "Defend"
+    },
+    {
+      "name": "Imperil Prismatic 10% (15s)",
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], [Imperil Lightning 10% (15s)], [Imperil Earth 10% (15s)], [Imperil Wind 10% (15s)], [Imperil Water 10% (15s)], [Imperil Holy 10% (15s)], [Imperil Dark 10% (15s)] and [Imperil Poison 10% (15s)]"
+    },
+    {
+      "name": "Imperil Prismatic 30% (15s)",
+      "text": "Causes [Imperil Fire 30% (15s)], [Imperil Ice 30% (15s)], [Imperil Lightning 30% (15s)], [Imperil Earth 30% (15s)], [Imperil Wind 30% (15s)], [Imperil Water 30% (15s)], [Imperil Holy 30% (15s)], [Imperil Dark 30% (15s)] and [Imperil Poison 30% (15s)]"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ Tactics allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and Antilaws +1 to the user"
+    },
+    {
+      "name": "Chocobo Rush",
+      "text": "One single attack that deals 50000/99999 damage if the user has Antilaws level 0/1, causes Antilaws -1 to the user",
+      "condition": "Black Magic, Dancer",
+      "slot": "Attack"
+    },
+    {
+      "name": "Tail Wag",
+      "text": "Grants [Quick Cast 1] and [40% Damage Reduction Barrier 1], grants Antilaws +1 to the user",
+      "condition": "Black Magic, Dancer",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23050005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23050005/23050005_256.png",
+  "character": "Montblanc",
+  "name": "100% Wool",
+  "name_jp": "ウール100％",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 30% (15s)] if 0-3/4+ Tactics allies are alive, grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Synchro Mode] and Antilaws +1 to the user",
+  "verified": true
+}

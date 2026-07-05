@@ -1,0 +1,69 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and Lucid Power +1 to the user"
+    },
+    {
+      "name": "Demonblade Flash",
+      "text": "Six single attacks (0.90 each)",
+      "condition": "Lightning",
+      "slot": "Attack"
+    },
+    {
+      "name": "Two-Faced Blessing",
+      "text": "Grants [Quick Cast 1] if the user has Lucid Power 0, grants [Lightning Ability +50% Boost 3], [Instant Cast 3] and [Damage Cap +10000 3] if the user has Lucid Power 1, causes Lucid Power -1",
+      "condition": "Lightning",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Lightning 3 with Stacking",
+      "text": "Increase Attach Lightning Level by 3 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and Lucid Power +1 to the user"
+    },
+    {
+      "name": "Demonblade Flash",
+      "text": "Six single attacks (0.90 each)",
+      "condition": "Lightning",
+      "slot": "Attack"
+    },
+    {
+      "name": "Two-Faced Blessing",
+      "text": "Grants [Quick Cast 1] if the user has Lucid Power 0, grants [Lightning Ability +50% Boost 3], [Instant Cast 3] and [Damage Cap +10000 3] if the user has Lucid Power 1, causes Lucid Power -1",
+      "condition": "Lightning",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23100011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23100011/23100011_256.png",
+  "character": "Queen",
+  "name": "Devastate",
+  "name_jp": "デバステート",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and Lucid Power +1 to the user",
+  "verified": true
+}

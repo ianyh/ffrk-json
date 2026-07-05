@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "22170038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170038/22170038_256.png",
+  "character": "Vincent",
+  "name": "Superior Galian Slam",
+  "name_jp": "超極ガリアンスラム",
+  "tier": "XSB",
+  "sb_version": "XSB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

@@ -1,0 +1,54 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [Magical Blink 2], grants [Awoken Dancer] to the user"
+    },
+    {
+      "name": "Awoken Dancer",
+      "text": "Dancer abilities don't consume uses, cast speed x3.00 for Dancer abilities, casts Barrier Dance after using Dancer abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Barrier Dance",
+      "text": "Grants [10/15/20/30/40% Damage Reduction Barrier 1] at rank 1/2/3/4/5 of the triggering ability to all allies"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Magical Blink 2",
+      "text": "Evades the next 2 non-PHY, non-NIN attack that deals magical, fractional or missing HP damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [Magical Blink 2], grants [Awoken Dancer] to the user"
+    },
+    {
+      "name": "Awoken Dancer",
+      "text": "Dancer abilities don't consume uses, cast speed x3.00 for Dancer abilities, casts Barrier Dance after using Dancer abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20510010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20510010/20510010_256.png",
+  "character": "Selphie",
+  "name": "Selphie's Band",
+  "name_jp": "セルフィバンド",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [Magical Blink 2], grants [Awoken Dancer] to the user",
+  "verified": true
+}

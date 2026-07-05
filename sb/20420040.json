@@ -1,0 +1,56 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00 or 33.00 each) capped at 199,999 based on MAG and MND. Grants [Extra Mode], [Damage Cap +20000], [Extra Mode: Arc], [Instant ATB 1] to user. Grants [Attach Holy 3 with Secondary Stacking] or [Attach Water 3 with Secondary Stacking]."
+    },
+    {
+      "name": "Extra Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses."
+    },
+    {
+      "name": "Damage Cap +20000",
+      "text": "Increases the damage/healing cap by 20000"
+    },
+    {
+      "name": "Extra Mode: Arc",
+      "text": "Increases Holy/Water ability damage by 10/20/30/40/50% at Attach Holy/Water level 1/2/3/4/5, Holy/Water abilities trigger 1 additional time, Holy/Water abilities trigger 3 additional times (max 1), Holy/Water abilities have Quick Cast, removed if user hasn't [Extra Mode]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Attach Holy 3 with Secondary Stacking",
+      "text": "Increase Attach Holy Level by 3 and increase Max Attach Element Level by 5, up to Attach Holy 5"
+    },
+    {
+      "name": "Attach Water 3 with Secondary Stacking",
+      "text": "Increase Attach Water Level by 3 and increase Max Attach Element Level by 5, up to Attach Water 5"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (31.00 or 33.00 each) capped at 199,999 based on MAG and MND. Grants [Extra Mode], [Damage Cap +20000], [Extra Mode: Arc], [Instant ATB 1] to user. Grants [Attach Holy 3 with Secondary Stacking] or [Attach Water 3 with Secondary Stacking]."
+    }
+  ],
+  "id": "20420040",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420040/20420040_256.png",
+  "character": "Arc",
+  "name": "Superior Sacred Serpent's Prayer",
+  "name_jp": "超極聖蛇へ捧げる祈り",
+  "tier": "XSB",
+  "sb_version": "XSB1",
+  "realm": "III",
+  "elements": [
+    "Holy",
+    "Water",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "One single attack (31.00 or 33.00 each) capped at 199,999 based on MAG and MND. Grants [Extra Mode], [Damage Cap +20000], [Extra Mode: Arc], [Instant ATB 1] to user. Grants [Attach Holy 3 with Secondary Stacking] or [Attach Water 3 with Secondary Stacking].",
+  "verified": true
+}

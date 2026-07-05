@@ -1,0 +1,136 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000] and [Dual Awoken Legend Mode I (Jecht v2)], grants [X Resonance +3% Boost] to all FFX allies"
+    },
+    {
+      "name": "Dual Awoken Legend Mode I (Jecht v2)",
+      "text": "Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Fire abilities trigger 2 additional times, cast speed x2.00 for equipped Dark/Fire abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1], [Double Sphere Mode II (Fire, Dark)] and [Dual Awoken Legend Mode II (Jecht v2)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Double Sphere Mode II (Fire, Dark)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Dark with Stacking] after using a Fire/Dark ability",
+      "duration": "1 turn or 15 seconds"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Dual Awoken Legend Mode II (Jecht v2)",
+      "text": "Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for equipped Dark/Fire abilities, chases Dark/Fire ability with D: Father's Strength",
+      "duration": "1 turn"
+    },
+    {
+      "name": "D: Father's Strength",
+      "text": "Grants [PHY +30% Boost 3] to the user/[PHY +30% Boost 3] to all allies/[PHY +30% Boost (15s)] to all allies with at least 0-3/4/5 X members"
+    },
+    {
+      "name": "PHY +30% Boost 3",
+      "text": "PHY attacks deal 30% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "PHY +30% Boost (15s)",
+      "text": "PHY attacks deal 30% more damage",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "X Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is X"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000] and [Dual Awoken Legend Mode I (Jecht v2)], grants [X Resonance +3% Boost] to all FFX allies"
+    },
+    {
+      "name": "Dual Awoken Legend Mode I (Jecht v2)",
+      "text": "Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Fire abilities trigger 2 additional times, cast speed x2.00 for equipped Dark/Fire abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1], [Double Sphere Mode II (Fire, Dark)] and [Dual Awoken Legend Mode II (Jecht v2)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Double Sphere Mode II (Fire, Dark)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Dark with Stacking] after using a Fire/Dark ability",
+      "duration": "1 turn or 15 seconds"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Dual Awoken Legend Mode II (Jecht v2)",
+      "text": "Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for equipped Dark/Fire abilities, chases Dark/Fire ability with D: Father's Strength",
+      "duration": "1 turn"
+    },
+    {
+      "name": "D: Father's Strength",
+      "text": "Grants [PHY +30% Boost 3] to the user/[PHY +30% Boost 3] to all allies/[PHY +30% Boost (15s)] to all allies with at least 0-3/4/5 X members"
+    },
+    {
+      "name": "PHY +30% Boost 3",
+      "text": "PHY attacks deal 30% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "PHY +30% Boost (15s)",
+      "text": "PHY attacks deal 30% more damage",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22090030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090030/22090030_256.png",
+  "character": "Jecht",
+  "name": "Awoken Jecht's Blade",
+  "name_jp": "覚醒ジェクトブレイド",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000] and [Dual Awoken Legend Mode I (Jecht v2)], grants [X Resonance +3% Boost] to all FFX allies",
+  "verified": true
+}

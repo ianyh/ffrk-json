@@ -1,0 +1,80 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth], [Damage Cap +10000], [Awoken Stalwart], [Last Stand], [Stoneskin: 100%] and [Do-or-Die] to the user"
+    },
+    {
+      "name": "Awoken Stalwart",
+      "text": "Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Persistent Strike after using an Earth attack",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Persistent Strike",
+      "text": "Six single attacks (0.72 each)"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "KO",
+      "text": "Automatically set when HP reaches 0, prevents from acting, counts towards Game Over, persists after battle"
+    },
+    {
+      "name": "Stoneskin: 100%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Do-or-Die",
+      "text": "Removed if the character doesn't have any Stoneskin, grants [Instant Cast] and [Last Stand] when removed"
+    },
+    {
+      "name": "Instant Cast",
+      "text": "Instant cast speed",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth], [Damage Cap +10000], [Awoken Stalwart], [Last Stand], [Stoneskin: 100%] and [Do-or-Die] to the user"
+    },
+    {
+      "name": "Awoken Stalwart",
+      "text": "Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Persistent Strike after using an Earth attack",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20650014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650014/20650014_256.png",
+  "character": "Galuf",
+  "name": "Laws of Nature",
+  "name_jp": "天理人情",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth], [Damage Cap +10000], [Awoken Stalwart], [Last Stand], [Stoneskin: 100%] and [Do-or-Die] to the user",
+  "verified": true
+}

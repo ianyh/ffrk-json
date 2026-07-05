@@ -1,0 +1,130 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Nine], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Wind abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Wind abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged, jump. Grants [Wind Damage Cap +20000 (Tactical)], [Wind 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Deprotect 30% (15s)] to all enemies if there are 4+ Dragoon or FF Type-0 allies in the party, otherwise grants [Dualcast Wind 2], [Wind Instant Cast 2], and [Weakness +30% Boost 2] to all allies"
+    },
+    {
+      "name": "Wind Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Wind attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Wind 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Wind ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Deprotect 30% (15s)",
+      "text": "Increases physical damage taken by 30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dualcast Wind 2",
+      "text": "Wind abilities trigger 1 additional time",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Wind Instant Cast 2",
+      "text": "Cast speed x999999 for Wind",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Weakness +30% Boost 2",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses",
+      "duration": "2 turns"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Nine], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Wind abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Wind abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged, jump. Grants [Wind Damage Cap +20000 (Tactical)], [Wind 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Deprotect 30% (15s)] to all enemies if there are 4+ Dragoon or FF Type-0 allies in the party, otherwise grants [Dualcast Wind 2], [Wind Instant Cast 2], and [Weakness +30% Boost 2] to all allies"
+    },
+    {
+      "name": "Wind Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Wind attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Wind 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Wind ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Deprotect 30% (15s)",
+      "text": "Increases physical damage taken by 30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dualcast Wind 2",
+      "text": "Wind abilities trigger 1 additional time",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Wind Instant Cast 2",
+      "text": "Cast speed x999999 for Wind",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Weakness +30% Boost 2",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses",
+      "duration": "2 turns"
+    }
+  ],
+  "id": "22810025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810025/22810025_256.png",
+  "character": "Nine",
+  "name": "War-Awoken Deadly Lance",
+  "name_jp": "戦醒デッドリーランサー",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Nine], [ATK +500 (25s) (Tactical)] to user.",
+  "verified": true
+}

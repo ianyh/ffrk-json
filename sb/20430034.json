@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "20430034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20430034/20430034_256.png",
+  "character": "Refia",
+  "name": "Continuous Flash: Refia",
+  "name_jp": "連閃・レフィア",
+  "tier": "Glint++",
+  "sb_version": "Glint++1",
+  "realm": "III",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

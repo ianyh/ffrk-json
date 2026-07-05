@@ -1,0 +1,120 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Dark, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Kefka], [Cruelest Angel Damage Tracker] and [Cruelest Angel Level]"
+    },
+    {
+      "name": "Twin Element Mode II (Dark, Poison)",
+      "text": "Grants [Attach Dark with Stacking]/[Attach Poison with Stacking] after using a Dark/Poison ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Kefka",
+      "text": "Keeps track of the number of uses of Cruelest Angel (0~2), removed after using Cruelest Angel two times"
+    },
+    {
+      "name": "Cruelest Angel Damage Tracker",
+      "text": "Increases Cruelest Angel level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Kefka]"
+    },
+    {
+      "name": "Cruelest Angel Level",
+      "text": "Keeps track of Cruelest Angel level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Kefka]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode II (Dark, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Kefka], [Cruelest Angel Damage Tracker] and [Cruelest Angel Level]"
+    },
+    {
+      "name": "Twin Element Mode II (Dark, Poison)",
+      "text": "Grants [Attach Dark with Stacking]/[Attach Poison with Stacking] after using a Dark/Poison ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Kefka",
+      "text": "Keeps track of the number of uses of Cruelest Angel (0~2), removed after using Cruelest Angel two times"
+    },
+    {
+      "name": "Cruelest Angel Damage Tracker",
+      "text": "Increases Cruelest Angel level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Kefka]"
+    },
+    {
+      "name": "Cruelest Angel Level",
+      "text": "Keeps track of Cruelest Angel level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Kefka]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode II (Dark, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Kefka], [Cruelest Angel Damage Tracker] and [Cruelest Angel Level]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode II (Dark, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Kefka], [Cruelest Angel Damage Tracker] and [Cruelest Angel Level]"
+    },
+    {
+      "name": "Twin Element Mode II (Dark, Poison)",
+      "text": "Grants [Attach Dark with Stacking]/[Attach Poison with Stacking] after using a Dark/Poison ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Kefka",
+      "text": "Keeps track of the number of uses of Cruelest Angel (0~2), removed after using Cruelest Angel two times"
+    },
+    {
+      "name": "Cruelest Angel Damage Tracker",
+      "text": "Increases Cruelest Angel level by 1 after dealing 100001 or 300001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Kefka]"
+    },
+    {
+      "name": "Cruelest Angel Level",
+      "text": "Keeps track of Cruelest Angel level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Kefka]"
+    }
+  ],
+  "id": "22070016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22070016/22070016_256.png",
+  "character": "Kefka",
+  "name": "Cruelest Angel (Engaged)",
+  "name_jp": "こころないてんし",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Twin Element Mode II (Dark, Poison)], [Damage Cap +10000], [Arcane Dyad Empowered: Kefka], [Cruelest Angel Damage Tracker] and [Cruelest Angel Level]",
+  "verified": true
+}

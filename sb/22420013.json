@@ -1,0 +1,68 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Hydrosaber",
+      "text": "Six single attacks (0.90 each), grants [Damage Cap +10000 1] to the user",
+      "condition": "Water",
+      "slot": "Attack"
+    },
+    {
+      "name": "Rising Sword",
+      "text": "Grants [Quick Cast 2] and [Spellblade +50% Boost 2]",
+      "condition": "Spellblade",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Water 3 with Stacking",
+      "text": "Increase Attach Water Level by 3 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Hydrosaber",
+      "text": "Six single attacks (0.90 each), grants [Damage Cap +10000 1] to the user",
+      "condition": "Water",
+      "slot": "Attack"
+    },
+    {
+      "name": "Rising Sword",
+      "text": "Grants [Quick Cast 2] and [Spellblade +50% Boost 2]",
+      "condition": "Spellblade",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22420013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22420013/22420013_256.png",
+  "character": "Paine",
+  "name": "Liquid Steel Throttle",
+  "name_jp": "斬騎・アクアセイバー",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user",
+  "verified": true
+}

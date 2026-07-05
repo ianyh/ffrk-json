@@ -1,0 +1,111 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Golbez)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Dark Mode I (Golbez)",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Dark abilities after using 1/2/3+ Dark abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Golbez II)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Dark Mode II (Golbez II)",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, cast speed xx9999999 for Dark abilities, casts Dual Dark Curse after using a Dark ability"
+    },
+    {
+      "name": "Dual Dark Curse",
+      "text": "Causes [Imperil Dark 20% (25s)], grants [Quick Cast 2] to the user"
+    },
+    {
+      "name": "Imperil Dark 20% (25s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00",
+      "duration": "2 turns"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dark Resonance +5% Boost",
+      "text": "Dark abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Golbez)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Dark Mode I (Golbez)",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Dark abilities after using 1/2/3+ Dark abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Golbez II)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Dark Mode II (Golbez II)",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, cast speed xx9999999 for Dark abilities, casts Dual Dark Curse after using a Dark ability"
+    },
+    {
+      "name": "Dual Dark Curse",
+      "text": "Causes [Imperil Dark 20% (25s)], grants [Quick Cast 2] to the user"
+    },
+    {
+      "name": "Imperil Dark 20% (25s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00",
+      "duration": "2 turns"
+    }
+  ],
+  "id": "20630028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20630028/20630028_256.png",
+  "character": "Golbez",
+  "name": "Awoken Twin Moon",
+  "name_jp": "覚醒双月",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "IV",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Golbez)] and [Dark Resonance +5% Boost] to the user",
+  "verified": true
+}

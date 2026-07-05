@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "23230050",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23230050/23230050_256.png",
+  "character": "Ultimecia",
+  "name": "Superior End of Memory",
+  "name_jp": "超極エンドオブメモリー",
+  "tier": "XSB",
+  "sb_version": "XSB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

@@ -1,0 +1,85 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Attach Lightning], [Overflow Lightning Radiant Shield: 75%], [Awoken Lightning], [Damage Cap +10000], [Quick Cast] and [Electrostatic Mode] to the user"
+    },
+    {
+      "name": "Awoken Lightning",
+      "text": "Lightning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Overflow Lightning Radiant Shield: 75%",
+      "text": "Returns 75% of the damage taken to the attacker as Lightning damage capped at 99999",
+      "duration": "30 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Electrostatic Mode",
+      "text": "Grants [Overflow Lightning Radiant Shield: 125%]/[Overflow Lightning Radiant Shield: 200%]/[Overflow Lightning Radiant Shield: 300%] after using 1/2/3+ Lightning attacks",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Overflow Lightning Radiant Shield: 125%",
+      "text": "Returns 125% of the damage taken to the attacker as Lightning damage capped at 99999",
+      "duration": "30 seconds"
+    },
+    {
+      "name": "Overflow Lightning Radiant Shield: 200%",
+      "text": "Returns 200% of the damage taken to the attacker as Lightning damage capped at 99999",
+      "duration": "30 seconds"
+    },
+    {
+      "name": "Overflow Lightning Radiant Shield: 300%",
+      "text": "Returns 300% of the damage taken to the attacker as Lightning damage capped at 99999",
+      "duration": "30 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Attach Lightning], [Overflow Lightning Radiant Shield: 75%], [Awoken Lightning], [Damage Cap +10000], [Quick Cast] and [Electrostatic Mode] to the user"
+    },
+    {
+      "name": "Awoken Lightning",
+      "text": "Lightning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20920012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920012/20920012_256.png",
+  "character": "Reno",
+  "name": "Electro Rod Mark II",
+  "name_jp": "電気ロッド・マーク２",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Attach Lightning], [Overflow Lightning Radiant Shield: 75%], [Awoken Lightning], [Damage Cap +10000], [Quick Cast] and [Electrostatic Mode] to the user",
+  "verified": true
+}

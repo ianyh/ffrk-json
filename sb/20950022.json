@@ -1,0 +1,58 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target hybrid attacks (0.60/1.50 each), Sync Mode, Cap Break Level 1, Quad Element Mode III & No Mercy to user\nNo Mercy: After using Defend Sync abilities under 0/1/2 Heavy Charge, grants [Cap Break Level 1/2/2 & Holy/Earth/Wind/Poison Ability Damage +15/30/30%] for 2 turns to user, -2 Heavy Charge\nQuad Element Mode III: Lv.2 En-Holy Stack, Lv.2 En-Earth Stack, Lv.2 En-Wind Stack or Lv.2 En-Poison Stack"
+    },
+    {
+      "name": "Brutal Shell",
+      "text": "Five single hybrid attacks (0.90 or 3.05 each) followed by one single ranged hybrid attack (4.71 or 16.00) that ignores DEF or RES",
+      "condition": "Holy, Earth, Wind, Poison",
+      "slot": "Attack"
+    },
+    {
+      "name": "Thunder Bullet",
+      "text": "One single ranged hybrid attack (0.90 or 3.05), grants [Quick Cast 2] to the user",
+      "condition": "Holy, Earth, Wind, Poison",
+      "slot": "Defend"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "15 single-target hybrid attacks (0.60/1.50 each), Sync Mode, Cap Break Level 1, Quad Element Mode III & No Mercy to user\nNo Mercy: After using Defend Sync abilities under 0/1/2 Heavy Charge, grants [Cap Break Level 1/2/2 & Holy/Earth/Wind/Poison Ability Damage +15/30/30%] for 2 turns to user, -2 Heavy Charge\nQuad Element Mode III: Lv.2 En-Holy Stack, Lv.2 En-Earth Stack, Lv.2 En-Wind Stack or Lv.2 En-Poison Stack"
+    },
+    {
+      "name": "Brutal Shell",
+      "text": "Five single hybrid attacks (0.90 or 3.05 each) followed by one single ranged hybrid attack (4.71 or 16.00) that ignores DEF or RES",
+      "condition": "Holy, Earth, Wind, Poison",
+      "slot": "Attack"
+    },
+    {
+      "name": "Thunder Bullet",
+      "text": "One single ranged hybrid attack (0.90 or 3.05), grants [Quick Cast 2] to the user",
+      "condition": "Holy, Earth, Wind, Poison",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20950022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950022/20950022_256.png",
+  "character": "Thancred",
+  "name": "Double Down",
+  "name_jp": "ダブルダウン",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "XIV",
+  "elements": [
+    "Holy",
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "15 single-target hybrid attacks (0.60/1.50 each), Sync Mode, Cap Break Level 1, Quad Element Mode III & No Mercy to user\nNo Mercy: After using Defend Sync abilities under 0/1/2 Heavy Charge, grants [Cap Break Level 1/2/2 & Holy/Earth/Wind/Poison Ability Damage +15/30/30%] for 2 turns to user, -2 Heavy Charge\nQuad Element Mode III: Lv.2 En-Holy Stack, Lv.2 En-Earth Stack, Lv.2 En-Wind Stack or Lv.2 En-Poison Stack",
+  "verified": false
+}

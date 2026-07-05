@@ -1,0 +1,64 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [Haste], grants [Awoken Fickle Faerie] and [Fickle Aid Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Fickle Faerie",
+      "text": "Black Magic and Dancer abilities don't consume uses, cast speed x3.00 for Black Magic and Dancer abilities, grants [HP Stock (1500)] to all allies after using Black Magic or Dancer abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "HP Stock (1500)",
+      "text": "Automatically restores HP, up to 1500 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "KO",
+      "text": "Automatically set when HP reaches 0, prevents from acting, counts towards Game Over, persists after battle"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Fickle Aid Follow-Up",
+      "text": "Grants [Weakness +50% Boost 1] to all allies after using two Black Magic or Dancer abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Weakness +50% Boost 1",
+      "text": "Increases damage dealt by 50% when exploiting elemental weaknesses",
+      "duration": "1 turn"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [Haste], grants [Awoken Fickle Faerie] and [Fickle Aid Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Fickle Faerie",
+      "text": "Black Magic and Dancer abilities don't consume uses, cast speed x3.00 for Black Magic and Dancer abilities, grants [HP Stock (1500)] to all allies after using Black Magic or Dancer abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22290008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290008/22290008_256.png",
+  "character": "Echo",
+  "name": "Voice of Light",
+  "name_jp": "光の声",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), grants [Last Stand] and [Haste], grants [Awoken Fickle Faerie] and [Fickle Aid Follow-Up] to the user",
+  "verified": true
+}

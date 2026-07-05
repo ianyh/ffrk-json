@@ -1,0 +1,79 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Physical High Quick Cast 3], [Last Stand] and [Haste], grants [Awoken Support] to the user"
+    },
+    {
+      "name": "Awoken Support",
+      "text": "White Magic and Monk abilities don't consume uses, White Magic and Monk abilities trigger 1 additional time, grants [10% Damage Reduction Barrier 1]/[15% Damage Reduction Barrier 1]/[20% Damage Reduction Barrier 1]/[30% Damage Reduction Barrier 1]/[40% Damage Reduction Barrier 1] to all allies after using White Magic or Monk abilities at rank 1/2/3/4/5",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "10% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 10% for the next attack"
+    },
+    {
+      "name": "15% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 15% for the next attack"
+    },
+    {
+      "name": "20% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 20% for the next attack"
+    },
+    {
+      "name": "30% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 30% for the next attack"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Physical High Quick Cast 3",
+      "text": "Cast speed x3.00 for PHY attacks",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "KO",
+      "text": "Automatically set when HP reaches 0, prevents from acting, counts towards Game Over, persists after battle"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Physical High Quick Cast 3], [Last Stand] and [Haste], grants [Awoken Support] to the user"
+    },
+    {
+      "name": "Awoken Support",
+      "text": "White Magic and Monk abilities don't consume uses, White Magic and Monk abilities trigger 1 additional time, grants [10% Damage Reduction Barrier 1]/[15% Damage Reduction Barrier 1]/[20% Damage Reduction Barrier 1]/[30% Damage Reduction Barrier 1]/[40% Damage Reduction Barrier 1] to all allies after using White Magic or Monk abilities at rank 1/2/3/4/5",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22910005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22910005/22910005_256.png",
+  "character": "Iris",
+  "name": "Choco Tailwind",
+  "name_jp": "チョコエール",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Physical High Quick Cast 3], [Last Stand] and [Haste], grants [Awoken Support] to the user",
+  "verified": true
+}

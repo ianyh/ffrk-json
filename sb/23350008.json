@@ -1,0 +1,69 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)] and [ATK, DEF, MAG and RES +30% (25s)], grants [Synchro Mode] and [Cheering Mode] to the user"
+    },
+    {
+      "name": "Repeating Samba",
+      "text": "Causes [DEF and RES -50% (15s)]/[ATK and MAG -50% (15s)] every 1+2n/2+2n activations, grants [Quick Cast 1] to the user",
+      "condition": "Celerity, Dancer",
+      "slot": "Attack"
+    },
+    {
+      "name": "Healing Samba",
+      "text": "Restores 1500 HP, grants [Quick Cast 1] to the user",
+      "condition": "Celerity, Dancer",
+      "slot": "Defend"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Cheering Mode",
+      "text": "Grants [Dualcast Dancer 1] to the character and [Dualcast Prismatic 1] to all other allies after using Repeating Samba, removed after triggering"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [HP Stock (3000)] and [ATK, DEF, MAG and RES +30% (25s)], grants [Synchro Mode] and [Cheering Mode] to the user"
+    },
+    {
+      "name": "Repeating Samba",
+      "text": "Causes [DEF and RES -50% (15s)]/[ATK and MAG -50% (15s)] every 1+2n/2+2n activations, grants [Quick Cast 1] to the user",
+      "condition": "Celerity, Dancer",
+      "slot": "Attack"
+    },
+    {
+      "name": "Healing Samba",
+      "text": "Restores 1500 HP, grants [Quick Cast 1] to the user",
+      "condition": "Celerity, Dancer",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23350008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23350008/23350008_256.png",
+  "character": "Lilisette",
+  "name": "Rousing Samba",
+  "name_jp": "ラウジングサンバ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [HP Stock (3000)] and [ATK, DEF, MAG and RES +30% (25s)], grants [Synchro Mode] and [Cheering Mode] to the user",
+  "verified": true
+}

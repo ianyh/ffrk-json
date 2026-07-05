@@ -1,0 +1,55 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [DEF, RES and MND +50% (25s)], grants [Awoken Love] and [Soul Break Gauge +250] to the user"
+    },
+    {
+      "name": "Awoken Love",
+      "text": "White Magic abilities don't consume uses, cast speed x3.00 for White Magic abilities, casts Wave of Mending after using White Magic abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "KO",
+      "text": "Automatically set when HP reaches 0, prevents from acting, counts towards Game Over, persists after battle"
+    },
+    {
+      "name": "DEF, RES and MND +50% (25s)",
+      "text": "DEF, RES and MND +50%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [DEF, RES and MND +50% (25s)], grants [Awoken Love] and [Soul Break Gauge +250] to the user"
+    },
+    {
+      "name": "Awoken Love",
+      "text": "White Magic abilities don't consume uses, cast speed x3.00 for White Magic abilities, casts Wave of Mending after using White Magic abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22390010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22390010/22390010_256.png",
+  "character": "Ovelia",
+  "name": "Fleeting Thoughts",
+  "name_jp": "儚き想い",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [Last Stand] and [DEF, RES and MND +50% (25s)], grants [Awoken Love] and [Soul Break Gauge +250] to the user",
+  "verified": true
+}

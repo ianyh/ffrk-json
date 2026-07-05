@@ -1,0 +1,100 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Switch Draw Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Sorceress's Knight Mode I (Seifer)] and [Dark/Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Sorceress's Knight Mode I (Seifer)",
+      "text": "Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Fire abilities trigger 2 additional times, critical chance =25%/50%/75%/100% for equipped Dark/Fire abilities after casting 1/2/3/4+ Dark/Fire abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sorceress's Knight Mode II (Seifer)], removes [Dual Awoken Sorceress's Knight Mode I (Seifer)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Sorceress's Knight Mode II (Seifer)",
+      "text": "Increases the damage/healing cap by 20000, Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Fire abilities trigger 1 additional time, cast speed x999999 for Dark/Fire abilities, casts Dual Fire Cross after using Dark/Fire attacks, grants [Instant Cast 1] to all allies after casting Dual Fire Cross three times",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Fire Cross",
+      "text": "Four single attacks (0.73 each), 100% hit rate"
+    },
+    {
+      "name": "Switch Draw Mode II (Fire, Dark)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Dark with Stacking] after using a Fire/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dark/Fire Resonance +5% Boost",
+      "text": "Dark and Fire abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Switch Draw Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Sorceress's Knight Mode I (Seifer)] and [Dark/Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Sorceress's Knight Mode I (Seifer)",
+      "text": "Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Fire abilities trigger 2 additional times, critical chance =25%/50%/75%/100% for equipped Dark/Fire abilities after casting 1/2/3/4+ Dark/Fire abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sorceress's Knight Mode II (Seifer)], removes [Dual Awoken Sorceress's Knight Mode I (Seifer)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Sorceress's Knight Mode II (Seifer)",
+      "text": "Increases the damage/healing cap by 20000, Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Fire abilities trigger 1 additional time, cast speed x999999 for Dark/Fire abilities, casts Dual Fire Cross after using Dark/Fire attacks, grants [Instant Cast 1] to all allies after casting Dual Fire Cross three times",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Fire Cross",
+      "text": "Four single attacks (0.73 each), 100% hit rate"
+    }
+  ],
+  "id": "20820020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820020/20820020_256.png",
+  "character": "Seifer",
+  "name": "Awoken Carnage Cut",
+  "name_jp": "覚醒修羅斬り",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Switch Draw Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Sorceress's Knight Mode I (Seifer)] and [Dark/Fire Resonance +5% Boost] to the user",
+  "verified": true
+}

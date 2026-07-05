@@ -1,0 +1,44 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Crystal Force I",
+      "text": ""
+    },
+    {
+      "name": "Crystal Force II",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Crystal Force I",
+      "text": ""
+    },
+    {
+      "name": "Crystal Force II",
+      "text": ""
+    }
+  ],
+  "id": "20620044",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620044/20620044_256.png",
+  "character": "Eiko",
+  "name": "Radiant Love Letter Scheme",
+  "name_jp": "耀光ラブレター大作戦",
+  "tier": "CASB",
+  "sb_version": "CASB2",
+  "realm": "IX",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "20620043",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620043/20620043_256.png",
+  "character": "Eiko",
+  "name": "Starry Trance Glitter",
+  "name_jp": "極星トランスグリッター",
+  "tier": "MASB",
+  "sb_version": "MASB2",
+  "realm": "IX",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

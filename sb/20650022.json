@@ -1,0 +1,111 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Galuf)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Earth Mode I (Galuf)",
+      "text": "Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 2 additional times, casts Dual Dawn Strikes after using two Earth abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Last Stand], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Galuf)] to the user, removes [Dual Awoken Earth Mode I (Galuf)] from the user"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "KO",
+      "text": "Automatically set when HP reaches 0, prevents from acting, counts towards Game Over, persists after battle"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Earth Mode II (Galuf)",
+      "text": "Increases the damage/healing cap by 10000, Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 1 additional time, cast speed x2.00, critical chance =100%, grants [Critical Damage +50% 1] to all allies after using Earth abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Critical Damage +50% 1",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Dawn Strikes",
+      "text": "Four single attacks (1.02 each), 100% hit rate, causes [Imperil Earth 10% (15s)]"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Earth Resonance +5% Boost",
+      "text": "Earth abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Galuf)] and [Earth Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Earth Mode I (Galuf)",
+      "text": "Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 2 additional times, casts Dual Dawn Strikes after using two Earth abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Last Stand], grants [Instant ATB 1] and [Dual Awoken Earth Mode II (Galuf)] to the user, removes [Dual Awoken Earth Mode I (Galuf)] from the user"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "KO",
+      "text": "Automatically set when HP reaches 0, prevents from acting, counts towards Game Over, persists after battle"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Earth Mode II (Galuf)",
+      "text": "Increases the damage/healing cap by 10000, Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 1 additional time, cast speed x2.00, critical chance =100%, grants [Critical Damage +50% 1] to all allies after using Earth abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Critical Damage +50% 1",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "20650022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20650022/20650022_256.png",
+  "character": "Galuf",
+  "name": "Awoken Laws of Nature",
+  "name_jp": "覚醒天理人情",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I (Galuf)] and [Earth Resonance +5% Boost] to the user",
+  "verified": true
+}

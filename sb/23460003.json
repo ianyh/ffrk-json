@@ -1,0 +1,68 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand] and [Haste], grants [Awoken Water God], [Damage Cap +10000] and [Quick Cast] to the user"
+    },
+    {
+      "name": "Awoken Water God",
+      "text": "Water abilities don't consume uses, Water abilities, casts Oracle's Prayer after using two Water abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Oracle's Prayer",
+      "text": "Five single attacks (2.72/2.77/2.82/2.87/2.92 each), restores HP (10/15/25/35/45) to all allies at rank 1/2/3/4/5 of the triggering ability"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "KO",
+      "text": "Automatically set when HP reaches 0, prevents from acting, counts towards Game Over, persists after battle"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand] and [Haste], grants [Awoken Water God], [Damage Cap +10000] and [Quick Cast] to the user"
+    },
+    {
+      "name": "Awoken Water God",
+      "text": "Water abilities don't consume uses, Water abilities, casts Oracle's Prayer after using two Water abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "23460003",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460003/23460003_256.png",
+  "character": "Lunafreya",
+  "name": "Oracle's Benevolence",
+  "name_jp": "神凪の慈愛",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand] and [Haste], grants [Awoken Water God], [Damage Cap +10000] and [Quick Cast] to the user",
+  "verified": true
+}

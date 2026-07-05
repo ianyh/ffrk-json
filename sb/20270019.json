@@ -1,0 +1,72 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Chain of Arms Mode] to the user"
+    },
+    {
+      "name": "Swordslash",
+      "text": "4/6/8 single attacks (0.90 each) scaling with activations",
+      "condition": "Ice",
+      "slot": "Attack"
+    },
+    {
+      "name": "Gelid Wand",
+      "text": "Grants [Ice Ability +30% Boost 3]",
+      "condition": "Ice",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Ice 3 with Stacking",
+      "text": "Increase Attach Ice Level by 3 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Chain of Arms Mode",
+      "text": "Ice abilities trigger 1 additional time, instant cast speed for Ice abilities, casts Plummet after using three Ice abilities, removed after triggering"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Chain of Arms Mode] to the user"
+    },
+    {
+      "name": "Swordslash",
+      "text": "4/6/8 single attacks (0.90 each) scaling with activations",
+      "condition": "Ice",
+      "slot": "Attack"
+    },
+    {
+      "name": "Gelid Wand",
+      "text": "Grants [Ice Ability +30% Boost 3]",
+      "condition": "Ice",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20270019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20270019/20270019_256.png",
+  "character": "Firion",
+  "name": "Blizzard Lord",
+  "name_jp": "ロードオブブリザード",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "II",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Chain of Arms Mode] to the user",
+  "verified": true
+}

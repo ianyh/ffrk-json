@@ -1,0 +1,120 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Double Crystarium Mode II (Holy, Dark)], [Damage Cap +10000], [Dual Awoken Seraph Mode I (Cid Raines)] and [Dark/Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Seraph Mode I (Cid Raines)",
+      "text": "Dark and Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Holy abilities trigger 2 additional times, casts Dual Seraph-Wing Buffet after using equipped Dark or Holy abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Seraph Mode II (Cid Raines)], removes [Dual Awoken Seraph Mode I (Cid Raines)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Seraph Mode II (Cid Raines)",
+      "text": "Increase the damage/healing cap by 10000, Dark and Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Holy abilities trigger 1 additional time, grants [Dark/Holy Ability +10% Boost 1]/[Dark/Holy Ability +20% Boost 1]/[Dark/Holy Ability +30% Boost 1] to all allies after using 1/2/3+ Dark or Holy abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dark/Holy Ability +10% Boost 1",
+      "text": "Dark and Holy abilities deal 10% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dark/Holy Ability +20% Boost 1",
+      "text": "Dark and Holy abilities deal 20% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dark/Holy Ability +30% Boost 1",
+      "text": "Dark and Holy abilities deal 30% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Seraph-Wing Buffet",
+      "text": "Two single attacks (4.14 each), grants [Quick Cast 1] to the user, grants [Dark/Holy Ability +30% Boost 1] to the user if the user's Doom timer is below 20, causes [Doom Timer -1] to the user if the user's Doom timer is below 20"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Double Crystarium Mode II (Holy, Dark)",
+      "text": "Grants [Attach Holy with Stacking]/[Attach Dark with Stacking] after using a Holy/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dark/Holy Resonance +5% Boost",
+      "text": "Dark and Holy abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Double Crystarium Mode II (Holy, Dark)], [Damage Cap +10000], [Dual Awoken Seraph Mode I (Cid Raines)] and [Dark/Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Seraph Mode I (Cid Raines)",
+      "text": "Dark and Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Holy abilities trigger 2 additional times, casts Dual Seraph-Wing Buffet after using equipped Dark or Holy abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Seraph Mode II (Cid Raines)], removes [Dual Awoken Seraph Mode I (Cid Raines)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Seraph Mode II (Cid Raines)",
+      "text": "Increase the damage/healing cap by 10000, Dark and Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Holy abilities trigger 1 additional time, grants [Dark/Holy Ability +10% Boost 1]/[Dark/Holy Ability +20% Boost 1]/[Dark/Holy Ability +30% Boost 1] to all allies after using 1/2/3+ Dark or Holy abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dark/Holy Ability +10% Boost 1",
+      "text": "Dark and Holy abilities deal 10% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dark/Holy Ability +20% Boost 1",
+      "text": "Dark and Holy abilities deal 20% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dark/Holy Ability +30% Boost 1",
+      "text": "Dark and Holy abilities deal 30% more damage",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22410015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410015/22410015_256.png",
+  "character": "Cid Raines",
+  "name": "Awoken Seraph's Wing",
+  "name_jp": "覚醒熾天使の翼",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Double Crystarium Mode II (Holy, Dark)], [Damage Cap +10000], [Dual Awoken Seraph Mode I (Cid Raines)] and [Dark/Holy Resonance +5% Boost] to the user",
+  "verified": true
+}

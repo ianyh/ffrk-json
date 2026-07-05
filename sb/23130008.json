@@ -1,0 +1,72 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Icy Vessel Mode] to the user"
+    },
+    {
+      "name": "Glass Dance",
+      "text": "4/8 single attacks (3.05 each) if the user hasn't/has Icy Vessel, grants [Quick Cast 1] if the user hasn't Icy Vessel",
+      "condition": "Ice",
+      "slot": "Attack"
+    },
+    {
+      "name": "Heavenly Strike",
+      "text": "One single attack (16.40) capped at 99999, grants [Quick Cast 1], restores 1 consumed ability use to the user",
+      "condition": "Ice",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Ice 3 with Stacking",
+      "text": "Increase Attach Ice Level by 3 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Icy Vessel Mode",
+      "text": "Grants [Icy Vessel] after using three of Glass Dance or Heavenly Strike, removed after triggering"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Icy Vessel Mode] to the user"
+    },
+    {
+      "name": "Glass Dance",
+      "text": "4/8 single attacks (3.05 each) if the user hasn't/has Icy Vessel, grants [Quick Cast 1] if the user hasn't Icy Vessel",
+      "condition": "Ice",
+      "slot": "Attack"
+    },
+    {
+      "name": "Heavenly Strike",
+      "text": "One single attack (16.40) capped at 99999, grants [Quick Cast 1], restores 1 consumed ability use to the user",
+      "condition": "Ice",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23130008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23130008/23130008_256.png",
+  "character": "Ysayle",
+  "name": "Oblivion (XIV)",
+  "name_jp": "忘却の彼方",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIV",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Ice 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Icy Vessel Mode] to the user",
+  "verified": true
+}

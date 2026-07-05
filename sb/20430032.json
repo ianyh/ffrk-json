@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Weapon Skill",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Weapon Skill",
+      "text": ""
+    }
+  ],
+  "id": "20430032",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20430032/20430032_256.png",
+  "character": "Refia",
+  "name": "War-Awoken Scorching Affection",
+  "name_jp": "戦醒灼熱の愛情",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "III",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

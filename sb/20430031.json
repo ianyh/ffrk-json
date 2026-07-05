@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "20430031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20430031/20430031_256.png",
+  "character": "Refia",
+  "name": "Superior Explosive Forge",
+  "name_jp": "超極鍛拳爆噴火",
+  "tier": "XSB",
+  "sb_version": "XSB1",
+  "realm": "III",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

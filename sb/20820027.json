@@ -1,0 +1,70 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Instant Cast 1] to all allies, grants [Soul Break Gauge +500], [Damage Cap +10000] and [Awoken Young Revolutionary Mode] to the user"
+    },
+    {
+      "name": "Awoken Young Revolutionary Mode",
+      "text": "Dark and Fire abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Dark and Fire abilities at ability rank 1/2/3/4/5, casts Delusional Sword after using a Dark or Fire ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Delusional Sword",
+      "text": "Six single attacks (0.71 each) with 100% hit rate, causes [Imperil Dark 10% (15s)] and [Imperil Fire 10% (15s)] every other activation"
+    },
+    {
+      "name": "Imperil Dark 10% (15s)",
+      "text": "Dark Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Fire 10% (15s)",
+      "text": "Fire Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Soul Break Gauge +500",
+      "text": "Grants 500 SB points when set"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Instant Cast 1] to all allies, grants [Soul Break Gauge +500], [Damage Cap +10000] and [Awoken Young Revolutionary Mode] to the user"
+    },
+    {
+      "name": "Awoken Young Revolutionary Mode",
+      "text": "Dark and Fire abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Dark and Fire abilities at ability rank 1/2/3/4/5, casts Delusional Sword after using a Dark or Fire ability",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20820027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20820027/20820027_256.png",
+  "character": "Seifer",
+  "name": "Maneater Cut",
+  "name_jp": "羅刹斬り",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Instant Cast 1] to all allies, grants [Soul Break Gauge +500], [Damage Cap +10000] and [Awoken Young Revolutionary Mode] to the user",
+  "verified": true
+}

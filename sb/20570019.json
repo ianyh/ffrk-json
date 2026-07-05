@@ -1,0 +1,74 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Steiner Trance] to the user"
+    },
+    {
+      "name": "Elemental Break",
+      "text": "Six single attacks (0.90 each), grants [40% Damage Reduction Barrier 1] to all allies",
+      "condition": "Spellblade",
+      "slot": "Attack"
+    },
+    {
+      "name": "Elemental Hazard",
+      "text": "One single attack (6.00) capped at 99999",
+      "condition": "Spellblade",
+      "slot": "Defend"
+    },
+    {
+      "name": "Tri-Element Mode III (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Ice 2 with Stacking]/[Attach Lightning 2 with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Steiner Trance",
+      "text": "ATK and DEF +25%, Fire, Ice, Lightning, Earth, Wind, Water, Holy, Dark and Poison attacks deal 25% more damage"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Steiner Trance] to the user"
+    },
+    {
+      "name": "Elemental Break",
+      "text": "Six single attacks (0.90 each), grants [40% Damage Reduction Barrier 1] to all allies",
+      "condition": "Spellblade",
+      "slot": "Attack"
+    },
+    {
+      "name": "Elemental Hazard",
+      "text": "One single attack (6.00) capped at 99999",
+      "condition": "Spellblade",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20570019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570019/20570019_256.png",
+  "character": "Steiner",
+  "name": "Double Shock",
+  "name_jp": "W・ショック",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IX",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Tri-Element Mode III (Fire, Ice, Lightning)], [Synchro Mode], [Damage Cap +10000] and [Steiner Trance] to the user",
+  "verified": true
+}

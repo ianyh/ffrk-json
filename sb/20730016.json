@@ -1,0 +1,119 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (Fusoya)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Highborn Mode I (Fusoya)",
+      "text": "Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Holy abilities after using 1/2/3+ Holy abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Regenga], grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (Fusoya)] to the user, removes [Dual Awoken Highborn Mode I (Fusoya)] from the user"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds",
+      "duration": "4 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Highborn Mode II (Fusoya)",
+      "text": "Increases the damage/healing cap by 10000, Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 1 additional time, grants [HP Stock (1000)]/[HP Stock (2000)]/[HP Stock (3000)] to all allies after using 1/2/3+ Holy attacks",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "HP Stock (1000)",
+      "text": "Automatically restores HP, up to 1000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "HP Stock (2000)",
+      "text": "Automatically restores HP, up to 2000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Holy Resonance +5% Boost",
+      "text": "Holy abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (Fusoya)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Highborn Mode I (Fusoya)",
+      "text": "Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Holy abilities after using 1/2/3+ Holy abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Regenga], grants [Instant ATB 1] and [Dual Awoken Highborn Mode II (Fusoya)] to the user, removes [Dual Awoken Highborn Mode I (Fusoya)] from the user"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds",
+      "duration": "4 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Highborn Mode II (Fusoya)",
+      "text": "Increases the damage/healing cap by 10000, Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 1 additional time, grants [HP Stock (1000)]/[HP Stock (2000)]/[HP Stock (3000)] to all allies after using 1/2/3+ Holy attacks",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "HP Stock (1000)",
+      "text": "Automatically restores HP, up to 1000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "HP Stock (2000)",
+      "text": "Automatically restores HP, up to 2000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
+    }
+  ],
+  "id": "20730016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20730016/20730016_256.png",
+  "character": "Fusoya",
+  "name": "Awoken Lunarian Prayer",
+  "name_jp": "覚醒月の民の祈祷",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "WHT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Highborn Mode I (Fusoya)] and [Holy Resonance +5% Boost] to the user",
+  "verified": true
+}

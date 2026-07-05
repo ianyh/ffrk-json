@@ -1,0 +1,58 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand] and [Haste], grants [Awoken Magika] to the user"
+    },
+    {
+      "name": "Awoken Magika",
+      "text": "White Magic and Bard abilities don't consume uses, cast speed x3.00 for White Magic and Bard abilities, casts Magika Cantus after using a White Magic or Bard ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Magika Cantus",
+      "text": "Restores HP (10/15/25/35/45) at rank 1/2/3/4/5 of the triggering ability, damages undead"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "KO",
+      "text": "Automatically set when HP reaches 0, prevents from acting, counts towards Game Over, persists after battle"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand] and [Haste], grants [Awoken Magika] to the user"
+    },
+    {
+      "name": "Awoken Magika",
+      "text": "White Magic and Bard abilities don't consume uses, cast speed x3.00 for White Magic and Bard abilities, casts Magika Cantus after using a White Magic or Bard ability",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "23210006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23210006/23210006_256.png",
+  "character": "Elarra",
+  "name": "Magika Phoenix",
+  "name_jp": "マギカ・ポエニクス",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Core",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Last Stand] and [Haste], grants [Awoken Magika] to the user",
+  "verified": true
+}

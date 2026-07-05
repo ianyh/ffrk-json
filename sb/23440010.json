@@ -1,0 +1,99 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF and MAG -50% (25s)], grants 100% Critical (25s)] to all allies, grants [Awoken President Salaheem] to the user"
+    },
+    {
+      "name": "Awoken President Salaheem",
+      "text": "Unlimited Support ability hones, cast speed x2.00 for Support abilities, chase every 2 Support abilities with Salary",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Salary",
+      "text": "Grants [Buff Prismatic 10% (5s)] to all allies"
+    },
+    {
+      "name": "Buff Prismatic 10% (5s)",
+      "text": "Grants [Buff Fire 10% (5s)], [Buff Ice 10% (5s)], [Buff Lightning 10% (5s)], [Buff Earth 10% (5s)], [Buff Wind 10% (5s)], [Buff Water 10% (5s)], [Buff Holy 10% (5s)], [Buff Dark 10% (5s)] and [Buff Poison 10% (5s)]"
+    },
+    {
+      "name": "Buff Fire 10% (5s)",
+      "text": "Increases Fire damage dealt by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Buff Ice 10% (5s)",
+      "text": "Increases Ice damage dealt by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Buff Lightning 10% (5s)",
+      "text": "Increases Lightning damage dealt by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Buff Earth 10% (5s)",
+      "text": "Increases Earth damage dealt by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Buff Wind 10% (5s)",
+      "text": "Increases Wind damage dealt by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Buff Water 10% (5s)",
+      "text": "Increases Water damage dealt by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Buff Holy 10% (5s)",
+      "text": "Increases Holy damage dealt by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Buff Dark 10% (5s)",
+      "text": "Increases Dark damage dealt by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Buff Poison 10% (5s)",
+      "text": "Increases Poison damage dealt by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "ATK, DEF and MAG -50% (25s)",
+      "text": "ATK, DEF and MAG -50%",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF and MAG -50% (25s)], grants 100% Critical (25s)] to all allies, grants [Awoken President Salaheem] to the user"
+    },
+    {
+      "name": "Awoken President Salaheem",
+      "text": "Unlimited Support ability hones, cast speed x2.00 for Support abilities, chase every 2 Support abilities with Salary",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "23440010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23440010/23440010_256.png",
+  "character": "Naja",
+  "name": "Black Halo",
+  "name_jp": "ブラックヘイロー",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XI",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Causes [ATK, DEF and MAG -50% (25s)], grants 100% Critical (25s)] to all allies, grants [Awoken President Salaheem] to the user",
+  "verified": true
+}

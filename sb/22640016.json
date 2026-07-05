@@ -1,0 +1,135 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Tri-Element Mode II (Earth, Wind, Dark)], [Damage Cap +10000], [Dual Awoken Imperial Mode I (Emperor)] and [Dark/Earth/Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Imperial Mode I (Emperor)",
+      "text": "Dark, Earth and Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark, Earth and Wind abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Dark, Earth and Wind abilities after casting 1/2/3+ Dark, Earth and Wind abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Imperial Mode II (Emperor)] to the user, removes [Dual Awoken Imperial Mode I (Emperor)] from the user"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Imperial Mode II (Emperor)",
+      "text": "Increases the damage/healing cap by 10000, Dark, Earth and Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark, Earth and Wind abilities trigger 1 additional time, casts Dual Martial Might after using Dark, Earth and Wind abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Martial Might",
+      "text": "Causes [ATK and MAG -50% (8s)]/[DEF and RES -50% (8s)] every 1+2n/2+2n casts, grants [Quick Cast 1] to all allies"
+    },
+    {
+      "name": "ATK and MAG -50% (8s)",
+      "text": "ATK and MAG -50%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "DEF and RES -50% (8s)",
+      "text": "DEF and RES -50%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Tri-Element Mode II (Earth, Wind, Dark)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Dark with Stacking] after using a Earth/Wind/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dark/Earth/Wind Resonance +5% Boost",
+      "text": "Dark, Earth and Wind abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Tri-Element Mode II (Earth, Wind, Dark)], [Damage Cap +10000], [Dual Awoken Imperial Mode I (Emperor)] and [Dark/Earth/Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Imperial Mode I (Emperor)",
+      "text": "Dark, Earth and Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark, Earth and Wind abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Dark, Earth and Wind abilities after casting 1/2/3+ Dark, Earth and Wind abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Causes [DEF, RES and MND -70% (8s)], grants [Instant ATB 1] and [Dual Awoken Imperial Mode II (Emperor)] to the user, removes [Dual Awoken Imperial Mode I (Emperor)] from the user"
+    },
+    {
+      "name": "DEF, RES and MND -70% (8s)",
+      "text": "DEF, RES and MND -70%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Imperial Mode II (Emperor)",
+      "text": "Increases the damage/healing cap by 10000, Dark, Earth and Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark, Earth and Wind abilities trigger 1 additional time, casts Dual Martial Might after using Dark, Earth and Wind abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Martial Might",
+      "text": "Causes [ATK and MAG -50% (8s)]/[DEF and RES -50% (8s)] every 1+2n/2+2n casts, grants [Quick Cast 1] to all allies"
+    },
+    {
+      "name": "ATK and MAG -50% (8s)",
+      "text": "ATK and MAG -50%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "DEF and RES -50% (8s)",
+      "text": "DEF and RES -50%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22640016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22640016/22640016_256.png",
+  "character": "Emperor",
+  "name": "Awoken Prison of Sorrow",
+  "name_jp": "覚醒メランコリアの檻",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "II",
+  "elements": [
+    "Dark",
+    "Earth",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Tri-Element Mode II (Earth, Wind, Dark)], [Damage Cap +10000], [Dual Awoken Imperial Mode I (Emperor)] and [Dark/Earth/Wind Resonance +5% Boost] to the user",
+  "verified": true
+}

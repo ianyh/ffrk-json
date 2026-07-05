@@ -1,0 +1,111 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grant [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Thief Mode I (Zidane)] and [Thief Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Thief Mode I (Zidane)",
+      "text": "Thief abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Thief abilities trigger 2 additional times, critical chance =25%/50%/75%/100% for equipped Thief abilities after casting 1/2/3/4+ Thief abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1], [Dual Awoken Thief Mode II (Zidane)] and [Zidane Trance]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Thief Mode II (Zidane)",
+      "text": "Thief abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Thief abilities trigger 1 additional time, causes [Imperil Wind 20% (5s)] to the target after using a Thief ability, grants [Buff Wind 20% (5s)] to the user after using a Thief ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Wind 20% (5s)",
+      "text": "Wind Resistance -20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Buff Wind 20% (5s)",
+      "text": "Increases Wind damage dealt by 20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Zidane Trance",
+      "text": "ATK, DEF, MAG, RES, MND, ACC, EVA and SPD +15%, instantly casts Thief abilities",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Thief Resonance +5% Boost",
+      "text": "Thief abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grant [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Thief Mode I (Zidane)] and [Thief Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Thief Mode I (Zidane)",
+      "text": "Thief abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Thief abilities trigger 2 additional times, critical chance =25%/50%/75%/100% for equipped Thief abilities after casting 1/2/3/4+ Thief abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1], [Dual Awoken Thief Mode II (Zidane)] and [Zidane Trance]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Thief Mode II (Zidane)",
+      "text": "Thief abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Thief abilities trigger 1 additional time, causes [Imperil Wind 20% (5s)] to the target after using a Thief ability, grants [Buff Wind 20% (5s)] to the user after using a Thief ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Wind 20% (5s)",
+      "text": "Wind Resistance -20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Buff Wind 20% (5s)",
+      "text": "Increases Wind damage dealt by 20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Zidane Trance",
+      "text": "ATK, DEF, MAG, RES, MND, ACC, EVA and SPD +15%, instantly casts Thief abilities",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "20860024",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860024/20860024_256.png",
+  "character": "Zidane",
+  "name": "Awoken Storm Impulse",
+  "name_jp": "覚醒ストームインパルス",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IX",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grant [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Thief Mode I (Zidane)] and [Thief Resonance +5% Boost] to the user",
+  "verified": true
+}

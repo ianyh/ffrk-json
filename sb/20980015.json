@@ -1,0 +1,74 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 225.0 each), grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Lightning, Water)] and [Eblan Unity] to the user"
+    },
+    {
+      "name": "Eblan Surge",
+      "text": "Six single hybrid attacks (0.80 or 411.75 each)",
+      "condition": "Ninja",
+      "slot": "Attack"
+    },
+    {
+      "name": "Eblan Struggle",
+      "text": "Three single hybrid attacks (0.80 or 411.75 each), grants [Buff Water 10% (15s)], [Buff Fire 10% (15s)] and [Buff Lightning 10% (15s)] to the user",
+      "condition": "Ninja",
+      "slot": "Defend"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Tri-Element Mode III (Fire, Lightning, Water)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Lightning 2 with Stacking]/[Attach Water 2 with Stacking] after using a Fire/Lightning/Water ability"
+    },
+    {
+      "name": "Eblan Unity",
+      "text": "Grants [Attach X] after using three of Eblan Surge or Eblan Struggle if the character has any [Attach X]"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 225.0 each), grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Lightning, Water)] and [Eblan Unity] to the user"
+    },
+    {
+      "name": "Eblan Surge",
+      "text": "Six single hybrid attacks (0.80 or 411.75 each)",
+      "condition": "Ninja",
+      "slot": "Attack"
+    },
+    {
+      "name": "Eblan Struggle",
+      "text": "Three single hybrid attacks (0.80 or 411.75 each), grants [Buff Water 10% (15s)], [Buff Fire 10% (15s)] and [Buff Lightning 10% (15s)] to the user",
+      "condition": "Ninja",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20980015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20980015/20980015_256.png",
+  "character": "Edge",
+  "name": "Eblan Harmony",
+  "name_jp": "エブラーナ流・渾然一体",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single hybrid attacks (0.60 or 225.0 each), grants [Synchro Mode], [Damage Cap +10000], [Tri-Element Mode III (Fire, Lightning, Water)] and [Eblan Unity] to the user",
+  "verified": true
+}

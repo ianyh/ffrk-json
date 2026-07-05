@@ -1,0 +1,73 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Linked Materia Mode III (Wind, Dark)], [Hardened SOLDIER Mode], Mako Infused +1 and Jenova Injection +1 to the user"
+    },
+    {
+      "name": "Dragon Fang's Touch",
+      "text": "6/7 single attacks (0.90 each) if the user has Mako Infused level 0/1, grants [Quick Cast 1] to the user if the user has Mako Infused level 1, grants Mako Infused +1 to the user if the user has Mako Infused level 0, causes Mako Infused -1 to the user if the user has Mako Infused level 1",
+      "condition": "Wind, Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Drake's Touch",
+      "text": "6/4 single attacks (0.90/1.60 each) if the user has Jenova Injection level 0/1, grants Jenova Injection +1 to the user if the user has Jenova Injection level 0, causes Jenova Injection -1 if the user has Jenova Injection level 1",
+      "condition": "Wind, Dark",
+      "slot": "Defend"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Linked Materia Mode III (Wind, Dark)",
+      "text": "Grants [Attach Wind 2 with Stacking]/[Attach Dark 2 with Stacking] after using a Wind/Dark ability"
+    },
+    {
+      "name": "Hardened SOLDIER Mode",
+      "text": "Grants [100% Critical 1] and [Critical Damage +50% 1] to the user after using a Wind or Dark ability, grants [Damage Cap +80000 1]/[Damage Cap +60000 1]/[Damage Cap +40000 1]/[Damage Cap +20000 1] to the user after using 1/2/3/4 Wind or Dark abilities, removed after triggering four times"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Linked Materia Mode III (Wind, Dark)], [Hardened SOLDIER Mode], Mako Infused +1 and Jenova Injection +1 to the user"
+    },
+    {
+      "name": "Dragon Fang's Touch",
+      "text": "6/7 single attacks (0.90 each) if the user has Mako Infused level 0/1, grants [Quick Cast 1] to the user if the user has Mako Infused level 1, grants Mako Infused +1 to the user if the user has Mako Infused level 0, causes Mako Infused -1 to the user if the user has Mako Infused level 1",
+      "condition": "Wind, Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Drake's Touch",
+      "text": "6/4 single attacks (0.90/1.60 each) if the user has Jenova Injection level 0/1, grants Jenova Injection +1 to the user if the user has Jenova Injection level 0, causes Jenova Injection -1 if the user has Jenova Injection level 1",
+      "condition": "Wind, Dark",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20110031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110031/20110031_256.png",
+  "character": "Cloud",
+  "name": "Mako Strike",
+  "name_jp": "魔晄撃",
+  "tier": "SASB",
+  "sb_version": "SASB3",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Linked Materia Mode III (Wind, Dark)], [Hardened SOLDIER Mode], Mako Infused +1 and Jenova Injection +1 to the user",
+  "verified": true
+}

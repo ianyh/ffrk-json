@@ -1,0 +1,122 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Buff Fire 30% (15s)]/[Buff Water 30% (15s)]/[Buff Wind 30% (15s)]/[Buff Earth 30% (15s)], [Dual Awoken Spellblade Mode I: Bartz], [Damage Cap +10000] and [Spellblade Resonance +5% Boost] to the user to the user"
+    },
+    {
+      "name": "Dual Awoken Spellblade Mode I: Bartz",
+      "text": "Spellblade abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade abilities trigger 2 additional times, cast speed x2.00 for Spellblade abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Spellblade Mode II: Bartz] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Spellblade Mode II: Bartz",
+      "text": "Spellblade abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, , cast speed x999999 for Spellblade abilities, casts Master Midareuchi after using Spellblade abilities"
+    },
+    {
+      "name": "Master Midareuchi",
+      "text": "Eight single attacks (0.34 each), grants [100% Critical 3] and [Deadly Strikes +20% 3] to the user"
+    },
+    {
+      "name": "100% Critical 3",
+      "text": "Critical chance =100%",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Deadly Strikes +20% 3",
+      "text": "Critical hits deal 20% more damage (additive with the base critical coefficient and other Critical Damage statuses)",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Buff Fire 30% (15s)",
+      "text": "Increases Fire damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Water 30% (15s)",
+      "text": "Increases Water damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Wind 30% (15s)",
+      "text": "Increases Wind damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Buff Earth 30% (15s)",
+      "text": "Increases Earth damage dealt by 30%, cumulable"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Spellblade Resonance +5% Boost",
+      "text": "Spellblade abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Buff Fire 30% (15s)]/[Buff Water 30% (15s)]/[Buff Wind 30% (15s)]/[Buff Earth 30% (15s)], [Dual Awoken Spellblade Mode I: Bartz], [Damage Cap +10000] and [Spellblade Resonance +5% Boost] to the user to the user"
+    },
+    {
+      "name": "Dual Awoken Spellblade Mode I: Bartz",
+      "text": "Spellblade abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Spellblade abilities trigger 2 additional times, cast speed x2.00 for Spellblade abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Spellblade Mode II: Bartz] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Spellblade Mode II: Bartz",
+      "text": "Spellblade abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, , cast speed x999999 for Spellblade abilities, casts Master Midareuchi after using Spellblade abilities"
+    },
+    {
+      "name": "Master Midareuchi",
+      "text": "Eight single attacks (0.34 each), grants [100% Critical 3] and [Deadly Strikes +20% 3] to the user"
+    },
+    {
+      "name": "100% Critical 3",
+      "text": "Critical chance =100%",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Deadly Strikes +20% 3",
+      "text": "Critical hits deal 20% more damage (additive with the base critical coefficient and other Critical Damage statuses)",
+      "duration": "3 turns"
+    }
+  ],
+  "id": "20400061",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400061/20400061_256.png",
+  "character": "Bartz",
+  "name": "Awoken Crystal's Chosen",
+  "name_jp": "覚醒四晶に選ばれし戦士",
+  "tier": "DASB",
+  "sb_version": "DASB5",
+  "realm": "V",
+  "elements": [
+    "Fire",
+    "Water",
+    "Wind",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Buff Fire 30% (15s)]/[Buff Water 30% (15s)]/[Buff Wind 30% (15s)]/[Buff Earth 30% (15s)], [Dual Awoken Spellblade Mode I: Bartz], [Damage Cap +10000] and [Spellblade Resonance +5% Boost] to the user to the user",
+  "verified": true
+}

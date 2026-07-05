@@ -1,0 +1,110 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Double Crystarium Mode II (Ice, Water)], [Damage Cap +10000], [Dual Awoken Future Hunter Mode I (Noel)] and [(Ice/Water) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Future Hunter Mode I (Noel)",
+      "text": "Ice and Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice and Water abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Ice and Water abilities after casting 1/2/3+ Ice and Water abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Future Hunter Mode II (Noel)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Future Hunter Mode II (Noel)",
+      "text": "Ice and Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Ice and Water abilities, casts Dual Hunter's Conviction after using Ice or Water ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Hunter's Conviction",
+      "text": "Grants [Damage Cap +10000 3] and [(Ice/Water) Ability +50% Boost 3] to the user"
+    },
+    {
+      "name": "Damage Cap +10000 3",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "3 turns"
+    },
+    {
+      "name": "(Ice/Water) Ability +50% Boost 3",
+      "text": "Ice or Water abilities deal 50% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Double Crystarium Mode II (Ice, Water)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Water with Stacking] after using a Ice/Water ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "(Ice/Water) Resonance +5% Boost",
+      "text": "Ice and Water abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Double Crystarium Mode II (Ice, Water)], [Damage Cap +10000], [Dual Awoken Future Hunter Mode I (Noel)] and [(Ice/Water) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Future Hunter Mode I (Noel)",
+      "text": "Ice and Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice and Water abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Ice and Water abilities after casting 1/2/3+ Ice and Water abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Future Hunter Mode II (Noel)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Future Hunter Mode II (Noel)",
+      "text": "Ice and Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Ice and Water abilities, casts Dual Hunter's Conviction after using Ice or Water ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Hunter's Conviction",
+      "text": "Grants [Damage Cap +10000 3] and [(Ice/Water) Ability +50% Boost 3] to the user"
+    },
+    {
+      "name": "Damage Cap +10000 3",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "3 turns"
+    },
+    {
+      "name": "(Ice/Water) Ability +50% Boost 3",
+      "text": "Ice or Water abilities deal 50% more damage",
+      "duration": "3 turns"
+    }
+  ],
+  "id": "22450029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450029/22450029_256.png",
+  "character": "Noel",
+  "name": "Awoken Future Remembrance",
+  "name_jp": "覚醒未来への追憶",
+  "tier": "DASB",
+  "sb_version": "DASB3",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Double Crystarium Mode II (Ice, Water)], [Damage Cap +10000], [Dual Awoken Future Hunter Mode I (Noel)] and [(Ice/Water) Resonance +5% Boost] to the user",
+  "verified": true
+}

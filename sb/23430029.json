@@ -1,0 +1,126 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Trey], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Fire/Ice/Water abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Fire/Ice/Water abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Ice, Water Damage Cap +20000 (Tactical)], [Fire, Ice, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Critical Damage +50% (15s)], [Physical Instant Cast 2] or [Tactical Chase Mode: Trey] to all allies."
+    },
+    {
+      "name": "Fire, Ice, Water Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Fire, Ice, or Water attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Fire, Ice, Water 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Fire, Ice, or Water ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Critical Damage +50% (15s)",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Physical Instant Cast 2",
+      "text": "Instant cast speed for PHY attacks",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Tactical Chase Mode: Trey",
+      "text": "Triggers [Battle Strike: Trey] when using Fire, Ice, or Water abilities (max 5), removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Battle Strike: Trey",
+      "text": "Ten single ranged attacks (0.90 each)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Trey], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Fire/Ice/Water abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Fire/Ice/Water abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Ice, Water Damage Cap +20000 (Tactical)], [Fire, Ice, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Critical Damage +50% (15s)], [Physical Instant Cast 2] or [Tactical Chase Mode: Trey] to all allies."
+    },
+    {
+      "name": "Fire, Ice, Water Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Fire, Ice, or Water attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Fire, Ice, Water 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Fire, Ice, or Water ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Critical Damage +50% (15s)",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Physical Instant Cast 2",
+      "text": "Instant cast speed for PHY attacks",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Tactical Chase Mode: Trey",
+      "text": "Triggers [Battle Strike: Trey] when using Fire, Ice, or Water abilities (max 5), removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Battle Strike: Trey",
+      "text": "Ten single ranged attacks (0.90 each)"
+    }
+  ],
+  "id": "23430029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23430029/23430029_256.png",
+  "character": "Trey",
+  "name": "War-Awoken Piercing Concentrate",
+  "name_jp": "戦醒精神統一・真貫",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Trey], [ATK +500 (25s) (Tactical)] to user.",
+  "verified": true
+}

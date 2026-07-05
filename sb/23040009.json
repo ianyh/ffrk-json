@@ -1,0 +1,116 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Marche], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Holy abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [111% ATB 1]/[125% ATB 1] after using Holy abilities before/after triggering Weapon Skill while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Holy Damage Cap +20000 (Tactical)], [Holy 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Holy Ability +50% Boost (Tactical)], [Quadracast Holy (Tactical)] to user if user has 50+% HP, grants [Stoneskin: 100%] to all allies if not"
+    },
+    {
+      "name": "Holy Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Holy attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Holy 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Holy ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Holy Ability +50% Boost (Tactical)",
+      "text": "Holy abilities deal 50% more damage, removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Quadracast Holy (Tactical)",
+      "text": "Holy abilities trigger 3 additional times, removed after triggering or if the character hasn't [Tactical Awoken Mode]",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Stoneskin: 100%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Marche], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Holy abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [111% ATB 1]/[125% ATB 1] after using Holy abilities before/after triggering Weapon Skill while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Holy Damage Cap +20000 (Tactical)], [Holy 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Holy Ability +50% Boost (Tactical)], [Quadracast Holy (Tactical)] to user if user has 50+% HP, grants [Stoneskin: 100%] to all allies if not"
+    },
+    {
+      "name": "Holy Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Holy attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Holy 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Holy ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Holy Ability +50% Boost (Tactical)",
+      "text": "Holy abilities deal 50% more damage, removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Quadracast Holy (Tactical)",
+      "text": "Holy abilities trigger 3 additional times, removed after triggering or if the character hasn't [Tactical Awoken Mode]",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Stoneskin: 100%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
+    }
+  ],
+  "id": "23040009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23040009/23040009_256.png",
+  "character": "Marche",
+  "name": "War-Awoken Paladin Blade",
+  "name_jp": "戦醒パラディンブレード",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "FFT",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Marche], [ATK +500 (25s) (Tactical)] to user.",
+  "verified": false
+}

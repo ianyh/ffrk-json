@@ -1,0 +1,128 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode (Fire, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Ardyn], [Awakening Darkness Damage Tracker] and [Awakening Darkness Level]"
+    },
+    {
+      "name": "Twin Element Mode (Fire, Dark)",
+      "text": "Grants [Attach Fire]/[Attach Dark] after using a Fire/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Ardyn",
+      "text": "Keeps track of the number of uses of Awakening Darkness (0~2), removed after using Awakening Darkness two times"
+    },
+    {
+      "name": "Awakening Darkness Damage Tracker",
+      "text": "Increases Awakening Darkness level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Ardyn]"
+    },
+    {
+      "name": "Awakening Darkness Level",
+      "text": "Keeps track of Awakening Darkness level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Ardyn]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Fire, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Ardyn], [Awakening Darkness Damage Tracker] and [Awakening Darkness Level]"
+    },
+    {
+      "name": "Twin Element Mode (Fire, Dark)",
+      "text": "Grants [Attach Fire]/[Attach Dark] after using a Fire/Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Ardyn",
+      "text": "Keeps track of the number of uses of Awakening Darkness (0~2), removed after using Awakening Darkness two times"
+    },
+    {
+      "name": "Awakening Darkness Damage Tracker",
+      "text": "Increases Awakening Darkness level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Ardyn]"
+    },
+    {
+      "name": "Awakening Darkness Level",
+      "text": "Keeps track of Awakening Darkness level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Ardyn]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode (Fire, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Ardyn], [Awakening Darkness Damage Tracker] and [Awakening Darkness Level]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Fire, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Ardyn], [Awakening Darkness Damage Tracker] and [Awakening Darkness Level]"
+    },
+    {
+      "name": "Twin Element Mode (Fire, Dark)",
+      "text": "Grants [Attach Fire]/[Attach Dark] after using a Fire/Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Ardyn",
+      "text": "Keeps track of the number of uses of Awakening Darkness (0~2), removed after using Awakening Darkness two times"
+    },
+    {
+      "name": "Awakening Darkness Damage Tracker",
+      "text": "Increases Awakening Darkness level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Ardyn]"
+    },
+    {
+      "name": "Awakening Darkness Level",
+      "text": "Keeps track of Awakening Darkness level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Ardyn]"
+    }
+  ],
+  "id": "23520009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23520009/23520009_256.png",
+  "character": "Ardyn",
+  "name": "Awakening Darkness (Engaged)",
+  "name_jp": "覚醒する闇",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Twin Element Mode (Fire, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Ardyn], [Awakening Darkness Damage Tracker] and [Awakening Darkness Level]",
+  "verified": true
+}

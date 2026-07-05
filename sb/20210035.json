@@ -1,0 +1,74 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Instant Cast 1], [Soul Break Gauge +250], [Attach Ice with Stacking], [Awoken Rune Knight], [Damage Cap +10000] and [Glaciate Edge] to the user"
+    },
+    {
+      "name": "Awoken Rune Knight",
+      "text": "Ice abilities don't consume uses, Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Splendid Sword after using Ice abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Splendid Sword",
+      "text": "Six single attacks (0.72 each), 100% hit rate"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Glaciate Edge",
+      "text": "Grants [Quick Cast 1] to all allies in the front row after using Ice abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Instant Cast 1], [Soul Break Gauge +250], [Attach Ice with Stacking], [Awoken Rune Knight], [Damage Cap +10000] and [Glaciate Edge] to the user"
+    },
+    {
+      "name": "Awoken Rune Knight",
+      "text": "Ice abilities don't consume uses, Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Splendid Sword after using Ice abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20210035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210035/20210035_256.png",
+  "character": "Celes",
+  "name": "Glacial Edge",
+  "name_jp": "グレイシエイトエッジ",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "VI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Instant Cast 1], [Soul Break Gauge +250], [Attach Ice with Stacking], [Awoken Rune Knight], [Damage Cap +10000] and [Glaciate Edge] to the user",
+  "verified": true
+}

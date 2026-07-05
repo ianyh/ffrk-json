@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "20360059",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360059/20360059_256.png",
+  "character": "Garnet",
+  "name": "Superior Maiden's Journey",
+  "name_jp": "超極純真なる少女の歩み",
+  "tier": "XSB",
+  "sb_version": "XSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

@@ -1,0 +1,73 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Dark)] and [Revived Vengeance Mode] to the user"
+    },
+    {
+      "name": "Phantom Slash",
+      "text": "4/6/8 single attacks (0.90 each) scaling with [Phantom Slash Uses], cast time 1.65/1.10/0.825 scaling with [Phantom Slash Uses]",
+      "condition": "Dark, Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Phantom Burst",
+      "text": "One single attack (5.04) capped at 99999, grants [Fire, Dark Ability +30% Boost 3] to the user",
+      "condition": "Dark, Fire",
+      "slot": "Defend"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode III (Fire, Dark)",
+      "text": "Grants [Attach Fire 2 with Stacking]/[Attach Dark 2 with Stacking] after using a Fire/Dark ability"
+    },
+    {
+      "name": "Revived Vengeance Mode",
+      "text": "Grants [Instant ATB 2], [Instant Cast 2] and [100% Critical 2] when HP fall below 20%, removed after triggering"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Dark)] and [Revived Vengeance Mode] to the user"
+    },
+    {
+      "name": "Phantom Slash",
+      "text": "4/6/8 single attacks (0.90 each) scaling with [Phantom Slash Uses], cast time 1.65/1.10/0.825 scaling with [Phantom Slash Uses]",
+      "condition": "Dark, Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Phantom Burst",
+      "text": "One single attack (5.04) capped at 99999, grants [Fire, Dark Ability +30% Boost 3] to the user",
+      "condition": "Dark, Fire",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23520002",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23520002/23520002_256.png",
+  "character": "Ardyn",
+  "name": "Mega Death",
+  "name_jp": "オーバーデス",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XV",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000], [Twin Element Mode III (Fire, Dark)] and [Revived Vengeance Mode] to the user",
+  "verified": true
+}

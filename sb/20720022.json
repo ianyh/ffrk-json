@@ -1,0 +1,114 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Strago)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Wind Mode I (Strago)",
+      "text": "Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Wind abilities after casting 1/2/3+ Wind abilities, casts Dual Magi Descendant after casting equipped two Wind attacks",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [40% Damage Reduction Barrier 1], grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Strago)] to the user, removes [Dual Awoken Wind Mode I (Strago)] removes from the user"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Wind Mode II (Strago)",
+      "text": "Increases the damage/healing cap by 10000, wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 1 additional time, instant cast speed for Wind abilities, casts Dual Wizened Mage's Ward when any Damage Reduction Barrier is removed (max 3)",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Wizened Mage's Ward",
+      "text": "Grants [HP Stock (3000)], smart ether 1 and [40% Damage Reduction Barrier 1]"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Dual Magi Descendant",
+      "text": "Four single attacks (3.75 each), causes [DEF, RES and MND -70% (8s)]"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Wind Resonance +5% Boost",
+      "text": "Wind abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Strago)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Wind Mode I (Strago)",
+      "text": "Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Wind abilities after casting 1/2/3+ Wind abilities, casts Dual Magi Descendant after casting equipped two Wind attacks",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [40% Damage Reduction Barrier 1], grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Strago)] to the user, removes [Dual Awoken Wind Mode I (Strago)] removes from the user"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Wind Mode II (Strago)",
+      "text": "Increases the damage/healing cap by 10000, wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 1 additional time, instant cast speed for Wind abilities, casts Dual Wizened Mage's Ward when any Damage Reduction Barrier is removed (max 3)",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Wizened Mage's Ward",
+      "text": "Grants [HP Stock (3000)], smart ether 1 and [40% Damage Reduction Barrier 1]"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
+    }
+  ],
+  "id": "20720022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20720022/20720022_256.png",
+  "character": "Strago",
+  "name": "Awoken Twin Mage",
+  "name_jp": "覚醒トワイスメイジ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VI",
+  "elements": [
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Strago)] and [Wind Resonance +5% Boost] to the user",
+  "verified": true
+}

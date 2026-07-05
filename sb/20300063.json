@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "id": "20300063",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20300063/20300063_256.png",
+  "character": "Rinoa",
+  "name": "Burst Break: Rinoa (Earth) (Break Glint)",
+  "name_jp": "烈破・リノア地",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

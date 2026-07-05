@@ -1,0 +1,146 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Dual Awoken Femme Sky Pirate Mode I] and [(Ice/Lightning) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Femme Sky Pirate Mode I",
+      "text": "Ice and Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice and Lightning abilities trigger 2 additional times, cast speed x2.00 for Ice and Lightning abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1], [Twin Element Mode II (Ice, Lightning)], and [Dual Awoken Femme Sky Pirate Mode II] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Twin Element Mode II (Ice, Lightning)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Ice/Lightning ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Dual Awoken Femme Sky Pirate Mode II",
+      "text": "Ice and Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, cast speed x999999 for Ice and Lightning abilities, casts Dual Mist Flow after using Ice or Lightning ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Mist Flow",
+      "text": "Grants [Buff Ice 20% (15s)], [Buff Lightning 20% (15s)] and [Quick Cast 2] to all allies"
+    },
+    {
+      "name": "Buff Ice 20% (15s)",
+      "text": "Increases Ice damage dealt by 20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Lightning 20% (15s)",
+      "text": "Increases Lightning damage dealt by 20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "(Ice/Lightning) Resonance +5% Boost",
+      "text": "Ice and Lightning abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Dual Awoken Femme Sky Pirate Mode I] and [(Ice/Lightning) Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Femme Sky Pirate Mode I",
+      "text": "Ice and Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice and Lightning abilities trigger 2 additional times, cast speed x2.00 for Ice and Lightning abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1], [Twin Element Mode II (Ice, Lightning)], and [Dual Awoken Femme Sky Pirate Mode II] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Twin Element Mode II (Ice, Lightning)",
+      "text": "Grants [Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Ice/Lightning ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Dual Awoken Femme Sky Pirate Mode II",
+      "text": "Ice and Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, cast speed x999999 for Ice and Lightning abilities, casts Dual Mist Flow after using Ice or Lightning ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Mist Flow",
+      "text": "Grants [Buff Ice 20% (15s)], [Buff Lightning 20% (15s)] and [Quick Cast 2] to all allies"
+    },
+    {
+      "name": "Buff Ice 20% (15s)",
+      "text": "Increases Ice damage dealt by 20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Lightning 20% (15s)",
+      "text": "Increases Lightning damage dealt by 20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00",
+      "duration": "2 turns"
+    }
+  ],
+  "id": "20390030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20390030/20390030_256.png",
+  "character": "Fran",
+  "name": "Awoken Mist Overload",
+  "name_jp": "覚醒オーバーミスト",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "XII",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Dual Awoken Femme Sky Pirate Mode I] and [(Ice/Lightning) Resonance +5% Boost] to the user",
+  "verified": true
+}

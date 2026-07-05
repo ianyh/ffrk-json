@@ -1,0 +1,32 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Lightning/Holy Ability +50% Boost 2] to user."
+    },
+    {
+      "name": "Lightning/Holy Ability +50% Boost 2",
+      "text": "Lightning or Holy abilities deal 50% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Lightning/Holy Ability +50% Boost 2] to user."
+    }
+  ],
+  "id": "20600069",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600069/20600069_256.png",
+  "character": "Lightning",
+  "name": "Super Flash (Lightning)",
+  "name_jp": "超閃【ライトニング】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "XIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Lightning/Holy Ability +50% Boost 2] to user.",
+  "verified": true
+}

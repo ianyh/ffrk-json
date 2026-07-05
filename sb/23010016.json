@@ -1,0 +1,73 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Linked Materia Mode III (Lightning, Earth)], [Synchro Mode], [Damage Cap +10000] and [Dynamite Duo Mode] to the user"
+    },
+    {
+      "name": "Rising Cleave",
+      "text": "Six single ranged hybrid attacks (0.90/1.00/1.15 or 3.05/3.40/3.90 each) capped at 9999/19999/29999 if the user has Pro Mentality level 0/1/2+, causes Pro Mentality -1/-2 to the user if the user has Pro Mentality level 1/2+",
+      "condition": "Earth, Lightning",
+      "slot": "Attack"
+    },
+    {
+      "name": "Earth Wave",
+      "text": "Three single ranged hybrid attacks (0.80 or 2.70), grants [Buff Earth 10% (15s)] and [Buff Lightning 10% (15s)] to the user",
+      "condition": "Earth, Lightning",
+      "slot": "Defend"
+    },
+    {
+      "name": "Linked Materia Mode III (Lightning, Earth)",
+      "text": "Grants [Attach Lightning 2 with Stacking]/[Attach Earth 2 with Stacking] after using a Lightning/Earth ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dynamite Duo Mode",
+      "text": "Casts Charged Bolt after another ally uses an Earth or Lightning ability, removed after triggering ten times"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Linked Materia Mode III (Lightning, Earth)], [Synchro Mode], [Damage Cap +10000] and [Dynamite Duo Mode] to the user"
+    },
+    {
+      "name": "Rising Cleave",
+      "text": "Six single ranged hybrid attacks (0.90/1.00/1.15 or 3.05/3.40/3.90 each) capped at 9999/19999/29999 if the user has Pro Mentality level 0/1/2+, causes Pro Mentality -1/-2 to the user if the user has Pro Mentality level 1/2+",
+      "condition": "Earth, Lightning",
+      "slot": "Attack"
+    },
+    {
+      "name": "Earth Wave",
+      "text": "Three single ranged hybrid attacks (0.80 or 2.70), grants [Buff Earth 10% (15s)] and [Buff Lightning 10% (15s)] to the user",
+      "condition": "Earth, Lightning",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23010016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010016/23010016_256.png",
+  "character": "Rude",
+  "name": "Thunderstone",
+  "name_jp": "サンダーストーン",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Linked Materia Mode III (Lightning, Earth)], [Synchro Mode], [Damage Cap +10000] and [Dynamite Duo Mode] to the user",
+  "verified": true
+}

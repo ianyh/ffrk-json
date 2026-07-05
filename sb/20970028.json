@@ -1,0 +1,141 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Rikku)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Water Mode I (Rikku)",
+      "text": "Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 2 additional times, causes [Imperil Water 10% (15s)] and [ATK, DEF, MAG and RES -40% (8s)] after using two Water abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Rikku)] to the user, removes [Dual Awoken Water Mode I (Rikku)] from the user"
+    },
+    {
+      "name": "50% Critical (25s)",
+      "text": "Critical chance=50%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Water Mode II (Rikku)",
+      "text": "Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 1 additional time, grants [Dual Miracle Drink 60% Critical (15s)]/[Dual Miracle Drink 80% Critical (15s)]/[Dual Miracle Drink 100% Critical (15s)] to all allies after using 1/2/3+ Water abilities, grants [Critical Damage +50% 1] to all allies after using 2+ Water abilities, grants [Quick Cast 1] to all allies after using Water abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Miracle Drink 60% Critical (15s)",
+      "text": "Critical chance =60%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Miracle Drink 80% Critical (15s)",
+      "text": "Critical chance =80%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Miracle Drink 100% Critical (15s)",
+      "text": "Critical chance =100%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Critical Damage +50% 1",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Water Resonance +5% Boost",
+      "text": "Water abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Rikku)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Water Mode I (Rikku)",
+      "text": "Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 2 additional times, causes [Imperil Water 10% (15s)] and [ATK, DEF, MAG and RES -40% (8s)] after using two Water abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Water Mode II (Rikku)] to the user, removes [Dual Awoken Water Mode I (Rikku)] from the user"
+    },
+    {
+      "name": "50% Critical (25s)",
+      "text": "Critical chance=50%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Water Mode II (Rikku)",
+      "text": "Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 1 additional time, grants [Dual Miracle Drink 60% Critical (15s)]/[Dual Miracle Drink 80% Critical (15s)]/[Dual Miracle Drink 100% Critical (15s)] to all allies after using 1/2/3+ Water abilities, grants [Critical Damage +50% 1] to all allies after using 2+ Water abilities, grants [Quick Cast 1] to all allies after using Water abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Miracle Drink 60% Critical (15s)",
+      "text": "Critical chance =60%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Miracle Drink 80% Critical (15s)",
+      "text": "Critical chance =80%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Miracle Drink 100% Critical (15s)",
+      "text": "Critical chance =100%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Critical Damage +50% 1",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "20970028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970028/20970028_256.png",
+  "character": "Rikku",
+  "name": "Awoken Machina Sabotage",
+  "name_jp": "覚醒マキナブレイク",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Rikku)] and [Water Resonance +5% Boost] to the user",
+  "verified": true
+}

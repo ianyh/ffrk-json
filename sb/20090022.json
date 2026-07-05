@@ -1,0 +1,101 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Summoning], [Damage Cap +10000], [Tri-Element Mode (Earth, Water, Holy)], [Feymarch Oath Mode], [Feymarch Oath +10% Boost] and [Feymarch Oath Quick Cast 150%] to the user"
+    },
+    {
+      "name": "Awoken Summoning",
+      "text": "Summoning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Tri-Element Mode (Earth, Water, Holy)",
+      "text": "Grants [Attach Earth]/[Attach Water]/[Attach Holy] after using a Earth/Water/Holy ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Water",
+      "text": "Replaces Attack command, increases Water damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Water resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Feymarch Oath Mode",
+      "text": "Grants [Feymarch Oath +20% Boost]/[Feymarch Oath +30% Boost] and [Feymarch Oath Quick Cast 200%]/[Feymarch Oath Quick Cast 300%] after using 1/2+ Summoning abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Feymarch Oath +20% Boost",
+      "text": "Summoning abilities deal 20% more damage, removed if user hasn't [Feymarch Oath Mode]"
+    },
+    {
+      "name": "Feymarch Oath +30% Boost",
+      "text": "Summoning abilities deal 30% more damage, removed if user hasn't Feymarch Oath Mode]"
+    },
+    {
+      "name": "Feymarch Oath Quick Cast 200%",
+      "text": "Cast speed x2.00 for Summoning abilities, removed if user hasn't [Feymarch Oath Mode]"
+    },
+    {
+      "name": "Feymarch Oath Quick Cast 300%",
+      "text": "Cast speed x3.00 for Summoning abilities, removed if user hasn't [Feymarch Oath Mode]"
+    },
+    {
+      "name": "Feymarch Oath +10% Boost",
+      "text": "Summoning abilities deal 10% more damage, removed if user hasn't [Feymarch Oath Mode]"
+    },
+    {
+      "name": "Feymarch Oath Quick Cast 150%",
+      "text": "Cast speed x1.50 for Summoning abilities, removed if user hasn't [Feymarch Oath Mode]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Summoning], [Damage Cap +10000], [Tri-Element Mode (Earth, Water, Holy)], [Feymarch Oath Mode], [Feymarch Oath +10% Boost] and [Feymarch Oath Quick Cast 150%] to the user"
+    },
+    {
+      "name": "Awoken Summoning",
+      "text": "Summoning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20090022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090022/20090022_256.png",
+  "character": "Rydia",
+  "name": "Summon Eidolon King",
+  "name_jp": "召喚・幻獣王",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Awoken Summoning], [Damage Cap +10000], [Tri-Element Mode (Earth, Water, Holy)], [Feymarch Oath Mode], [Feymarch Oath +10% Boost] and [Feymarch Oath Quick Cast 150%] to the user",
+  "verified": true
+}

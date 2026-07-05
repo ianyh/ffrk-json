@@ -1,0 +1,65 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Water], [Awoken Ninja], [Damage Cap +10000] and [Fleeting Instant Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Ninja",
+      "text": "Ninja abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Attach Water",
+      "text": "Replaces Attack command, increases Water damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Water resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Fleeting Instant Follow-Up",
+      "text": "Casts Fleeting Instant after using two Ninja abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Fleeting Instant",
+      "text": "6/8/10 single ranged attacks (0.46 each) if the user has Physical Blink 0/1/2, 100% hit rate"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Attach Water], [Awoken Ninja], [Damage Cap +10000] and [Fleeting Instant Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Ninja",
+      "text": "Ninja abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22040013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040013/22040013_256.png",
+  "character": "Yuffie",
+  "name": "Sublime Doom",
+  "name_jp": "昇華・生者必滅",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VII",
+  "elements": [
+    "Water",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Attach Water], [Awoken Ninja], [Damage Cap +10000] and [Fleeting Instant Follow-Up] to the user",
+  "verified": true
+}

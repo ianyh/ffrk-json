@@ -1,0 +1,72 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Immortal Commander Mode] to the user"
+    },
+    {
+      "name": "Immortal Flourish of Steel",
+      "text": "Six single attacks (0.90 each), 100% additional critical chance if user has [Retaliate] or [High Retaliate], removes [Retaliate] and [High Retaliate] from the user",
+      "condition": "Samurai",
+      "slot": "Attack"
+    },
+    {
+      "name": "Lion's Luster",
+      "text": "One single attack (6.00) capped at 99999, grants [High Retaliate] to the user",
+      "condition": "Samurai",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Immortal Commander Mode",
+      "text": "Casts Chef Leonis's Seafood Special when HP fall below 20%, removed after triggering, removed if the character hasn't [Synchro Mode]"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Immortal Commander Mode] to the user"
+    },
+    {
+      "name": "Immortal Flourish of Steel",
+      "text": "Six single attacks (0.90 each), 100% additional critical chance if user has [Retaliate] or [High Retaliate], removes [Retaliate] and [High Retaliate] from the user",
+      "condition": "Samurai",
+      "slot": "Attack"
+    },
+    {
+      "name": "Lion's Luster",
+      "text": "One single attack (6.00) capped at 99999, grants [High Retaliate] to the user",
+      "condition": "Samurai",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23420006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23420006/23420006_256.png",
+  "character": "Cor",
+  "name": "Immortal's Call",
+  "name_jp": "不死将軍の居合術",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Immortal Commander Mode] to the user",
+  "verified": true
+}

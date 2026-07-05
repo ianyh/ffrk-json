@@ -1,0 +1,73 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000], and [Future Sorceress's Hatred Follow-Up]  to the user"
+    },
+    {
+      "name": "Dark Ice Destruction",
+      "text": "Seven single attacks (3.05 each), long cast time",
+      "condition": "Ice, Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Dark Ice Annihilation",
+      "text": "One single attack (16.40), can break damage cap, causes [Imperil Ice 10% (5s)] and [Imperil Dark 10% (5s)]",
+      "condition": "Ice, Dark",
+      "slot": "Defend"
+    },
+    {
+      "name": "Switch Draw Mode III (Ice, Dark)",
+      "text": "Grants [Attach Ice 2 with Stacking]/[Attach Dark 2 with Stacking] after using a Ice/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Future Sorceress's Hatred Follow-Up",
+      "text": "Casts Future Sorceress's Hatred after using 2 Ice or Dark abilities, removed after triggering"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000], and [Future Sorceress's Hatred Follow-Up]  to the user"
+    },
+    {
+      "name": "Dark Ice Destruction",
+      "text": "Seven single attacks (3.05 each), long cast time",
+      "condition": "Ice, Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Dark Ice Annihilation",
+      "text": "One single attack (16.40), can break damage cap, causes [Imperil Ice 10% (5s)] and [Imperil Dark 10% (5s)]",
+      "condition": "Ice, Dark",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22200026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22200026/22200026_256.png",
+  "character": "Edea",
+  "name": "Matron's Journey",
+  "name_jp": "子供たちとの旅路",
+  "tier": "SASB",
+  "sb_version": "SASB3",
+  "realm": "VIII",
+  "elements": [
+    "Ice",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Switch Draw Mode III (Ice, Dark)], [Synchro Mode], [Damage Cap +10000], and [Future Sorceress's Hatred Follow-Up]  to the user",
+  "verified": true
+}

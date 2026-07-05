@@ -1,0 +1,79 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Aranea], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Aranea",
+      "text": "Triggers [Destruction: Aranea] when using Lightning abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Aranea",
+      "text": "Six single attacks (0.90 each), ranged, jump."
+    },
+    {
+      "name": "Attach Lightning with Secondary Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 5, up to Attach Lightning 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Aranea], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Aranea",
+      "text": "Triggers [Destruction: Aranea] when using Lightning abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Aranea",
+      "text": "Six single attacks (0.90 each), ranged, jump."
+    },
+    {
+      "name": "Attach Lightning with Secondary Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 5, up to Attach Lightning 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "22980028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22980028/22980028_256.png",
+  "character": "Aranea",
+  "name": "Burst Break: Aranea (Break Glint)",
+  "name_jp": "破術・アラネア",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

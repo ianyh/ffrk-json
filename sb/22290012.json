@@ -1,0 +1,108 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Fickle Faerie Mode I (Echo)], [Dancer Healing Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Fickle Faerie Mode I (Echo)",
+      "text": "Black Magic and Dancer abilities trigger 1 additional time, cast speed x2.00 for Black Magic and Dancer abilities, casts Dual Whimsical Aid after every third Black/Dancer ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fickle Faerie Mode II (Echo)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Fickle Faerie Mode II (Echo)",
+      "text": "Instant cast speed for Dancer and Black Magic abilities, chases Dancer and Black Magic abilities with Dual Encore Time",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Encore Time",
+      "text": "Restores HP (55), grants [Quick Cast 3] to all allies"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Dual Whimsical Aid",
+      "text": "Grants [Weakness +50% Boost 1] to all allies"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dancer Healing Resonance +5% Boost",
+      "text": "Dancer abilities restore 5% more HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Fickle Faerie Mode I (Echo)], [Dancer Healing Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Fickle Faerie Mode I (Echo)",
+      "text": "Black Magic and Dancer abilities trigger 1 additional time, cast speed x2.00 for Black Magic and Dancer abilities, casts Dual Whimsical Aid after every third Black/Dancer ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fickle Faerie Mode II (Echo)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Fickle Faerie Mode II (Echo)",
+      "text": "Instant cast speed for Dancer and Black Magic abilities, chases Dancer and Black Magic abilities with Dual Encore Time",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Encore Time",
+      "text": "Restores HP (55), grants [Quick Cast 3] to all allies"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00",
+      "duration": "3 turns"
+    }
+  ],
+  "id": "22290012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22290012/22290012_256.png",
+  "character": "Echo",
+  "name": "Awoken Echo's Prize",
+  "name_jp": "覚醒エコーのご褒美",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Haste] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Fickle Faerie Mode I (Echo)], [Dancer Healing Resonance +5% Boost] to the user",
+  "verified": true
+}

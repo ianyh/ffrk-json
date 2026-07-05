@@ -1,0 +1,105 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (0.90/3.10 each) capped at 19999, grants [Critical Chance +50% (25s)]/[DEF and MND +30% (25s)] to the user, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Holy Mode I (Cecil (Paladin))] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Holy Mode I (Cecil (Paladin))",
+      "text": "Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Holy abilities after casting 1/2/3+ Holy abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Holy Mode II (Cecil (Paladin))], removes [Dual Awoken Holy Mode I (Cecil (Paladin))]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Holy Mode II (Cecil (Paladin))",
+      "text": "Increases the damage/healing cap by 10000, Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 1 additional time, instant cast speed for Holy attacks, casts Dual Light Barrier after using Holy attacks",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Light Barrier",
+      "text": "Four single hybrid attacks (0.75/3.25 each), grants [50% Damage Reduction Barrier 1] to all allies"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
+    },
+    {
+      "name": "Critical Chance +50% (25s)",
+      "text": "Critical chance +50% (additive with other critical chance sources)"
+    },
+    {
+      "name": "DEF and MND +30% (25s)",
+      "text": "DEF and MND +30%"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Holy Resonance +5% Boost",
+      "text": "Holy abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (0.90/3.10 each) capped at 19999, grants [Critical Chance +50% (25s)]/[DEF and MND +30% (25s)] to the user, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Holy Mode I (Cecil (Paladin))] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Holy Mode I (Cecil (Paladin))",
+      "text": "Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Holy abilities after casting 1/2/3+ Holy abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Holy Mode II (Cecil (Paladin))], removes [Dual Awoken Holy Mode I (Cecil (Paladin))]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Holy Mode II (Cecil (Paladin))",
+      "text": "Increases the damage/healing cap by 10000, Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 1 additional time, instant cast speed for Holy attacks, casts Dual Light Barrier after using Holy attacks",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Light Barrier",
+      "text": "Four single hybrid attacks (0.75/3.25 each), grants [50% Damage Reduction Barrier 1] to all allies"
+    },
+    {
+      "name": "50% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 50% for the next attack"
+    }
+  ],
+  "id": "20070028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20070028/20070028_256.png",
+  "character": "Cecil (Paladin)",
+  "name": "Awoken Radiant Blast",
+  "name_jp": "覚醒シャインブラスト",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid attacks (0.90/3.10 each) capped at 19999, grants [Critical Chance +50% (25s)]/[DEF and MND +30% (25s)] to the user, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Holy Mode I (Cecil (Paladin))] and [Holy Resonance +5% Boost] to the user",
+  "verified": true
+}

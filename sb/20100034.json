@@ -1,0 +1,81 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Twin Element Mode II (Fire, Wind) v2], [Awoken Blazewind Elite], [Damage Cap +10000] and [Fire/Wind Ability +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Awoken Blazewind Elite",
+      "text": "Fire and Wind abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Wind Nova after using Fire and Wind abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Wind Nova",
+      "text": "Six single attacks (2.41 each), grants [Buff Fire 10% (15s)] and [Buff Wind 10% (15s)] to the user every second use"
+    },
+    {
+      "name": "Buff Fire 10% (15s)",
+      "text": "Increases Fire damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Wind 10% (15s)",
+      "text": "Increases Wind damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Twin Element Mode II (Fire, Wind) v2",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Wind with Stacking] after using a Fire/Wind ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Fire/Wind Ability +30% Boost (15s)",
+      "text": "Fire or Wind abilities deal 30% more damage",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Twin Element Mode II (Fire, Wind) v2], [Awoken Blazewind Elite], [Damage Cap +10000] and [Fire/Wind Ability +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Awoken Blazewind Elite",
+      "text": "Fire and Wind abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Wind Nova after using Fire and Wind abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20100034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100034/20100034_256.png",
+  "character": "Terra",
+  "name": "Cross Meltdown",
+  "name_jp": "クロスメルトン",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Twin Element Mode II (Fire, Wind) v2], [Awoken Blazewind Elite], [Damage Cap +10000] and [Fire/Wind Ability +30% Boost (15s)] to the user",
+  "verified": true
+}

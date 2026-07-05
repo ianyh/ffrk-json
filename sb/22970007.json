@@ -1,0 +1,69 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Lightning 20% (25s)], grants [Awoken Lightning], [Damage Cap +10000] and [Thunder Barret Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Lightning",
+      "text": "Lightning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 20% (25s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Thunder Barret Follow-Up",
+      "text": "Casts Thunder Barret 1/2 after using 1/2+2n Lightning abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Thunder Barret 1",
+      "text": "Five single ranged attacks (0.39 each), 100% hit rate"
+    },
+    {
+      "name": "Thunder Barret 2",
+      "text": "Five single ranged attacks (0.39 each), 100% hit rate, causes [Imperil Lightning 10% (15s)]"
+    },
+    {
+      "name": "Imperil Lightning 10% (15s)",
+      "text": "Lightning Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Lightning 20% (25s)], grants [Awoken Lightning], [Damage Cap +10000] and [Thunder Barret Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Lightning",
+      "text": "Lightning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22970007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22970007/22970007_256.png",
+  "character": "Prompto",
+  "name": "Prized Quarry",
+  "name_jp": "プライズ・ハント",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [Imperil Lightning 20% (25s)], grants [Awoken Lightning], [Damage Cap +10000] and [Thunder Barret Follow-Up] to the user",
+  "verified": true
+}

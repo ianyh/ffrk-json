@@ -1,0 +1,74 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Machinist Quick Cast 3] to all allies, grants [Synchro Mode], [Attach Fire 3 with Stacking], [Damage Cap +10000] and Mood Maker +1 to the user"
+    },
+    {
+      "name": "Triple Strike",
+      "text": "Six single ranged attacks (0.90 each), grants [Buff Fire 10% (5s)], [Buff Ice 10% (5s)] and [Buff Lightning 10% (5s)] to all allies",
+      "condition": "Machinist, Support",
+      "slot": "Attack"
+    },
+    {
+      "name": "High Spirits",
+      "text": "Grants [Quick Cast 1]/[Instant Cast 1] and [ATK and MND +30%, DEF and RES +25% (8s)] to all allies if Mood Maker level 1, cause Mood Maker -1 to the user",
+      "condition": "Machinist, Support",
+      "slot": "Defend"
+    },
+    {
+      "name": "Machinist Quick Cast 3",
+      "text": "Cast speed x2.00 for Machinist abilities"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Machinist Quick Cast 3] to all allies, grants [Synchro Mode], [Attach Fire 3 with Stacking], [Damage Cap +10000] and Mood Maker +1 to the user"
+    },
+    {
+      "name": "Triple Strike",
+      "text": "Six single ranged attacks (0.90 each), grants [Buff Fire 10% (5s)], [Buff Ice 10% (5s)] and [Buff Lightning 10% (5s)] to all allies",
+      "condition": "Machinist, Support",
+      "slot": "Attack"
+    },
+    {
+      "name": "High Spirits",
+      "text": "Grants [Quick Cast 1]/[Instant Cast 1] and [ATK and MND +30%, DEF and RES +25% (8s)] to all allies if Mood Maker level 1, cause Mood Maker -1 to the user",
+      "condition": "Machinist, Support",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20610023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20610023/20610023_256.png",
+  "character": "Sazh",
+  "name": "Cool It, Will You?!",
+  "name_jp": "こん畜生ッ！",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "XIII",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Machinist Quick Cast 3] to all allies, grants [Synchro Mode], [Attach Fire 3 with Stacking], [Damage Cap +10000] and Mood Maker +1 to the user",
+  "verified": true
+}

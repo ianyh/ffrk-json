@@ -1,0 +1,79 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Terra (Wind)], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Terra (Wind)",
+      "text": "Triggers [Destruction: Terra (Wind)] when using Wind abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Terra (Wind)",
+      "text": "Six single attacks (3.05 each)."
+    },
+    {
+      "name": "Attach Wind with Secondary Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 5, up to Attach Wind 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Terra (Wind)], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Terra (Wind)",
+      "text": "Triggers [Destruction: Terra (Wind)] when using Wind abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Terra (Wind)",
+      "text": "Six single attacks (3.05 each)."
+    },
+    {
+      "name": "Attach Wind with Secondary Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 5, up to Attach Wind 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "20100067",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100067/20100067_256.png",
+  "character": "Terra",
+  "name": "Burst Break: Terra (Wind) (Break Glint)",
+  "name_jp": "烈破・ティナ風",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "VI",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

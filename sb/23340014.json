@@ -1,0 +1,103 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Samurai Mode I: Jack v2] and [Samurai Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Samurai Mode I: Jack v2",
+      "text": "Samurai abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Samurai abilities trigger 2 additional times, casts Vermillion Tranquility after using Samurai abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II: Jack v2] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Samurai Mode II: Jack v2",
+      "text": "Samurai abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Samurai abilities, casts Dual Zealous Counter after using Samurai abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Zealous Counter",
+      "text": "Grants [Buff Fire 30% (15s) to all allies with 0-3 Samurai allies in the party, Causes [Imperil Prismatic 20% (15s)] to the target and grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies with 4+ Samurai allies in the party"
+    },
+    {
+      "name": "ATK and MND +15%, DEF and RES +25% (8s)",
+      "text": "ATK and MND +15%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Vermillion Tranquility",
+      "text": "Grants [Quick Cast 1] to all allies in the same row"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Samurai Resonance +5% Boost",
+      "text": "Samurai abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Samurai Mode I: Jack v2] and [Samurai Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Samurai Mode I: Jack v2",
+      "text": "Samurai abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Samurai abilities trigger 2 additional times, casts Vermillion Tranquility after using Samurai abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Samurai Mode II: Jack v2] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Samurai Mode II: Jack v2",
+      "text": "Samurai abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Samurai abilities, casts Dual Zealous Counter after using Samurai abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Zealous Counter",
+      "text": "Grants [Buff Fire 30% (15s) to all allies with 0-3 Samurai allies in the party, Causes [Imperil Prismatic 20% (15s)] to the target and grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies with 4+ Samurai allies in the party"
+    },
+    {
+      "name": "ATK and MND +15%, DEF and RES +25% (8s)",
+      "text": "ATK and MND +15%, DEF and RES +25%",
+      "duration": "8 seconds"
+    }
+  ],
+  "id": "23340014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23340014/23340014_256.png",
+  "character": "Jack",
+  "name": "Awoken Vermillion Tranquility",
+  "name_jp": "覚醒明鏡止水・朱",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Samurai Mode I: Jack v2] and [Samurai Resonance +5% Boost] to the user",
+  "verified": true
+}

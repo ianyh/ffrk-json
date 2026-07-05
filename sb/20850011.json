@@ -1,0 +1,81 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Lightning, Wind)], [Awoken Bestial Power], [Damage Cap +10000] and [Storm Claws] to the user"
+    },
+    {
+      "name": "Awoken Bestial Power",
+      "text": "Celerity and Combat abilities don't consume uses, Celerity and Combat abilities trigger 1 additional time, casts Storm Claws after using a Celerity or Combat ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Storm Claws",
+      "text": "Grants [Attach Lightning]/[Attach Wind] after using three Lightning or Wind abilities if the triggering ability deals Lightning/Wind damage",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Twin Element Mode II (Lightning, Wind)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Wind with Stacking] after using a Lightning/Wind ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Lightning, Wind)], [Awoken Bestial Power], [Damage Cap +10000] and [Storm Claws] to the user"
+    },
+    {
+      "name": "Awoken Bestial Power",
+      "text": "Celerity and Combat abilities don't consume uses, Celerity and Combat abilities trigger 1 additional time, casts Storm Claws after using a Celerity or Combat ability",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20850011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20850011/20850011_256.png",
+  "character": "Gau",
+  "name": "Plunging Claws",
+  "name_jp": "落撃の獣爪",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VI",
+  "elements": [
+    "Wind",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Lightning, Wind)], [Awoken Bestial Power], [Damage Cap +10000] and [Storm Claws] to the user",
+  "verified": true
+}

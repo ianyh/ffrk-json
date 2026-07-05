@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "20620045",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620045/20620045_256.png",
+  "character": "Eiko",
+  "name": "Bond (Eiko)",
+  "name_jp": "絆【エーコ】",
+  "tier": "CSB+",
+  "sb_version": "CSB+1",
+  "realm": "IX",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

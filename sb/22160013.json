@@ -1,0 +1,69 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [High Quick Cast 2] and [Physical Blink Stacking 2], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Draw Potion",
+      "text": "Restores HP (25)",
+      "condition": "White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Draw Friend",
+      "text": "Grants [Physical Blink 1]",
+      "condition": "White Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Physical Blink Stacking 2",
+      "text": "Allows to stack Physical Blink, up to Physical Blink 2"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [High Quick Cast 2] and [Physical Blink Stacking 2], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Draw Potion",
+      "text": "Restores HP (25)",
+      "condition": "White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Draw Friend",
+      "text": "Grants [Physical Blink 1]",
+      "condition": "White Magic",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22160013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22160013/22160013_256.png",
+  "character": "Relm",
+  "name": "Galaxy Prism",
+  "name_jp": "ギャラクシープリズム",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [High Quick Cast 2] and [Physical Blink Stacking 2], grants [Synchro Mode] and [Damage Cap +10000] to the user",
+  "verified": true
+}

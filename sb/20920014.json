@@ -1,0 +1,139 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [Critical Chance +50% (25s)] or [MAG and RES +30% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Reno)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Lightning Mode I (Reno)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Lightning abilities after casting 1/2/3+ Lightning abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reno)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Lightning Mode II (Reno)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Lightning abilities, grants [Lightning Ability +30% Boost 3]/[Lightning Ability +30% Boost 3] and [Damage Cap +10000 3]/[Lightning Ability +50% Boost 3], [Instant Cast 3] and [Damage Cap +20000 3] to the user if 0/1/2 of Rude and Elena are alive after using Lightning abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Lightning Ability +30% Boost 3",
+      "text": "Lightning abilities deal 30% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Damage Cap +10000 3",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Lightning Ability +50% Boost 3",
+      "text": "Lightning abilities deal 50% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Instant Cast 3",
+      "text": "Instant cast speed",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Damage Cap +20000 3",
+      "text": "Increases the damage/healing cap by 20000",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Critical Chance +50% (25s)",
+      "text": "Critical chance +50% (additive with other critical chance sources)"
+    },
+    {
+      "name": "MAG and RES +30% (25s)",
+      "text": "MAG and RES +30%"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Lightning Resonance +5% Boost",
+      "text": "Lightning abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [Critical Chance +50% (25s)] or [MAG and RES +30% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Reno)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Lightning Mode I (Reno)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Lightning abilities after casting 1/2/3+ Lightning abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reno)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Lightning Mode II (Reno)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Lightning abilities, grants [Lightning Ability +30% Boost 3]/[Lightning Ability +30% Boost 3] and [Damage Cap +10000 3]/[Lightning Ability +50% Boost 3], [Instant Cast 3] and [Damage Cap +20000 3] to the user if 0/1/2 of Rude and Elena are alive after using Lightning abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Lightning Ability +30% Boost 3",
+      "text": "Lightning abilities deal 30% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Damage Cap +10000 3",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Lightning Ability +50% Boost 3",
+      "text": "Lightning abilities deal 50% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Instant Cast 3",
+      "text": "Instant cast speed",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Damage Cap +20000 3",
+      "text": "Increases the damage/healing cap by 20000",
+      "duration": "3 turns"
+    }
+  ],
+  "id": "20920014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20920014/20920014_256.png",
+  "character": "Reno",
+  "name": "Awoken Turk Light",
+  "name_jp": "覚醒タークス光線",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [Critical Chance +50% (25s)] or [MAG and RES +30% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Lightning Mode I (Reno)] and [Lightning Resonance +5% Boost] to the user",
+  "verified": true
+}

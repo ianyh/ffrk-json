@@ -1,0 +1,68 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "FIfteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Twinspear Thunderguard",
+      "text": "Six single attacks (0.90 each), grants [40% Damage Reduction Barrier 1] to all allies",
+      "condition": "Celerity",
+      "slot": "Attack"
+    },
+    {
+      "name": "Orange Bolt",
+      "text": "Three single attacks (0.90 each), causes [Imperil Lightning 10% (5s)] if the user has any Damage Reduction Barrier",
+      "condition": "Celerity",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Lightning 3 with Stacking",
+      "text": "Increase Attach Lightning Level by 3 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "FIfteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Twinspear Thunderguard",
+      "text": "Six single attacks (0.90 each), grants [40% Damage Reduction Barrier 1] to all allies",
+      "condition": "Celerity",
+      "slot": "Attack"
+    },
+    {
+      "name": "Orange Bolt",
+      "text": "Three single attacks (0.90 each), causes [Imperil Lightning 10% (5s)] if the user has any Damage Reduction Barrier",
+      "condition": "Celerity",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22820009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22820009/22820009_256.png",
+  "character": "Shelke",
+  "name": "Transparent Thunder",
+  "name_jp": "無式・轟雷",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "FIfteen single attacks (0.60 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode] and [Damage Cap +10000] to the user",
+  "verified": true
+}

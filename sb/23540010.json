@@ -1,0 +1,107 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Magic Princess], [Damage Cap +10000], [Quad Element Mode (Ice, Lightning, Wind, Water)] and [Forest Protector Mode] to the user"
+    },
+    {
+      "name": "Awoken Magic Princess",
+      "text": "Ice, Lightning, Water and Wind abilities don't consume uses, Ice, Lightning, Water and Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice, Lightning, Water and Wind abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quad Element Mode (Ice, Lightning, Wind, Water)",
+      "text": "Grants [Attach Ice]/[Attach Lightning]/[Attach Wind]/[Attach Water] after using a Ice/Lightning/Wind/Water ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Water",
+      "text": "Replaces Attack command, increases Water damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Water resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Forest Protector Mode",
+      "text": "Casts Guiding Break after another ally casts a Ice, Lightning, Wind or Water ability, removed after triggering three times, grants [Instant Cast 2] and [Ice/Lightning/Water/Wind Ability +30% Boost 2] when removed",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Ice/Lightning/Water/Wind Ability +30% Boost 2",
+      "text": "Ice, Lightning, Water and Wind abilities deal 30% more damage",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Guiding Break",
+      "text": "Three single attacks (4.02 each), grants [Ice/Lightning/Water/Wind Ability +30% Boost 1] to the ally who triggered this ability"
+    },
+    {
+      "name": "Ice/Lightning/Water/Wind Ability +30% Boost 1",
+      "text": "Ice, Lightning, Water and Wind abilities deal 30% more damage",
+      "duration": "1 turn"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Magic Princess], [Damage Cap +10000], [Quad Element Mode (Ice, Lightning, Wind, Water)] and [Forest Protector Mode] to the user"
+    },
+    {
+      "name": "Awoken Magic Princess",
+      "text": "Ice, Lightning, Water and Wind abilities don't consume uses, Ice, Lightning, Water and Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice, Lightning, Water and Wind abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "23540010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23540010/23540010_256.png",
+  "character": "Arciela",
+  "name": "Dynastic Gravitas",
+  "name_jp": "Dグラビタス",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XI",
+  "elements": [
+    "Ice",
+    "Lightning",
+    "Water",
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Awoken Magic Princess], [Damage Cap +10000], [Quad Element Mode (Ice, Lightning, Wind, Water)] and [Forest Protector Mode] to the user",
+  "verified": true
+}

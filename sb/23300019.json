@@ -1,0 +1,40 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Hilda (Earth)], [Instant ATB 1] to user."
+    },
+    {
+      "name": "Soul Drive Mode",
+      "text": "After the duration expires, the status is removed only after the character takes an action"
+    },
+    {
+      "name": "Soul Drive Mode: Hilda (Earth)",
+      "text": ""
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Hilda (Earth)], [Instant ATB 1] to user."
+    }
+  ],
+  "id": "23300019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23300019/23300019_256.png",
+  "character": "Hilda",
+  "name": "Soul Drive: Hilda (Earth)",
+  "name_jp": "SD・ヒルダ地",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Hilda (Earth)], [Instant ATB 1] to user.",
+  "verified": false
+}

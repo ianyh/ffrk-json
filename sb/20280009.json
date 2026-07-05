@@ -1,0 +1,84 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 3], grants [Awoken Sovereign] and [Beloved Homeland Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Sovereign",
+      "text": "Support abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Support abilities at ability rank 1/2/3/4/5, grants [Physical Blink 1] and [Magical Blink 1] to all allies after using two Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Physical Blink 1",
+      "text": "Evades the next PHY attack that deals physical, missing HP or fixed damage or NAT attack that deals physical or fractional damage"
+    },
+    {
+      "name": "Magical Blink 1",
+      "text": "Evades the next non-PHY, non-NIN attack that deals magical, fractional or missing HP damage"
+    },
+    {
+      "name": "High Quick Cast 3",
+      "text": "Cast speed x3.00",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Beloved Homeland Follow-Up",
+      "text": "Casts Beloved Homeland and Lost Nation after using a Support ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Beloved Homeland",
+      "text": "Four single ranged hybrid attacks (0.28 or 1.00 each), grants [PHY +30% Boost 1] or [Magical +30% Boost 1] to all allies, 100% hit rate"
+    },
+    {
+      "name": "PHY +30% Boost 1",
+      "text": "PHY attacks deal 30% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Magical +30% Boost 1",
+      "text": "Magical attacks deal 30% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Lost Nation",
+      "text": "Four single ranged hybrid attacks (0.28 or 1.00 each), causes [ATK and DEF -50% (15s)]/[MAG and RES -50% (15s)] after 1/2+2n uses, 100% hit rate"
+    },
+    {
+      "name": "ATK and DEF -50% (15s)",
+      "text": "ATK and DEF -50%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "MAG and RES -50% (15s)",
+      "text": "MAG and RES -50%",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 3], grants [Awoken Sovereign] and [Beloved Homeland Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Sovereign",
+      "text": "Support abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Support abilities at ability rank 1/2/3/4/5, grants [Physical Blink 1] and [Magical Blink 1] to all allies after using two Support abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20280009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280009/20280009_256.png",
+  "character": "Gordon",
+  "name": "Kashuan Royal Shield",
+  "name_jp": "カシュオーンの王盾",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [High Quick Cast 3], grants [Awoken Sovereign] and [Beloved Homeland Follow-Up] to the user",
+  "verified": true
+}

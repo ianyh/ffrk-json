@@ -1,0 +1,74 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Tri-Element Mode III (Earth, Wind, Poison)], [Synchro Mode], [Damage Cap +10000] and [Assassinate] to the user"
+    },
+    {
+      "name": "Final Edge",
+      "text": "Six single hybrid attacks (0.80 or 411.75 each)",
+      "condition": "Ninja",
+      "slot": "Attack"
+    },
+    {
+      "name": "Arcing Blade",
+      "text": "One single ranged hybrid attack (0.80 or 408.00), grants [Ninja +30% Boost 3] to the user",
+      "condition": "Ninja",
+      "slot": "Defend"
+    },
+    {
+      "name": "Tri-Element Mode III (Earth, Wind, Poison)",
+      "text": "Grants [Attach Earth 2 with Stacking]/[Attach Wind 2 with Stacking]/[Attach Poison 2 with Stacking] after using a Earth/Wind/Poison ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Assassinate",
+      "text": "Grants [Conditional Attach Element] to the user after using three of Assassin's Blade or Blade Ascension"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Tri-Element Mode III (Earth, Wind, Poison)], [Synchro Mode], [Damage Cap +10000] and [Assassinate] to the user"
+    },
+    {
+      "name": "Final Edge",
+      "text": "Six single hybrid attacks (0.80 or 411.75 each)",
+      "condition": "Ninja",
+      "slot": "Attack"
+    },
+    {
+      "name": "Arcing Blade",
+      "text": "One single ranged hybrid attack (0.80 or 408.00), grants [Ninja +30% Boost 3] to the user",
+      "condition": "Ninja",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20950010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20950010/20950010_256.png",
+  "character": "Thancred",
+  "name": "Assassinate",
+  "name_jp": "終撃",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIV",
+  "elements": [
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single hybrid attacks (0.60 or 225.00 each), grants [Tri-Element Mode III (Earth, Wind, Poison)], [Synchro Mode], [Damage Cap +10000] and [Assassinate] to the user",
+  "verified": true
+}

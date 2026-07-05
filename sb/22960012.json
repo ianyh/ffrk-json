@@ -1,0 +1,120 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Maiden Mode I (Aria)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Maiden Mode I (Aria)",
+      "text": "Cast speed x2.00/x2.50/x3.00 for White Magic/Bard abilities after using 1/2/3+ White Magic/Bard abilities, casts D: Tears of the Priestess after using White Magic/Bard abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Maiden Mode II (Aria)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Maiden Mode II (Aria)",
+      "text": "Instant cast speed for White Magic/Bard abilities, casts D: Holy Sky Iris after using White Magic/Bard abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "D: Holy Sky Iris",
+      "text": "Grants [Stoneskin: 50%] and [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Stoneskin: 50%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 50% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "D: Tears of the Priestess",
+      "text": " Heals (10/15/25/35/45) to all allies at ability rank 1/2/3/4/5, and grants [Quick Cast 1] to all allies every second activation"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "White Magic Healing Resonance Boost +5%",
+      "text": "White Magic abilities restore 5% more HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Maiden Mode I (Aria)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Maiden Mode I (Aria)",
+      "text": "Cast speed x2.00/x2.50/x3.00 for White Magic/Bard abilities after using 1/2/3+ White Magic/Bard abilities, casts D: Tears of the Priestess after using White Magic/Bard abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Maiden Mode II (Aria)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Maiden Mode II (Aria)",
+      "text": "Instant cast speed for White Magic/Bard abilities, casts D: Holy Sky Iris after using White Magic/Bard abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "D: Holy Sky Iris",
+      "text": "Grants [Stoneskin: 50%] and [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Stoneskin: 50%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 50% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22960012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960012/22960012_256.png",
+  "character": "Aria",
+  "name": "Awoken Maiden of Water",
+  "name_jp": "覚醒水の巫女",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "III",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Maiden Mode I (Aria)] and [White Magic Healing Resonance Boost +5%] to the user",
+  "verified": true
+}

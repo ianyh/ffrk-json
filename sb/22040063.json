@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "id": "22040063",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040063/22040063_256.png",
+  "character": "Yuffie",
+  "name": "Burst Break: Yuffie (Water) (Break Glint)",
+  "name_jp": "烈破・ユフィ水",
+  "tier": "Buster",
+  "sb_version": "Buster2",
+  "realm": "VII",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

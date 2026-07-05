@@ -1,0 +1,73 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000], and [Heavy Charge +2] to the user"
+    },
+    {
+      "name": "Earth Destroyer",
+      "text": "Six single attacks (0.90 each), causes [ATK and MAG -50%] for 8 seconds at Heavy Charge 2",
+      "condition": "Earth",
+      "slot": "Attack"
+    },
+    {
+      "name": "Earth Ravager",
+      "text": "Three single attacks (0.90 each), grants [Heavy Charge +1] and [Earth Ability +50% Boost 1] to the user",
+      "condition": "Earth",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Heavy Charge +2",
+      "text": "Increases Heavy Charge level by 2 when set"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000], and [Heavy Charge +2] to the user"
+    },
+    {
+      "name": "Earth Destroyer",
+      "text": "Six single attacks (0.90 each), causes [ATK and MAG -50%] for 8 seconds at Heavy Charge 2",
+      "condition": "Earth",
+      "slot": "Attack"
+    },
+    {
+      "name": "Earth Ravager",
+      "text": "Three single attacks (0.90 each), grants [Heavy Charge +1] and [Earth Ability +50% Boost 1] to the user",
+      "condition": "Earth",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23190008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23190008/23190008_256.png",
+  "character": "Cinque",
+  "name": "Meteor Cyclone",
+  "name_jp": "メテオサイクロン",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Earth",
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000], and [Heavy Charge +2] to the user",
+  "verified": true
+}

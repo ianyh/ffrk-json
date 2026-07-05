@@ -1,0 +1,68 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Poison Damage +30% (15s)] to all allies, grants [Damage Cap +10000], [Attach Poison 3 with Stacking], and [Synchro Mode] to the user"
+    },
+    {
+      "name": "Explosive Tentacle",
+      "text": "4/6/8 single hybrid attacks (0.90 or 3.05 each) after 0/1/2+ uses",
+      "condition": "Poison",
+      "slot": "Attack"
+    },
+    {
+      "name": "Shrug THIS Off!",
+      "text": "Three single hybrid attacks (0.90 or 3.05 each), grants [Quick Cast 1] to all allies",
+      "condition": "Combat, Black Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Attach Poison 3 with Stacking",
+      "text": "Increase Attach Poison Level by 3 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Poison Damage +30% (15s)] to all allies, grants [Damage Cap +10000], [Attach Poison 3 with Stacking], and [Synchro Mode] to the user"
+    },
+    {
+      "name": "Explosive Tentacle",
+      "text": "4/6/8 single hybrid attacks (0.90 or 3.05 each) after 0/1/2+ uses",
+      "condition": "Poison",
+      "slot": "Attack"
+    },
+    {
+      "name": "Shrug THIS Off!",
+      "text": "Three single hybrid attacks (0.90 or 3.05 each), grants [Quick Cast 1] to all allies",
+      "condition": "Combat, Black Magic",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23560006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560006/23560006_256.png",
+  "character": "Ultros",
+  "name": "Venomous Volley",
+  "name_jp": "れんぞくどくづき",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single hybrid attacks (0.60 or 1.50 each), grants [Poison Damage +30% (15s)] to all allies, grants [Damage Cap +10000], [Attach Poison 3 with Stacking], and [Synchro Mode] to the user",
+  "verified": false
+}

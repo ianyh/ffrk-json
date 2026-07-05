@@ -1,0 +1,55 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks at (3.05 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce"
+    },
+    {
+      "name": "Crystal Force I",
+      "text": "4 single attacks (6.60 each) capped at 19999, grants [Magical +30% Boost 1] to all allies, grants [Damage Cap +10000 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Crystal Force II",
+      "text": "4 single attacks (6.60 each) capped at 19999, grants [Magical +30% Boost 1] to all allies, grants [Damage Cap +10000 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "7 single attacks at (3.05 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce"
+    },
+    {
+      "name": "Crystal Force I",
+      "text": "4 single attacks (6.60 each) capped at 19999, grants [Magical +30% Boost 1] to all allies, grants [Damage Cap +10000 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Crystal Force II",
+      "text": "4 single attacks (6.60 each) capped at 19999, grants [Magical +30% Boost 1] to all allies, grants [Damage Cap +10000 1], [DEF and RES 50% Piercing 1], and [200% ATB 1] to the user"
+    }
+  ],
+  "id": "20640026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20640026/20640026_256.png",
+  "character": "Tellah",
+  "name": "Radiant Sage's Scar",
+  "name_jp": "耀光老賢者の剛痕",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "IV",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "7 single attacks at (3.05 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], and Crystal Mode to the user\nCrystal Mode: Earth Ability Boost, Dualcast Earth, Zero Hone Cost to Earth Abilities & 25% DEF/RES Pierce",
+  "verified": false
+}

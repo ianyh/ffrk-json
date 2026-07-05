@@ -1,0 +1,112 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], grants [Twin Element Mode II (Dark/Holy)], [Damage Cap +10000], [Dual Awoken Darkwood Mode I (Exdeath)] and  [Holy/Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Darkwood Mode I (Exdeath)",
+      "text": "Holy and Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy and Dark abilities trigger 2 additional times, casts D Neo Blaster after using Holy or Dark abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Darkwood Mode II (Exdeath)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Darkwood Mode II (Exdeath)",
+      "text": "Holy and Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Holy and Dark abilities, [Imperil Holy 20% (15s)] and [Imperil Dark 20% (15s)] after using Holy and Dark abilities, and grants [Quick Cast 2] to user",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Holy 20% (15s)",
+      "text": "Holy Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 20% (15s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00",
+      "duration": "2 turns"
+    },
+    {
+      "name": "\nD Neo Blaster",
+      "text": "Four single Dark/Holy/NE attacks (1.41/1.61/1.81/2.01/2.11 or 1.5/1.72/1.93/2.14/2.25) scaling with uses"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], grants [Twin Element Mode II (Dark/Holy)], [Damage Cap +10000], [Dual Awoken Darkwood Mode I (Exdeath)] and  [Holy/Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Darkwood Mode I (Exdeath)",
+      "text": "Holy and Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy and Dark abilities trigger 2 additional times, casts D Neo Blaster after using Holy or Dark abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Darkwood Mode II (Exdeath)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Darkwood Mode II (Exdeath)",
+      "text": "Holy and Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Holy and Dark abilities, [Imperil Holy 20% (15s)] and [Imperil Dark 20% (15s)] after using Holy and Dark abilities, and grants [Quick Cast 2] to user",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Holy 20% (15s)",
+      "text": "Holy Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 20% (15s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00",
+      "duration": "2 turns"
+    }
+  ],
+  "id": "22080022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080022/22080022_256.png",
+  "character": "Exdeath",
+  "name": "Awoken 100 Gs",
+  "name_jp": "覚醒じゅうりょく100",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], grants [Twin Element Mode II (Dark/Holy)], [Damage Cap +10000], [Dual Awoken Darkwood Mode I (Exdeath)] and  [Holy/Dark Resonance +5% Boost] to the user",
+  "verified": true
+}

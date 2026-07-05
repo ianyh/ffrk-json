@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "id": "20330043",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330043/20330043_256.png",
+  "character": "Warrior of Light",
+  "name": "Burst Break: Warrior of Light (Break Glint)",
+  "name_jp": "烈破・光の戦士",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "I",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

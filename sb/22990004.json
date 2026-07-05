@@ -1,0 +1,85 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Ice 20% (25s)] and [Imperil Dark 20% (25s)], grants [Awoken Laguna Mania], [Damage Cap +10000], [Switch Draw Mode (Ice, Dark)] and [Max Pain Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Laguna Mania",
+      "text": "Dark and Ice abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Ice abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (25s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Imperil Dark 20% (25s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Switch Draw Mode (Ice, Dark)",
+      "text": "Grants [Attach Ice]/[Attach Dark] after using a Ice/Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Max Pain Follow-Up",
+      "text": "Casts Max Pain after using two Dark or Ice abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Max Pain",
+      "text": "Six single attacks (0.66), 100% additional critical chance if Laguna or Ward are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [Imperil Ice 20% (25s)] and [Imperil Dark 20% (25s)], grants [Awoken Laguna Mania], [Damage Cap +10000], [Switch Draw Mode (Ice, Dark)] and [Max Pain Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Laguna Mania",
+      "text": "Dark and Ice abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Ice abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22990004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990004/22990004_256.png",
+  "character": "Kiros",
+  "name": "Repeated Exsanguination",
+  "name_jp": "ブラッドペインリピート",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VIII",
+  "elements": [
+    "Dark",
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), causes [Imperil Ice 20% (25s)] and [Imperil Dark 20% (25s)], grants [Awoken Laguna Mania], [Damage Cap +10000], [Switch Draw Mode (Ice, Dark)] and [Max Pain Follow-Up] to the user",
+  "verified": true
+}

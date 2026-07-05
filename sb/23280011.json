@@ -1,0 +1,73 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [World Watcher Mode] to the user"
+    },
+    {
+      "name": "Astral Purge",
+      "text": "Six single attacks (2.05 each), 3.05 multiplier if exploiting Earth or Holy weakness, grants [Damage Cap +10000 1] to the user",
+      "condition": "Earth",
+      "slot": "Attack"
+    },
+    {
+      "name": "Motherland",
+      "text": "Grants [Earth Ability +50% Boost 3]",
+      "condition": "Earth",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "World Watcher Mode",
+      "text": "Casts Divine Justice every 3.00 seconds"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [World Watcher Mode] to the user"
+    },
+    {
+      "name": "Astral Purge",
+      "text": "Six single attacks (2.05 each), 3.05 multiplier if exploiting Earth or Holy weakness, grants [Damage Cap +10000 1] to the user",
+      "condition": "Earth",
+      "slot": "Attack"
+    },
+    {
+      "name": "Motherland",
+      "text": "Grants [Earth Ability +50% Boost 3]",
+      "condition": "Earth",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23280011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23280011/23280011_256.png",
+  "character": "Enna Kros",
+  "name": "The Creator's Rules",
+  "name_jp": "世界のルール・創造",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Earth",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [World Watcher Mode] to the user",
+  "verified": true
+}

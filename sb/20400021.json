@@ -1,0 +1,72 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Ethereal Bond] to the user"
+    },
+    {
+      "name": "Transient Wind",
+      "text": "Six single attacks (0.85/0.90/0.95 each) scaling with activations",
+      "condition": "Wind",
+      "slot": "Attack"
+    },
+    {
+      "name": "Relentless Wind",
+      "text": "One single attack (0.90), grants [Quick Cast 2] and [Dualcast Spellblade 1] to the user",
+      "condition": "Wind",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Wind 3 with Stacking",
+      "text": "Increase Attach Wind Level by 3 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ethereal Bond",
+      "text": "Grants [Attach Wind] after using Transient Wind or Relentless Wind three times"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Ethereal Bond] to the user"
+    },
+    {
+      "name": "Transient Wind",
+      "text": "Six single attacks (0.85/0.90/0.95 each) scaling with activations",
+      "condition": "Wind",
+      "slot": "Attack"
+    },
+    {
+      "name": "Relentless Wind",
+      "text": "One single attack (0.90), grants [Quick Cast 2] and [Dualcast Spellblade 1] to the user",
+      "condition": "Wind",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20400021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400021/20400021_256.png",
+  "character": "Bartz",
+  "name": "Ethereal Bond",
+  "name_jp": "風のきずな",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "V",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Wind 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Ethereal Bond] to the user",
+  "verified": true
+}

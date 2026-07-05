@@ -1,0 +1,114 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Noel], [Instant ATB 1] to user. Grants [Attach Ice with Stacking]/[Attach Water with Stacking] to user based on if entry damage was Ice/Water."
+    },
+    {
+      "name": "Crystal Force I",
+      "text": "Four single attacks (2.00 each) capped at 19,999, ranged. Grants [Ice, Water Ability +30% Boost 1], [Dualcast Ice, Water 1], [DEF and RES 50% Piercing 1], [200% ATB 1] to user. After using Crystal Force, casts [Radiant Strike: Noel]"
+    },
+    {
+      "name": "Crystal Force II",
+      "text": "Four single attacks (2.00 each) capped at 19,999, ranged. Grants [Ice, Water Ability +30% Boost 1], [Dualcast Ice, Water 1], [DEF and RES 50% Piercing 1], [200% ATB 1] to user. After using Crystal Force, casts [Radiant Strike: Noel]"
+    },
+    {
+      "name": "Crystal Force Mode: Noel",
+      "text": "Ice/Water abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice/Water abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if user hasn't Crystal Force Mode, triggers [Radiant Strike: Noel] after using Crystal Force abilities (max 1)"
+    },
+    {
+      "name": "DEF and RES 25% Piercing (15s)",
+      "text": "Ignores 25% of the target's DEF and RES",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Radiant Strike: Noel",
+      "text": "Grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies if user has Fate synergy, causes [DEF, RES and MND -50% (8s)] to target if not."
+    },
+    {
+      "name": "ATK and MND +15%, DEF and RES +25% (8s)",
+      "text": "ATK and MND +15%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "DEF, RES and MND -50% (8s)",
+      "text": "DEF, RES and MND -50%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Noel], [Instant ATB 1] to user. Grants [Attach Ice with Stacking]/[Attach Water with Stacking] to user based on if entry damage was Ice/Water."
+    },
+    {
+      "name": "Crystal Force I",
+      "text": "Four single attacks (2.00 each) capped at 19,999, ranged. Grants [Ice, Water Ability +30% Boost 1], [Dualcast Ice, Water 1], [DEF and RES 50% Piercing 1], [200% ATB 1] to user. After using Crystal Force, casts [Radiant Strike: Noel]"
+    },
+    {
+      "name": "Crystal Force II",
+      "text": "Four single attacks (2.00 each) capped at 19,999, ranged. Grants [Ice, Water Ability +30% Boost 1], [Dualcast Ice, Water 1], [DEF and RES 50% Piercing 1], [200% ATB 1] to user. After using Crystal Force, casts [Radiant Strike: Noel]"
+    },
+    {
+      "name": "Crystal Force Mode: Noel",
+      "text": "Ice/Water abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice/Water abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if user hasn't Crystal Force Mode, triggers [Radiant Strike: Noel] after using Crystal Force abilities (max 1)"
+    },
+    {
+      "name": "DEF and RES 25% Piercing (15s)",
+      "text": "Ignores 25% of the target's DEF and RES",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Radiant Strike: Noel",
+      "text": "Grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies if user has Fate synergy, causes [DEF, RES and MND -50% (8s)] to target if not."
+    },
+    {
+      "name": "ATK and MND +15%, DEF and RES +25% (8s)",
+      "text": "ATK and MND +15%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "DEF, RES and MND -50% (8s)",
+      "text": "DEF, RES and MND -50%",
+      "duration": "8 seconds"
+    }
+  ],
+  "id": "22450047",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450047/22450047_256.png",
+  "character": "Noel",
+  "name": "Radiant Glass Javelin",
+  "name_jp": "耀光グラスジャベリン",
+  "tier": "CASB",
+  "sb_version": "CASB3",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19,999, ranged. Grants [Crystal Force Mode], [Damage Cap +10000], [Crystal Force Mode: Noel], [Instant ATB 1] to user. Grants [Attach Ice with Stacking]/[Attach Water with Stacking] to user based on if entry damage was Ice/Water.",
+  "verified": false
+}

@@ -1,0 +1,92 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Princess's Resolve Mode], [Garnet Trance] and [Peridot Thunder] to the user"
+    },
+    {
+      "name": "Eidolon Justice",
+      "text": "Six single attacks (3.05 each), grants [Lightning Ability +30% Boost 1] to the user",
+      "condition": "Summoning",
+      "slot": "Attack"
+    },
+    {
+      "name": "Song of Memories (Garnet Trance)",
+      "text": "Restores HP (80), grants [75% Damage Reduction Barrier 1], removes [Garnet Trance] from the user",
+      "condition": "Bard, White Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "Song of Memories (No Garnet Trance)",
+      "text": "Restores HP (105)",
+      "condition": "Bard, White Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Lightning 3 with Stacking",
+      "text": "Increase Attach Lightning Level by 3 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Princess's Resolve Mode",
+      "text": "Summoning abilities trigger 1 additional time, casts Thundercloud Strike after using three Summoning abilities, removed after using three Summoning abilities"
+    },
+    {
+      "name": "Garnet Trance",
+      "text": "MAG and MND +30%, cast speed x2.00"
+    },
+    {
+      "name": "Peridot Thunder",
+      "text": "Grants [Garnet Trance] to the user after using three of Eidolon Justice or Song of Memories"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Princess's Resolve Mode], [Garnet Trance] and [Peridot Thunder] to the user"
+    },
+    {
+      "name": "Eidolon Justice",
+      "text": "Six single attacks (3.05 each), grants [Lightning Ability +30% Boost 1] to the user",
+      "condition": "Summoning",
+      "slot": "Attack"
+    },
+    {
+      "name": "Song of Memories (Garnet Trance)",
+      "text": "Restores HP (80), grants [75% Damage Reduction Barrier 1], removes [Garnet Trance] from the user",
+      "condition": "Bard, White Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "Song of Memories (No Garnet Trance)",
+      "text": "Restores HP (105)",
+      "condition": "Bard, White Magic",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20360016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360016/20360016_256.png",
+  "character": "Garnet",
+  "name": "Peridot Thunder",
+  "name_jp": "ペリドット・サンダー",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IX",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Lightning 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Princess's Resolve Mode], [Garnet Trance] and [Peridot Thunder] to the user",
+  "verified": true
+}

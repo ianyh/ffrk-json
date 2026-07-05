@@ -1,0 +1,69 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], [Magical High Quick Cast 3] and [Magical +30% Boost (15s)], grants [Synchro Mode] to the user"
+    },
+    {
+      "name": "Happy Dice",
+      "text": "Restores 1500 HP, grants [Quick Cast 1] and Planet-Saving Machine +1 to the user",
+      "condition": "Dancer",
+      "slot": "Attack"
+    },
+    {
+      "name": "Pleasure Dice",
+      "text": "Grants [HP Stock (1000)]/[HP Stock (1500)]/[HP Stock (2000)] and [40% Damage Reduction Barrier 1] if the user has Planet-Saving Machine level 0/1/2, removes Planet-Saving Machine from the user",
+      "condition": "Bard",
+      "slot": "Defend"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Magical High Quick Cast 3",
+      "text": "Cast speed x3.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage"
+    },
+    {
+      "name": "Magical +30% Boost (15s)",
+      "text": "Magical attacks deal 30% more damage"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], [Magical High Quick Cast 3] and [Magical +30% Boost (15s)], grants [Synchro Mode] to the user"
+    },
+    {
+      "name": "Happy Dice",
+      "text": "Restores 1500 HP, grants [Quick Cast 1] and Planet-Saving Machine +1 to the user",
+      "condition": "Dancer",
+      "slot": "Attack"
+    },
+    {
+      "name": "Pleasure Dice",
+      "text": "Grants [HP Stock (1000)]/[HP Stock (1500)]/[HP Stock (2000)] and [40% Damage Reduction Barrier 1] if the user has Planet-Saving Machine level 0/1/2, removes Planet-Saving Machine from the user",
+      "condition": "Bard",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22250011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250011/22250011_256.png",
+  "character": "Cait Sith",
+  "name": "Miraculous Luck",
+  "name_jp": "ミラクルラッキーガール",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [MAG and MND +50% (25s)], [Magical High Quick Cast 3] and [Magical +30% Boost (15s)], grants [Synchro Mode] to the user",
+  "verified": true
+}

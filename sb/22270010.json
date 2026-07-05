@@ -1,0 +1,72 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Calm Mode] to the user"
+    },
+    {
+      "name": "Flamebeast Meteor",
+      "text": "Six single attacks (3.05 each), grants [Damage Cap +10000 1] to the user",
+      "condition": "Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Flamebeast Strike",
+      "text": "One single attack (16.40) capped at 99999, restores 1 consumed ability use to the user",
+      "condition": "Fire",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Calm Mode",
+      "text": "Casts Guardians Bond after using Flamebeast Strike, removed after triggering three times, removed if the character hasn't [Synchro Mode]"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Calm Mode] to the user"
+    },
+    {
+      "name": "Flamebeast Meteor",
+      "text": "Six single attacks (3.05 each), grants [Damage Cap +10000 1] to the user",
+      "condition": "Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Flamebeast Strike",
+      "text": "One single attack (16.40) capped at 99999, restores 1 consumed ability use to the user",
+      "condition": "Fire",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22270010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22270010/22270010_256.png",
+  "character": "Braska",
+  "name": "High Summoner's Flame",
+  "name_jp": "大召喚士の火炎",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "X",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Calm Mode] to the user",
+  "verified": true
+}

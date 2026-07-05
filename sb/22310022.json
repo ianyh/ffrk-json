@@ -1,0 +1,91 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I: Garland] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Dark Mode I: Garland",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 and critical chance =50%/75%/100% for equipped Dark abilities after casting 1/2/3+ Dark abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II: Garland], removes [Dual Awoken Dark Mode I: Garland]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Dark Mode II: Garland",
+      "text": "Increases the damage/healing cap by 20000, Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 1 additional time, critical chance =100%, grants [Deadly Strikes +10% 1] to all allies with any Attach Dark after using Dark abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Deadly Strikes +10% 1",
+      "text": "Critical hits deal 10% more damage (additive with the base critical coefficient and other Critical Damage statuses)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dark Resonance +5% Boost",
+      "text": "Dark abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I: Garland] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Dark Mode I: Garland",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 and critical chance =50%/75%/100% for equipped Dark abilities after casting 1/2/3+ Dark abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II: Garland], removes [Dual Awoken Dark Mode I: Garland]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Dark Mode II: Garland",
+      "text": "Increases the damage/healing cap by 20000, Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 1 additional time, critical chance =100%, grants [Deadly Strikes +10% 1] to all allies with any Attach Dark after using Dark abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Deadly Strikes +10% 1",
+      "text": "Critical hits deal 10% more damage (additive with the base critical coefficient and other Critical Damage statuses)",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22310022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22310022/22310022_256.png",
+  "character": "Garland",
+  "name": "Awoken Chaos Bringer",
+  "name_jp": "覚醒カオスブリンガー",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "I",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I: Garland] and [Dark Resonance +5% Boost] to the user",
+  "verified": true
+}

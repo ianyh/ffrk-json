@@ -1,0 +1,77 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [DEF and MAG +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Double Crystarium Mode III (Holy, Dark)] and [Dawning Light Follow-Up] to the user"
+    },
+    {
+      "name": "Dark Marionette",
+      "text": "Six single attacks (2.90 each), 3.20 multiplier if the user has any Doom",
+      "condition": "Dark, Holy",
+      "slot": "Attack"
+    },
+    {
+      "name": "Seraphic Phase",
+      "text": "Three single attacks (3.05 each), grants [Quick Cast 3] to the user",
+      "condition": "Dark, Holy",
+      "slot": "Defend"
+    },
+    {
+      "name": "DEF and MAG +30% (25s)",
+      "text": "DEF and MAG +30%"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Double Crystarium Mode III (Holy, Dark)",
+      "text": "Grants [Attach Holy 2 with Stacking]/[Attach Dark 2 with Stacking] after using a Holy/Dark ability"
+    },
+    {
+      "name": "Dawning Light Follow-Up",
+      "text": "Casts Holy/Dark Dawning Light after casting two of Dark Marionette or Seraphic Phase if the triggering ability deals Holy/Dark damage"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [DEF and MAG +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Double Crystarium Mode III (Holy, Dark)] and [Dawning Light Follow-Up] to the user"
+    },
+    {
+      "name": "Dark Marionette",
+      "text": "Six single attacks (2.90 each), 3.20 multiplier if the user has any Doom",
+      "condition": "Dark, Holy",
+      "slot": "Attack"
+    },
+    {
+      "name": "Seraphic Phase",
+      "text": "Three single attacks (3.05 each), grants [Quick Cast 3] to the user",
+      "condition": "Dark, Holy",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22410012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22410012/22410012_256.png",
+  "character": "Cid Raines",
+  "name": "Last Destiny",
+  "name_jp": "ラストディスティニー",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIII",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [DEF and MAG +30% (25s)] to all allies, grants [Synchro Mode], [Damage Cap +10000], [Double Crystarium Mode III (Holy, Dark)] and [Dawning Light Follow-Up] to the user",
+  "verified": true
+}

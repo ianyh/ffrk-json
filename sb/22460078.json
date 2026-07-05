@@ -1,0 +1,79 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Buster Mode], [Buster Chase Mode: Onion Knight (Water)], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Onion Knight (Water)",
+      "text": "Triggers [Destruction: Onion Knight (Water)] when using Water abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Onion Knight (Water)",
+      "text": "Six single attacks (0.90 or 3.05 each) based on ATK and MAG."
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Buster Mode], [Buster Chase Mode: Onion Knight (Water)], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Onion Knight (Water)",
+      "text": "Triggers [Destruction: Onion Knight (Water)] when using Water abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Onion Knight (Water)",
+      "text": "Six single attacks (0.90 or 3.05 each) based on ATK and MAG."
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "22460078",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22460078/22460078_256.png",
+  "character": "Onion Knight",
+  "name": "Burst Break: Onion Knight (Water) (Break Glint)",
+  "name_jp": "烈破・オニオンナイト水",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "III",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (8.00 or 26.50 each) capped at 99,999 based on ATK and MAG. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

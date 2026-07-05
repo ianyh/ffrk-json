@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "id": "20870034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870034/20870034_256.png",
+  "character": "Amarant",
+  "name": "Burst Break: Amarant (Break Glint)",
+  "name_jp": "烈破・サラマンダー",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "IX",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

@@ -1,0 +1,126 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Eight], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Ice abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [111% ATB 1] after using Ice abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Ice Damage Cap +20000 (Tactical)], [Ice 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice 166% ATB Quick Cycle (Tactical)], [Ice Quick Cast (Tactical)] to user if Level 3+ EnIce, grants [Attach Ice 3 with Stacking] to user if not."
+    },
+    {
+      "name": "Ice Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Ice attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Ice 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Ice ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Ice 166% ATB Quick Cycle (Tactical)",
+      "text": "Grants [166% ATB 1] after using an Ice ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "166% ATB 1",
+      "text": "Increase ATB charge speed by x1.66",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Ice Quick Cast (Tactical)",
+      "text": "Cast speed x2.00 for Ice while in Tactical Awoken Mode"
+    },
+    {
+      "name": "Attach Ice 3 with Stacking",
+      "text": "Increase Attach Ice Level by 3 and increase Max Attach Element Level by 2, up to Attach Ice 3",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Eight], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Ice abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [111% ATB 1] after using Ice abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single piercing attack (11.00) capped at 199,999. Grants [Ice Damage Cap +20000 (Tactical)], [Ice 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Ice 166% ATB Quick Cycle (Tactical)], [Ice Quick Cast (Tactical)] to user if Level 3+ EnIce, grants [Attach Ice 3 with Stacking] to user if not."
+    },
+    {
+      "name": "Ice Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Ice attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Ice 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Ice ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Ice 166% ATB Quick Cycle (Tactical)",
+      "text": "Grants [166% ATB 1] after using an Ice ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "166% ATB 1",
+      "text": "Increase ATB charge speed by x1.66",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Ice Quick Cast (Tactical)",
+      "text": "Cast speed x2.00 for Ice while in Tactical Awoken Mode"
+    },
+    {
+      "name": "Attach Ice 3 with Stacking",
+      "text": "Increase Attach Ice Level by 3 and increase Max Attach Element Level by 2, up to Attach Ice 3",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "23360025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23360025/23360025_256.png",
+  "character": "Eight",
+  "name": "War-Awoken Last Stand Zero",
+  "name_jp": "戦醒背水の陣・零",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Eight], [ATK +500 (25s) (Tactical)] to user.",
+  "verified": false
+}

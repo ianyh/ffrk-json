@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "20330042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20330042/20330042_256.png",
+  "character": "Warrior of Light",
+  "name": "Superior Shining Shield",
+  "name_jp": "超極シャイニングシールド",
+  "tier": "XSB",
+  "sb_version": "XSB1",
+  "realm": "I",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

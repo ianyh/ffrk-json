@@ -1,0 +1,65 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user"
+    },
+    {
+      "name": "Resolute Mind",
+      "text": "Causes [ATK and DEF -50% (15s)]/[MAG and RES -50% (15s)] every 1+2n/2+2n activations",
+      "condition": "White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Delicate Command",
+      "text": "Grants [Soul Break Gauge +150] if the user has Rally level > 0, causes Rally -1 to the user, grants [Quick Cast 1] to all allies",
+      "condition": "White Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "High Quick Cast 3",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "ATK, MAG and MND +30% (25s)",
+      "text": "ATK, MAG and MND +30%"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user"
+    },
+    {
+      "name": "Resolute Mind",
+      "text": "Causes [ATK and DEF -50% (15s)]/[MAG and RES -50% (15s)] every 1+2n/2+2n activations",
+      "condition": "White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Delicate Command",
+      "text": "Grants [Soul Break Gauge +150] if the user has Rally level > 0, causes Rally -1 to the user, grants [Quick Cast 1] to all allies",
+      "condition": "White Magic",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20280011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280011/20280011_256.png",
+  "character": "Gordon",
+  "name": "Honored Memory",
+  "name_jp": "想いの継承",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [High Quick Cast 3] and [ATK, MAG and MND +30% (25s)], grants [Synchro Mode] and Rally +2 to the user",
+  "verified": true
+}

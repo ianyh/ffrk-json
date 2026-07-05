@@ -1,0 +1,138 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode (Ice, Lightning, Earth)], [Damage Cap +10000], [Arcane Dyad Empowered: Xezat], [Martial Legacy Damage Tracker] and [Martial Legacy Level]"
+    },
+    {
+      "name": "Tri-Element Mode (Ice, Lightning, Earth)",
+      "text": "Grants [Attach Ice]/[Attach Lightning]/[Attach Earth] after using a Ice/Lightning/Earth ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Xezat",
+      "text": "Keeps track of the number of uses of Martial Legacy (0~2), removed after using Martial Legacy two times"
+    },
+    {
+      "name": "Martial Legacy Damage Tracker",
+      "text": "Increases Martial Legacy level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Xezat]"
+    },
+    {
+      "name": "Martial Legacy Level",
+      "text": "Keeps track of Martial Legacy level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Xezat]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Tri-Element Mode (Ice, Lightning, Earth)], [Damage Cap +10000], [Arcane Dyad Empowered: Xezat], [Martial Legacy Damage Tracker] and [Martial Legacy Level]"
+    },
+    {
+      "name": "Tri-Element Mode (Ice, Lightning, Earth)",
+      "text": "Grants [Attach Ice]/[Attach Lightning]/[Attach Earth] after using a Ice/Lightning/Earth ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Xezat",
+      "text": "Keeps track of the number of uses of Martial Legacy (0~2), removed after using Martial Legacy two times"
+    },
+    {
+      "name": "Martial Legacy Damage Tracker",
+      "text": "Increases Martial Legacy level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Xezat]"
+    },
+    {
+      "name": "Martial Legacy Level",
+      "text": "Keeps track of Martial Legacy level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Xezat]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode (Ice, Lightning, Earth)], [Damage Cap +10000], [Arcane Dyad Empowered: Xezat], [Martial Legacy Damage Tracker] and [Martial Legacy Level]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Tri-Element Mode (Ice, Lightning, Earth)], [Damage Cap +10000], [Arcane Dyad Empowered: Xezat], [Martial Legacy Damage Tracker] and [Martial Legacy Level]"
+    },
+    {
+      "name": "Tri-Element Mode (Ice, Lightning, Earth)",
+      "text": "Grants [Attach Ice]/[Attach Lightning]/[Attach Earth] after using a Ice/Lightning/Earth ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Xezat",
+      "text": "Keeps track of the number of uses of Martial Legacy (0~2), removed after using Martial Legacy two times"
+    },
+    {
+      "name": "Martial Legacy Damage Tracker",
+      "text": "Increases Martial Legacy level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Xezat]"
+    },
+    {
+      "name": "Martial Legacy Level",
+      "text": "Keeps track of Martial Legacy level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Xezat]"
+    }
+  ],
+  "id": "23160010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23160010/23160010_256.png",
+  "character": "Xezat",
+  "name": "Martial Legacy (Engaged)",
+  "name_jp": "新たなる4戦士へ",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Tri-Element Mode (Ice, Lightning, Earth)], [Damage Cap +10000], [Arcane Dyad Empowered: Xezat], [Martial Legacy Damage Tracker] and [Martial Legacy Level]",
+  "verified": true
+}

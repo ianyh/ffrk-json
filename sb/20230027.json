@@ -1,0 +1,70 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK +30%, DEF +25% (25s)], [Attach Earth with Stacking], [Awoken Platinum Crusher], [Damage Cap +10000], [Monk Quick Cast] and [Buff Earth 20% (15s)] to the user"
+    },
+    {
+      "name": "Awoken Platinum Crusher",
+      "text": "Monk abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Rock Drive after using Monk abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Rock Drive",
+      "text": "Six single attacks (0.72 each), 100% hit rate"
+    },
+    {
+      "name": "ATK +30%, DEF +25% (25s)",
+      "text": "ATK +30%, DEF +25%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Monk Quick Cast",
+      "text": "Cast speed x2.00 for Monk abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Earth 20% (15s)",
+      "text": "Increases Earth damage dealt by 20%, cumulable",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK +30%, DEF +25% (25s)], [Attach Earth with Stacking], [Awoken Platinum Crusher], [Damage Cap +10000], [Monk Quick Cast] and [Buff Earth 20% (15s)] to the user"
+    },
+    {
+      "name": "Awoken Platinum Crusher",
+      "text": "Monk abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Rock Drive after using Monk abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20230027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20230027/20230027_256.png",
+  "character": "Tifa",
+  "name": "Chain Somersault",
+  "name_jp": "連続サマーソルト",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK +30%, DEF +25% (25s)], [Attach Earth with Stacking], [Awoken Platinum Crusher], [Damage Cap +10000], [Monk Quick Cast] and [Buff Earth 20% (15s)] to the user",
+  "verified": true
+}

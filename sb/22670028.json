@@ -1,0 +1,106 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Apparition Mode I (Cloud of Darkness)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Apparition Mode I (Cloud of Darkness)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 2 additional times, causes [Imperil Lightning 10% (15s)] after equipped Lightning abilities (Max 3), grants [Quick Cast 1] to user after equipped Lightning abilities (Max 3)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Apparition Mode II (Cloud of Darkness)], removes [Dual Awoken Apparition Mode I (Cloud of Darkness)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Apparition Mode II (Cloud of Darkness)",
+      "text": "Increases the damage/healing cap by 10000, Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Lightning abilities, Lightning abilities trigger 2 additional times, grants [Lightning +50% Boost 1] and [Instant Cast 1] when removed",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Lightning +50% Boost 1",
+      "text": "Lightning attacks deal 50% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Lightning Resonance +5% Boost",
+      "text": "Lightning abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Apparition Mode I (Cloud of Darkness)] and [Lightning Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Apparition Mode I (Cloud of Darkness)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 2 additional times, causes [Imperil Lightning 10% (15s)] after equipped Lightning abilities (Max 3), grants [Quick Cast 1] to user after equipped Lightning abilities (Max 3)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Apparition Mode II (Cloud of Darkness)], removes [Dual Awoken Apparition Mode I (Cloud of Darkness)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Apparition Mode II (Cloud of Darkness)",
+      "text": "Increases the damage/healing cap by 10000, Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Lightning abilities, Lightning abilities trigger 2 additional times, grants [Lightning +50% Boost 1] and [Instant Cast 1] when removed",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Lightning +50% Boost 1",
+      "text": "Lightning attacks deal 50% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22670028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670028/22670028_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Awoken Wrath Particle Beam",
+  "name_jp": "覚醒報復式 波動砲",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "III",
+  "elements": [
+    "Dark",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Lightning with Stacking], [Damage Cap +10000], [Dual Awoken Apparition Mode I (Cloud of Darkness)] and [Lightning Resonance +5% Boost] to the user",
+  "verified": true
+}

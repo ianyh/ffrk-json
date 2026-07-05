@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "20870033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20870033/20870033_256.png",
+  "character": "Amarant",
+  "name": "Superior Blazing Elan",
+  "name_jp": "超極焔炎の絶拳",
+  "tier": "XSB",
+  "sb_version": "XSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

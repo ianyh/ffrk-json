@@ -1,0 +1,208 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Ex-Azure Dragoon Mode I (Estinien)] and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Ex-Azure Dragoon Mode I (Estinien)",
+      "text": "Dragoon abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dragoon abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 and 50%/75%/100% critical chance for equipped Dragoon abilities after casting 1/2/3+ Dragoon abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ex-Azure Dragoon Mode II (Estinien)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Ex-Azure Dragoon Mode II (Estinien)",
+      "text": "Cast speed x999999 for Dragoon abilities, chases Dragoon abilities with Longan Power",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Longan Power",
+      "text": "Causes [Imperil Prismatic 20% (15s)] and grants [ATK and MND +30%, DEF and RES +25% (8s)]/[ATK and MAG +30%, DEF and RES +25% (8s)] if 0-3/4+ FF14 allies are alive"
+    },
+    {
+      "name": "Imperil Prismatic 20% (15s)",
+      "text": "Causes [Imperil Fire 20% (15s)], [Imperil Ice 20% (15s)], [Imperil Lightning 20% (15s)], [Imperil Earth 20% (15s)], [Imperil Wind 20% (15s)], [Imperil Water 20% (15s)], [Imperil Holy 20% (15s)], [Imperil Dark 20% (15s)] and [Imperil Poison 20% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Earth 20% (15s)",
+      "text": "Earth Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Wind 20% (15s)",
+      "text": "Wind Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Water 20% (15s)",
+      "text": "Water Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Holy 20% (15s)",
+      "text": "Holy Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 20% (15s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 20% (15s)",
+      "text": "Poison Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "ATK and MND +30%, DEF and RES +25% (8s)",
+      "text": "ATK and MND +30%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "ATK and MAG +30%, DEF and RES +25% (8s)",
+      "text": "ATK and MAG +30%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Twin Element Mode II (Wind, Dark)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Dark with Stacking] after using a Wind/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dragoon Resonance +5% Boost",
+      "text": "Dragoon abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Ex-Azure Dragoon Mode I (Estinien)] and [Dragoon Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Ex-Azure Dragoon Mode I (Estinien)",
+      "text": "Dragoon abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dragoon abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 and 50%/75%/100% critical chance for equipped Dragoon abilities after casting 1/2/3+ Dragoon abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ex-Azure Dragoon Mode II (Estinien)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Ex-Azure Dragoon Mode II (Estinien)",
+      "text": "Cast speed x999999 for Dragoon abilities, chases Dragoon abilities with Longan Power",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Longan Power",
+      "text": "Causes [Imperil Prismatic 20% (15s)] and grants [ATK and MND +30%, DEF and RES +25% (8s)]/[ATK and MAG +30%, DEF and RES +25% (8s)] if 0-3/4+ FF14 allies are alive"
+    },
+    {
+      "name": "Imperil Prismatic 20% (15s)",
+      "text": "Causes [Imperil Fire 20% (15s)], [Imperil Ice 20% (15s)], [Imperil Lightning 20% (15s)], [Imperil Earth 20% (15s)], [Imperil Wind 20% (15s)], [Imperil Water 20% (15s)], [Imperil Holy 20% (15s)], [Imperil Dark 20% (15s)] and [Imperil Poison 20% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Earth 20% (15s)",
+      "text": "Earth Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Wind 20% (15s)",
+      "text": "Wind Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Water 20% (15s)",
+      "text": "Water Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Holy 20% (15s)",
+      "text": "Holy Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 20% (15s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 20% (15s)",
+      "text": "Poison Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "ATK and MND +30%, DEF and RES +25% (8s)",
+      "text": "ATK and MND +30%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "ATK and MAG +30%, DEF and RES +25% (8s)",
+      "text": "ATK and MAG +30%, DEF and RES +25%",
+      "duration": "8 seconds"
+    }
+  ],
+  "id": "23120010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23120010/23120010_256.png",
+  "character": "Estinien",
+  "name": "Awoken Draconic Dive",
+  "name_jp": "覚醒ドラゴンダイブ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XIV",
+  "elements": [
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged jump attacks (0.90 each) capped at 19999, grants [Twin Element Mode II (Wind, Dark)], [Damage Cap +10000], [Dual Awoken Ex-Azure Dragoon Mode I (Estinien)] and [Dragoon Resonance +5% Boost] to the user",
+  "verified": true
+}

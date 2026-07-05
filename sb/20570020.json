@@ -1,0 +1,138 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode (Fire, Ice, Lightning) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Steiner], [Charge! Damage Tracker] and [Charge! Level]"
+    },
+    {
+      "name": "Tri-Element Mode (Fire, Ice, Lightning) v2",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Steiner",
+      "text": "Keeps track of the number of uses of Charge! (0~2), removed after using Charge! two times"
+    },
+    {
+      "name": "Charge! Damage Tracker",
+      "text": "Increases Charge! level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Steiner]"
+    },
+    {
+      "name": "Charge! Level",
+      "text": "Keeps track of Charge! level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Steiner]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Tri-Element Mode (Fire, Ice, Lightning) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Steiner], [Charge! Damage Tracker] and [Charge! Level]"
+    },
+    {
+      "name": "Tri-Element Mode (Fire, Ice, Lightning) v2",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning] after using a Fire/Ice/Lightning ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Steiner",
+      "text": "Keeps track of the number of uses of Charge! (0~2), removed after using Charge! two times"
+    },
+    {
+      "name": "Charge! Damage Tracker",
+      "text": "Increases Charge! level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Steiner]"
+    },
+    {
+      "name": "Charge! Level",
+      "text": "Keeps track of Charge! level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Steiner]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tri-Element Mode (Fire, Ice, Lightning) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Steiner], [Charge! Damage Tracker] and [Charge! Level]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Tri-Element Mode (Fire, Ice, Lightning) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Steiner], [Charge! Damage Tracker] and [Charge! Level]"
+    },
+    {
+      "name": "Tri-Element Mode (Fire, Ice, Lightning) v2",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning] after using a Fire/Ice/Lightning ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Steiner",
+      "text": "Keeps track of the number of uses of Charge! (0~2), removed after using Charge! two times"
+    },
+    {
+      "name": "Charge! Damage Tracker",
+      "text": "Increases Charge! level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Steiner]"
+    },
+    {
+      "name": "Charge! Level",
+      "text": "Keeps track of Charge! level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Steiner]"
+    }
+  ],
+  "id": "20570020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20570020/20570020_256.png",
+  "character": "Steiner",
+  "name": "Charge! (Engaged)",
+  "name_jp": "突撃",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Tri-Element Mode (Fire, Ice, Lightning) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Steiner], [Charge! Damage Tracker] and [Charge! Level]",
+  "verified": true
+}

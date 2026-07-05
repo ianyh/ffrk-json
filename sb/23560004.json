@@ -1,0 +1,111 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MAG +30%, RES +25% (25s)] and [Poison Resonance +3%] to all allies, grants [Damage Cap +10000], [Attach Poison with Stacking], and [Dual Awoken Poison Mode I (Ultros)] to the user"
+    },
+    {
+      "name": "Dual Awoken Poison Mode I (Ultros)",
+      "text": "Poison abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison abilities trigger 2 additional times, cast speed x2.00 for Poison abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Poison Mode II (Ultros)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Poison Mode II (Ultros)",
+      "text": "Poison abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Dual Acid Rain after using a Poison ability (max 1 chase)"
+    },
+    {
+      "name": "Dual Acid Rain",
+      "text": "Grants [Poison Ability +30% Boost 3] and [Poison Ability Quick Cast 3] to all allies, causes [Poison] to all allies"
+    },
+    {
+      "name": "Poison Ability +30% Boost 3",
+      "text": "Poison abilities deal 30% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Poison Ability Quick Cast 3",
+      "text": "Cast Speed x2.00 for Poison abilities",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Poison",
+      "text": "Damages for 1/64 maximum HP every 5.00 seconds, persists after battle"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MAG +30%, RES +25% (25s)] and [Poison Resonance +3%] to all allies, grants [Damage Cap +10000], [Attach Poison with Stacking], and [Dual Awoken Poison Mode I (Ultros)] to the user"
+    },
+    {
+      "name": "Dual Awoken Poison Mode I (Ultros)",
+      "text": "Poison abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison abilities trigger 2 additional times, cast speed x2.00 for Poison abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Poison Mode II (Ultros)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Poison Mode II (Ultros)",
+      "text": "Poison abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Dual Acid Rain after using a Poison ability (max 1 chase)"
+    },
+    {
+      "name": "Dual Acid Rain",
+      "text": "Grants [Poison Ability +30% Boost 3] and [Poison Ability Quick Cast 3] to all allies, causes [Poison] to all allies"
+    },
+    {
+      "name": "Poison Ability +30% Boost 3",
+      "text": "Poison abilities deal 30% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Poison Ability Quick Cast 3",
+      "text": "Cast Speed x2.00 for Poison abilities",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Poison",
+      "text": "Damages for 1/64 maximum HP every 5.00 seconds, persists after battle"
+    }
+  ],
+  "id": "23560004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23560004/23560004_256.png",
+  "character": "Ultros",
+  "name": "Awoken Grand Finale",
+  "name_jp": "覚醒大団円や！",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid attacks (0.90 or 3.05 each) capped at 19999, grants [ATK and MAG +30%, RES +25% (25s)] and [Poison Resonance +3%] to all allies, grants [Damage Cap +10000], [Attach Poison with Stacking], and [Dual Awoken Poison Mode I (Ultros)] to the user",
+  "verified": false
+}

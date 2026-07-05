@@ -1,0 +1,80 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Shadowhound Mode] and [40% Damage Reduction Barrier 1] to the user"
+    },
+    {
+      "name": "Carnage Cutter",
+      "text": "1/4/8 single ranged/single/single attacks (0.80 each) if the user Physical Blink 0/1/2, grants [Physical Blink 1]/[Physical Blink 1] if the user has Physical Blink 0/1, 100% hit rate at Physical Blink 0",
+      "condition": "Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Murderous Urge",
+      "text": "Three single attacks (0.80 each), grants [Ninja +30% Boost 3] to the user",
+      "condition": "Dark",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Dark 3 with Stacking",
+      "text": "Increase Attach Dark Level by 3 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Physical Blink Stacking 2",
+      "text": "Allows to stack Physical Blink, up to Physical Blink 2"
+    },
+    {
+      "name": "Shadowhound Mode",
+      "text": "Casts Midnight Passage when any Damage Reduction Barrier is removed, removed after triggering five times"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Shadowhound Mode] and [40% Damage Reduction Barrier 1] to the user"
+    },
+    {
+      "name": "Carnage Cutter",
+      "text": "1/4/8 single ranged/single/single attacks (0.80 each) if the user Physical Blink 0/1/2, grants [Physical Blink 1]/[Physical Blink 1] if the user has Physical Blink 0/1, 100% hit rate at Physical Blink 0",
+      "condition": "Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Murderous Urge",
+      "text": "Three single attacks (0.80 each), grants [Ninja +30% Boost 3] to the user",
+      "condition": "Dark",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20890009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20890009/20890009_256.png",
+  "character": "Shadow",
+  "name": "Devastating Carnage",
+  "name_jp": "修羅滅却",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Physical Blink Stacking 2], [Shadowhound Mode] and [40% Damage Reduction Barrier 1] to the user",
+  "verified": true
+}

@@ -1,0 +1,75 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [50% Critical], [Haste] and [ATK and DEF +30% (25s)] to all allies, Grants [Awoken Keeper Mode] and [Unraveled History Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Keeper Mode",
+      "text": "Support abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Support abilities at ability rank 1/2/3/4/5, casts Awoken Keeper Mode Critical after using a Support ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Awoken Keeper Mode Critical",
+      "text": "Grants [Awoken Keeper Mode Critical Chance] to all allies"
+    },
+    {
+      "name": "Awoken Keeper Mode Critical Chance",
+      "text": "Critical chance =60/70/80/90/100% if the granting user has used 1/2/3/4/5+ Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "50% Critical",
+      "text": "Critical chance =50%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "ATK and DEF +30% (25s)",
+      "text": "ATK and DEF +30%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Unraveled History Follow-Up",
+      "text": "Casts Unraveled History after using three Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Unraveled History",
+      "text": "Grants [Critical Damage +50% 1]"
+    },
+    {
+      "name": "Critical Damage +50% 1",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
+      "duration": "1 turn"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [50% Critical], [Haste] and [ATK and DEF +30% (25s)] to all allies, Grants [Awoken Keeper Mode] and [Unraveled History Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Keeper Mode",
+      "text": "Support abilities don't consume uses, cast speed x2.00/2.25/2.50/2.75/3.00 for Support abilities at ability rank 1/2/3/4/5, casts Awoken Keeper Mode Critical after using a Support ability",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20140018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20140018/20140018_256.png",
+  "character": "Tyro",
+  "name": "Fantasy Grimoire Vol. I",
+  "name_jp": "幻想のグリモア 巻ノ壱",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [50% Critical], [Haste] and [ATK and DEF +30% (25s)] to all allies, Grants [Awoken Keeper Mode] and [Unraveled History Follow-Up] to the user",
+  "verified": true
+}

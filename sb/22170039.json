@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "id": "22170039",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22170039/22170039_256.png",
+  "character": "Vincent",
+  "name": "Burst Break: Vincent (Break Glint)",
+  "name_jp": "烈破・ヴィンセント",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "VII",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

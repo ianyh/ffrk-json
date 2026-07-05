@@ -1,0 +1,198 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Attach Ice with Stacking], [Dual Awoken Samurai Mode I (Lasswell)] to the user, grants [Samurai Resonance +3% Boost] to all Samurai allies"
+    },
+    {
+      "name": "Dual Awoken Samurai Mode I (Lasswell)",
+      "text": "Samurai abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Samurai abilities trigger 2 additional times, cast speed x2.00 for equipped Samurai abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Dual Awoken Samurai Mode II (Lasswell)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Dual Awoken Samurai Mode II (Lasswell)",
+      "text": "Samurai abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Samurai abilities, and chases a Samurai Abilitiy with Dual Power of Secret Sword",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Power of the Secret Sword",
+      "text": "Causes [Imperil Prismatic 20% (15s)] and grants [ATK and MND +30%, DEF and RES +25% (8s)] to all allies"
+    },
+    {
+      "name": "Imperil Prismatic 20% (15s)",
+      "text": "Causes [Imperil Fire 20% (15s)], [Imperil Ice 20% (15s)], [Imperil Lightning 20% (15s)], [Imperil Earth 20% (15s)], [Imperil Wind 20% (15s)], [Imperil Water 20% (15s)], [Imperil Holy 20% (15s)], [Imperil Dark 20% (15s)] and [Imperil Poison 20% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Earth 20% (15s)",
+      "text": "Earth Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Wind 20% (15s)",
+      "text": "Wind Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Water 20% (15s)",
+      "text": "Water Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Holy 20% (15s)",
+      "text": "Holy Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 20% (15s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 20% (15s)",
+      "text": "Poison Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "ATK and MND +30%, DEF and RES +25% (8s)",
+      "text": "ATK and MND +30%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Samurai Resonance +3% Boost",
+      "text": "Samurai abilities deal 3% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Attach Ice with Stacking], [Dual Awoken Samurai Mode I (Lasswell)] to the user, grants [Samurai Resonance +3% Boost] to all Samurai allies"
+    },
+    {
+      "name": "Dual Awoken Samurai Mode I (Lasswell)",
+      "text": "Samurai abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Samurai abilities trigger 2 additional times, cast speed x2.00 for equipped Samurai abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Dual Awoken Samurai Mode II (Lasswell)] and [Instant ATB 1] to the user"
+    },
+    {
+      "name": "Dual Awoken Samurai Mode II (Lasswell)",
+      "text": "Samurai abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Samurai abilities, and chases a Samurai Abilitiy with Dual Power of Secret Sword",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Power of the Secret Sword",
+      "text": "Causes [Imperil Prismatic 20% (15s)] and grants [ATK and MND +30%, DEF and RES +25% (8s)] to all allies"
+    },
+    {
+      "name": "Imperil Prismatic 20% (15s)",
+      "text": "Causes [Imperil Fire 20% (15s)], [Imperil Ice 20% (15s)], [Imperil Lightning 20% (15s)], [Imperil Earth 20% (15s)], [Imperil Wind 20% (15s)], [Imperil Water 20% (15s)], [Imperil Holy 20% (15s)], [Imperil Dark 20% (15s)] and [Imperil Poison 20% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Earth 20% (15s)",
+      "text": "Earth Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Wind 20% (15s)",
+      "text": "Wind Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Water 20% (15s)",
+      "text": "Water Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Holy 20% (15s)",
+      "text": "Holy Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 20% (15s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 20% (15s)",
+      "text": "Poison Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "ATK and MND +30%, DEF and RES +25% (8s)",
+      "text": "ATK and MND +30%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "23500013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23500013/23500013_256.png",
+  "character": "Lasswell",
+  "name": "Awoken Omniblade",
+  "name_jp": "覚醒八垓抜刀",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "Beyond",
+  "elements": [
+    "Ice",
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Damage Cap +10000], [Attach Ice with Stacking], [Dual Awoken Samurai Mode I (Lasswell)] to the user, grants [Samurai Resonance +3% Boost] to all Samurai allies",
+  "verified": true
+}

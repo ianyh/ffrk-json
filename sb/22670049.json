@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "22670049",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670049/22670049_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Superior Ruinous Skybolt Beam",
+  "name_jp": "超極撃滅式天雷砲",
+  "tier": "XSB",
+  "sb_version": "XSB1",
+  "realm": "III",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

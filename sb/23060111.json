@@ -1,0 +1,112 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Conditional Attach Element with Stacking From Party], [Awoken Archive Master], [Damage Cap +10000] and [Archive Authority Mode] to the user"
+    },
+    {
+      "name": "Awoken Archive Master",
+      "text": "Black Magic and Summoning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic and Summoning abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Conditional Attach Element with Stacking From Party",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking]/[Attach Earth with Stacking]/[Attach Wind with Stacking]/[Attach Water with Stacking]/[Attach Holy with Stacking]/[Attach Dark with Stacking]/[Attach Poison with Stacking] if current number of combined Attach Element statuses on party members are a majority Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison. In the case of ties the prior listed order is used to determine status granted"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Archive Authority Mode",
+      "text": "Instant cast speed for Black Magic and Summoning abilities, casts Magical Surfing after using a Black Magic or Summoning ability, removed after triggering three times",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Magical Surfing",
+      "text": "One single attack (9.99/10.99) capped at 99999 if 1+ of Tyro, Elarra, Biggs or Wedge aren't/are alive"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Conditional Attach Element with Stacking From Party], [Awoken Archive Master], [Damage Cap +10000] and [Archive Authority Mode] to the user"
+    },
+    {
+      "name": "Awoken Archive Master",
+      "text": "Black Magic and Summoning abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic and Summoning abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "23060111",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060111/23060111_256.png",
+  "character": "Dr. Mog",
+  "name": "Waverider Moogle V2",
+  "name_jp": "波乗り！モーグリV2",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "Core",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Earth",
+    "Wind",
+    "Water",
+    "Holy",
+    "Dark",
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Conditional Attach Element with Stacking From Party], [Awoken Archive Master], [Damage Cap +10000] and [Archive Authority Mode] to the user",
+  "verified": true
+}

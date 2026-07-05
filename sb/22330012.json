@@ -1,0 +1,76 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 3] to the user"
+    },
+    {
+      "name": "Scion's Foul",
+      "text": "Six single attacks (3.05 each)",
+      "condition": "Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Triplecast Fire IV",
+      "text": "Three single attacks (3.05 each), grants [Fire Ability +30% Boost 3] to the user",
+      "condition": "Fire",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Instant ATB 3",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Instant Cast 3",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 3] to the user"
+    },
+    {
+      "name": "Scion's Foul",
+      "text": "Six single attacks (3.05 each)",
+      "condition": "Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Triplecast Fire IV",
+      "text": "Three single attacks (3.05 each), grants [Fire Ability +30% Boost 3] to the user",
+      "condition": "Fire",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22330012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22330012/22330012_256.png",
+  "character": "Papalymo",
+  "name": "A New Beginning",
+  "name_jp": "魂を継ぐ者",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Instant ATB 3] and [Instant Cast 3] to the user",
+  "verified": true
+}

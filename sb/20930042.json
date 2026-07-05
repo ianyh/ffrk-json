@@ -1,0 +1,116 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Faris], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Wind/Fire abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, penetrate 20% DEF and RES; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Wind Damage Cap +20000 (Tactical)], [Fire, Wind Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire, Wind Ability +50% Boost (Tactical)], [Fire, Wind Quick Cast (Tactical)] to user if Level 2+ EnWind or EnFire, grants [Attach Wind 2 with Stacking]/[Attach Fire 2 with Stacking] to user if not."
+    },
+    {
+      "name": "Fire, Wind Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Fire or Wind attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Fire, Wind Ability DEF and RES 30% Piercing (Tactical)",
+      "text": ""
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Fire, Wind Ability +50% Boost (Tactical)",
+      "text": "Fire or Wind abilities deal 50% more damage, removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Fire, Wind Quick Cast (Tactical)",
+      "text": "Cast speed x2.00 for Fire/Wind while in Tactical Awoken Mode"
+    },
+    {
+      "name": "Attach Wind 2 with Stacking",
+      "text": "Increase Attach Wind Level by 2 and increase Max Attach Element Level by 2, up to Attach Wind 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Fire 2 with Stacking",
+      "text": "Increase Attach Fire Level by 2 and increase Max Attach Element Level by 2, up to Attach Fire 3",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Faris], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Wind/Fire abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, penetrate 20% DEF and RES; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (11.00 each) capped at 199,999, ranged. Grants [Fire, Wind Damage Cap +20000 (Tactical)], [Fire, Wind Ability DEF and RES 30% Piercing (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Fire, Wind Ability +50% Boost (Tactical)], [Fire, Wind Quick Cast (Tactical)] to user if Level 2+ EnWind or EnFire, grants [Attach Wind 2 with Stacking]/[Attach Fire 2 with Stacking] to user if not."
+    },
+    {
+      "name": "Fire, Wind Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Fire or Wind attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Fire, Wind Ability DEF and RES 30% Piercing (Tactical)",
+      "text": ""
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Fire, Wind Ability +50% Boost (Tactical)",
+      "text": "Fire or Wind abilities deal 50% more damage, removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Fire, Wind Quick Cast (Tactical)",
+      "text": "Cast speed x2.00 for Fire/Wind while in Tactical Awoken Mode"
+    },
+    {
+      "name": "Attach Wind 2 with Stacking",
+      "text": "Increase Attach Wind Level by 2 and increase Max Attach Element Level by 2, up to Attach Wind 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Fire 2 with Stacking",
+      "text": "Increase Attach Fire Level by 2 and increase Max Attach Element Level by 2, up to Attach Fire 3",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "20930042",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20930042/20930042_256.png",
+  "character": "Faris",
+  "name": "War-Awoken Royal Escape",
+  "name_jp": "戦醒ロイヤルエスケープ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "V",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Faris], [ATK +500 (25s) (Tactical)] to user.",
+  "verified": true
+}

@@ -1,0 +1,123 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Damage Cap +10000], [Dual Awoken Engineer Mode I (Cater)] and [Machinist Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Engineer Mode I (Cater)",
+      "text": "Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Machinist abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Machinist abilities after casting 1/2/3+ Machinist abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Engineer Mode II (Cater)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Engineer Mode II (Cater)",
+      "text": "Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Machinist abilities, causes [Imperil Fire 20% (15s)], [Imperil Ice 20% (15s)] and [Imperil Lightning 20% (15s)] after using Machinist abilities, grants [Dualcast Machinist 1] to all allies after using Machinist abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dualcast Machinist 1",
+      "text": "Machinist abilities trigger 1 additional time",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Tri-Element Mode II (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Machinist Resonance +5% Boost",
+      "text": "Machinist abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Damage Cap +10000], [Dual Awoken Engineer Mode I (Cater)] and [Machinist Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Engineer Mode I (Cater)",
+      "text": "Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Machinist abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Machinist abilities after casting 1/2/3+ Machinist abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Engineer Mode II (Cater)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Engineer Mode II (Cater)",
+      "text": "Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Machinist abilities, causes [Imperil Fire 20% (15s)], [Imperil Ice 20% (15s)] and [Imperil Lightning 20% (15s)] after using Machinist abilities, grants [Dualcast Machinist 1] to all allies after using Machinist abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dualcast Machinist 1",
+      "text": "Machinist abilities trigger 1 additional time",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "23370010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23370010/23370010_256.png",
+  "character": "Cater",
+  "name": "Awoken Triple Charged Shot",
+  "name_jp": "覚醒Tチャージショット",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "Type-0",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Tri-Element Mode II (Fire, Ice, Lightning)], [Damage Cap +10000], [Dual Awoken Engineer Mode I (Cater)] and [Machinist Resonance +5% Boost] to the user",
+  "verified": true
+}

@@ -1,0 +1,100 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Water, Holy)], [Damage Cap +10000], [Dual Awoken Altruist Mode I (Arc)] and [Holy/Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Altruist Mode I (Arc)",
+      "text": "Holy and Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy and Water abilities trigger 1 additional time, casts Dual Saintly Splash after Holy and Water abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Altruist Mode II (Arc)], removes [Dual Awoken Altruist Mode I (Arc)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Altruist Mode II (Arc)",
+      "text": "Increase the damage/healing cap by 20000, Holy and Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy and Water abilities trigger 1 additional time, restores 2000 HP to all allies after using Holy and Water abilities, grants [Water/Holy Ability Quick Cast 1] to the user after using Holy and Water abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Water/Holy Ability Quick Cast 1",
+      "text": "Cast speed x2.00 for Water and Holy abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Saintly Splash",
+      "text": "Three single hybrid attacks (2.89/2.72 each), causes [Imperil Holy 10% (5s)] and [Imperil Water 10% (5s)], causes [DEF, RES and MND -50% (8s)] every second use"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Twin Element Mode II (Water, Holy)",
+      "text": "Grants [Attach Water with Stacking]/[Attach Holy with Stacking] after using a Water/Holy ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Holy/Water Resonance +5% Boost",
+      "text": "Holy and Water abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Water, Holy)], [Damage Cap +10000], [Dual Awoken Altruist Mode I (Arc)] and [Holy/Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Altruist Mode I (Arc)",
+      "text": "Holy and Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy and Water abilities trigger 1 additional time, casts Dual Saintly Splash after Holy and Water abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Altruist Mode II (Arc)], removes [Dual Awoken Altruist Mode I (Arc)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Altruist Mode II (Arc)",
+      "text": "Increase the damage/healing cap by 20000, Holy and Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy and Water abilities trigger 1 additional time, restores 2000 HP to all allies after using Holy and Water abilities, grants [Water/Holy Ability Quick Cast 1] to the user after using Holy and Water abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Water/Holy Ability Quick Cast 1",
+      "text": "Cast speed x2.00 for Water and Holy abilities",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "20420020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20420020/20420020_256.png",
+  "character": "Arc",
+  "name": "Awoken Break of Valor",
+  "name_jp": "覚醒勇心の来光",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "III",
+  "elements": [
+    "Holy",
+    "Water",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single hybrid attacks (3.05/3.10 each) capped at 19999, grants [MAG and MND +50% (25s)], [Twin Element Mode II (Water, Holy)], [Damage Cap +10000], [Dual Awoken Altruist Mode I (Arc)] and [Holy/Water Resonance +5% Boost] to the user",
+  "verified": true
+}

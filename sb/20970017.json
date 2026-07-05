@@ -1,0 +1,96 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Eccentrick Mode] and Items +2 to the user"
+    },
+    {
+      "name": "Potato Masher",
+      "text": "Six single attacks (0.90 each)",
+      "condition": "Water",
+      "slot": "Attack"
+    },
+    {
+      "name": "Prime Twin Stars (2 Items)",
+      "text": "Grants [Buff Water 10% (15s)], grants [50% Critical (15s)] on first use, grants [100% Critical (15s)] on 2+ uses, removes all Items from the user",
+      "condition": "Thief",
+      "slot": "Defend"
+    },
+    {
+      "name": "Prime Twin Stars (1 Item)",
+      "text": "Grants [Critical Damage +50% 2] to all allies, removes all Items from the user",
+      "condition": "Thief",
+      "slot": "Defend"
+    },
+    {
+      "name": "Prime Twin Stars (0 Items)",
+      "text": "Grants [High Quick Cast 2], removes all Items from the user",
+      "condition": "Thief",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Water 3 with Stacking",
+      "text": "Increase Attach Water Level by 3 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Eccentrick Mode",
+      "text": "Grants Items +1 after using Potato Masher, removed if user hasn't Synchro Mode"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Eccentrick Mode] and Items +2 to the user"
+    },
+    {
+      "name": "Potato Masher",
+      "text": "Six single attacks (0.90 each)",
+      "condition": "Water",
+      "slot": "Attack"
+    },
+    {
+      "name": "Prime Twin Stars (2 Items)",
+      "text": "Grants [Buff Water 10% (15s)], grants [50% Critical (15s)] on first use, grants [100% Critical (15s)] on 2+ uses, removes all Items from the user",
+      "condition": "Thief",
+      "slot": "Defend"
+    },
+    {
+      "name": "Prime Twin Stars (1 Item)",
+      "text": "Grants [Critical Damage +50% 2] to all allies, removes all Items from the user",
+      "condition": "Thief",
+      "slot": "Defend"
+    },
+    {
+      "name": "Prime Twin Stars (0 Items)",
+      "text": "Grants [High Quick Cast 2], removes all Items from the user",
+      "condition": "Thief",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20970017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20970017/20970017_256.png",
+  "character": "Rikku",
+  "name": "Tidal Wave",
+  "name_jp": "タイダルウェーブ",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000], [Eccentrick Mode] and Items +2 to the user",
+  "verified": true
+}

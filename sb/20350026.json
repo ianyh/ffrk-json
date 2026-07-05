@@ -1,0 +1,72 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Lion's Soul] to the user"
+    },
+    {
+      "name": "Extended Renzokuken",
+      "text": "6/10 single attacks (0.90/0.75 each) if user has Red Aura level 0/1, grants [Instant Cast 1] if user has Red Aura level 1, causes Red Aura -1 to the user",
+      "condition": "Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Dividing Blaze",
+      "text": "Three single attacks (0.90 each), grants [Fire Ability +50% Boost 1] and Red Aura +1 (max 1) to the user",
+      "condition": "Fire",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Revived Lion's Soul",
+      "text": "Grants [Instant ATB 1], [Instant Cast 1] and Red Aura +1 to the user when the user's HP fall below 20%, removed after triggering"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Lion's Soul] to the user"
+    },
+    {
+      "name": "Extended Renzokuken",
+      "text": "6/10 single attacks (0.90/0.75 each) if user has Red Aura level 0/1, grants [Instant Cast 1] if user has Red Aura level 1, causes Red Aura -1 to the user",
+      "condition": "Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Dividing Blaze",
+      "text": "Three single attacks (0.90 each), grants [Fire Ability +50% Boost 1] and Red Aura +1 (max 1) to the user",
+      "condition": "Fire",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20350026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350026/20350026_256.png",
+  "character": "Squall",
+  "name": "Fated Flame",
+  "name_jp": "フェイテッド・フレイム",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "VIII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Revived Lion's Soul] to the user",
+  "verified": true
+}

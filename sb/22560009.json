@@ -1,0 +1,92 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000] and [Drain Blade Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Dark",
+      "text": "Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Drain Blade Follow-Up",
+      "text": "Casts Drain Blade 1/2/3 after using two Dark abilities if the user's HP% is 100/80/0%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Drain Blade 1",
+      "text": "Four single attacks (0.76 each), causes [ATK and MAG -50% (8s)], grants [ATK and MAG +50% (8s)] and [Physical High Quick Cast 2] to the user, 100% hit rate"
+    },
+    {
+      "name": "ATK and MAG -50% (8s)",
+      "text": "ATK and MAG -50%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "ATK and MAG +50% (8s)",
+      "text": "ATK and MAG +50%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Physical High Quick Cast 2",
+      "text": "Cast speed x3.00 for PHY attacks",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Drain Blade 2",
+      "text": "Four single attacks (0.76 each), heals the user for 20% of the damage dealt, grants [Physical Quick Cast 2] to the user, 100% hit rate"
+    },
+    {
+      "name": "Physical Quick Cast 2",
+      "text": "Cast speed x2.00 for PHY attacks",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Drain Blade 3",
+      "text": "Four single attacks (0.76 each), heals the user for 20% of the damage dealt"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000] and [Drain Blade Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Dark",
+      "text": "Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22560009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22560009/22560009_256.png",
+  "character": "Gaffgarion",
+  "name": "Unyielding Darkblade",
+  "name_jp": "我執黒刃",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "FFT",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Dark], [Awoken Dark], [Damage Cap +10000] and [Drain Blade Follow-Up] to the user",
+  "verified": true
+}

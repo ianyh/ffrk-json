@@ -1,0 +1,115 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Snow)] and [Ice Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Ice Mode I (Snow)",
+      "text": "Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 and critical chance =50%/75%/100% for equipped Ice abilities after casting 1/2/3+ Ice abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1], [Dual Iron Determination Mode] and [Dual Awoken Ice Mode II (Snow)], removes [Dual Awoken Ice Mode I (Snow)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Iron Determination Mode",
+      "text": "Casts Dual Ice Ruination when any Damage Reduction Barrier is removed, removed after triggering three times",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Ice Ruination",
+      "text": "Four single attacks (0.75 each), followed by one single attack (4.45) that ignores DEF with 100% additional critical chance if the user has Dual Steel Nerves level 1+, causes Dual Steel Nerves-1 to the user"
+    },
+    {
+      "name": "Dual Awoken Ice Mode II (Snow)",
+      "text": "Increases the damage/healing cap by 10000, Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice abilities trigger 1 additional time, instant cast speed for Ice abilities, casts Dual Solid Wall after using Ice abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Solid Wall",
+      "text": "Grants [40% Damage Reduction Barrier 1], grants Dual Steel Nerves +1 (max 3) to the user"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ice Resonance +5% Boost",
+      "text": "Ice abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Snow)] and [Ice Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Ice Mode I (Snow)",
+      "text": "Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 and critical chance =50%/75%/100% for equipped Ice abilities after casting 1/2/3+ Ice abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1], [Dual Iron Determination Mode] and [Dual Awoken Ice Mode II (Snow)], removes [Dual Awoken Ice Mode I (Snow)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Iron Determination Mode",
+      "text": "Casts Dual Ice Ruination when any Damage Reduction Barrier is removed, removed after triggering three times",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Ice Ruination",
+      "text": "Four single attacks (0.75 each), followed by one single attack (4.45) that ignores DEF with 100% additional critical chance if the user has Dual Steel Nerves level 1+, causes Dual Steel Nerves-1 to the user"
+    },
+    {
+      "name": "Dual Awoken Ice Mode II (Snow)",
+      "text": "Increases the damage/healing cap by 10000, Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice abilities trigger 1 additional time, instant cast speed for Ice abilities, casts Dual Solid Wall after using Ice abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Solid Wall",
+      "text": "Grants [40% Damage Reduction Barrier 1], grants Dual Steel Nerves +1 (max 3) to the user"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    }
+  ],
+  "id": "20310027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20310027/20310027_256.png",
+  "character": "Snow",
+  "name": "Awoken Froststrike",
+  "name_jp": "覚醒フロストブロウ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Snow)] and [Ice Resonance +5% Boost] to the user",
+  "verified": true
+}

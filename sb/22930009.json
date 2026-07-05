@@ -1,0 +1,120 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)], [Haste], and [Quick Cast 2] to all allies, grants [Damage Cap +10000], [Protean Mode II (Fire, Ice, Earth, Wind)], [Dual Awoken Black Magic Mode I (Gogo (VI))] and [Black Magic Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Black Magic Mode I (Gogo (VI))",
+      "text": "Black Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic abilities trigger 1 additional time, cast speed x2.00 for Black Magic abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Gogo (VI))]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Black Magic Mode II (Gogo (VI))",
+      "text": "Black Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Black Magic abilities, grants [Dual Master Mimic Mode] after using Black Magic abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Master Mimic Mode",
+      "text": "Mimicked abilities deal 50% more damage, grants [Fire/Ice/Wind/Earth Ability +30% Boost 1] and [Quick Cast 1] when another ally casts a Fire, Ice, Wind or Earth ability to the ally who casted the ability, casts the last ability used by another ally when another ally uses a Fire, Ice, Wind or Earth ability, removed after triggering six times",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Fire/Ice/Wind/Earth Ability +30% Boost 1",
+      "text": "Fire, Ice, Wind and Earth abilities deal 30% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "ATK, MAG and MND +30% (25s)",
+      "text": "ATK, MAG and MND +30%"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Protean Mode II (Fire, Ice, Earth, Wind)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Earth with Stacking]/[Attach Wind with Stacking] after using a Fire/Ice/Earth/Wind ability"
+    },
+    {
+      "name": "Black Magic Resonance +5% Boost",
+      "text": "Black Magic abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)], [Haste], and [Quick Cast 2] to all allies, grants [Damage Cap +10000], [Protean Mode II (Fire, Ice, Earth, Wind)], [Dual Awoken Black Magic Mode I (Gogo (VI))] and [Black Magic Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Black Magic Mode I (Gogo (VI))",
+      "text": "Black Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic abilities trigger 1 additional time, cast speed x2.00 for Black Magic abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Black Magic Mode II (Gogo (VI))]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Black Magic Mode II (Gogo (VI))",
+      "text": "Black Magic abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Black Magic abilities, grants [Dual Master Mimic Mode] after using Black Magic abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Master Mimic Mode",
+      "text": "Mimicked abilities deal 50% more damage, grants [Fire/Ice/Wind/Earth Ability +30% Boost 1] and [Quick Cast 1] when another ally casts a Fire, Ice, Wind or Earth ability to the ally who casted the ability, casts the last ability used by another ally when another ally uses a Fire, Ice, Wind or Earth ability, removed after triggering six times",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Fire/Ice/Wind/Earth Ability +30% Boost 1",
+      "text": "Fire, Ice, Wind and Earth abilities deal 30% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22930009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22930009/22930009_256.png",
+  "character": "Gogo (VI)",
+  "name": "Awoken Mass Mimicry",
+  "name_jp": "覚醒みんなのものまね",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, MAG and MND +30% (25s)], [Haste], and [Quick Cast 2] to all allies, grants [Damage Cap +10000], [Protean Mode II (Fire, Ice, Earth, Wind)], [Dual Awoken Black Magic Mode I (Gogo (VI))] and [Black Magic Resonance +5% Boost] to the user",
+  "verified": true
+}

@@ -1,0 +1,101 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I (Rydia - Holy)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Summoning Mode I (Rydia - Holy)",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 2 additional times, cast speed x2.00 for equipped Summoning abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [MAG and MND +30%, DEF and RES +25% (8s)], grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Summoning Mode II (Rydia - Holy)] to the user"
+    },
+    {
+      "name": "MAG and MND +30%, DEF and RES +25% (8s)",
+      "text": "MAG and MND +30%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Summoning Mode II (Rydia - Holy)",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 1 additional time, instant cast speed for Summoning abilities, grants [Quick Cast 3] to the user after using Summoning abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Holy Resonance +5% Boost",
+      "text": "Holy abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I (Rydia - Holy)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Summoning Mode I (Rydia - Holy)",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 2 additional times, cast speed x2.00 for equipped Summoning abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [MAG and MND +30%, DEF and RES +25% (8s)], grants Summoning smart ether 2, [Instant ATB 1], [Dual Awoken Summoning Mode II (Rydia - Holy)] to the user"
+    },
+    {
+      "name": "MAG and MND +30%, DEF and RES +25% (8s)",
+      "text": "MAG and MND +30%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Summoning Mode II (Rydia - Holy)",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 1 additional time, instant cast speed for Summoning abilities, grants [Quick Cast 3] to the user after using Summoning abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00",
+      "duration": "3 turns"
+    }
+  ],
+  "id": "20090040",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090040/20090040_256.png",
+  "character": "Rydia",
+  "name": "Awoken Radiant Breath",
+  "name_jp": "覚醒レディアントブレス",
+  "tier": "DASB",
+  "sb_version": "DASB3",
+  "realm": "IV",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Summoning Mode I (Rydia - Holy)] and [Holy Resonance +5% Boost] to the user",
+  "verified": true
+}

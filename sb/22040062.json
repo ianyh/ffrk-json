@@ -1,0 +1,44 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Crystal Force I",
+      "text": ""
+    },
+    {
+      "name": "Crystal Force II",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Crystal Force I",
+      "text": ""
+    },
+    {
+      "name": "Crystal Force II",
+      "text": ""
+    }
+  ],
+  "id": "22040062",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040062/22040062_256.png",
+  "character": "Yuffie",
+  "name": "Radiant Clearest Tranquil",
+  "name_jp": "耀光我流・明鏡止水",
+  "tier": "CASB",
+  "sb_version": "CASB3",
+  "realm": "VII",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

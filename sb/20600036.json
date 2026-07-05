@@ -1,0 +1,85 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "FIfteen single attacks (0.60 each), grants [Awoken Sublime Thunder], [Damage Cap +10000], [Double Crystarium Mode II (Lightning, Holy)] and [Watchful Protector Mode] to the user"
+    },
+    {
+      "name": "Awoken Sublime Thunder",
+      "text": "Lightning and Holy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Ascending Presence after using Lightning and Holy abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Ascending Presence",
+      "text": "Six single attacks (0.71 each), grants [Buff Lightning 10% (15s)] and [Buff Holy 10% (15s)] to the user every second use"
+    },
+    {
+      "name": "Buff Lightning 10% (15s)",
+      "text": "Increases Lightning damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Holy 10% (15s)",
+      "text": "Increases Holy damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Double Crystarium Mode II (Lightning, Holy)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Holy with Stacking] after using a Lightning/Holy ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Watchful Protector Mode",
+      "text": "Cast speed x2.00, keeps track of the number of uses of Lightning or Holy abilities used (0~4), grants [Watchful Protector Critical Chance] after using a Lightning or Holy ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Watchful Protector Critical Chance",
+      "text": "Critical chance =0/25/50/75/100% scaling with [Watchful Protector Mode], removed if the character hasn't [Watchful Protector Mode]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "FIfteen single attacks (0.60 each), grants [Awoken Sublime Thunder], [Damage Cap +10000], [Double Crystarium Mode II (Lightning, Holy)] and [Watchful Protector Mode] to the user"
+    },
+    {
+      "name": "Awoken Sublime Thunder",
+      "text": "Lightning and Holy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Ascending Presence after using Lightning and Holy abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20600036",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20600036/20600036_256.png",
+  "character": "Lightning",
+  "name": "Blinding Requiem",
+  "name_jp": "閃光の鎮魂歌",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "XIII",
+  "elements": [
+    "Lightning",
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "FIfteen single attacks (0.60 each), grants [Awoken Sublime Thunder], [Damage Cap +10000], [Double Crystarium Mode II (Lightning, Holy)] and [Watchful Protector Mode] to the user",
+  "verified": true
+}

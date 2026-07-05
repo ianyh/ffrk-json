@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "id": "20860041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20860041/20860041_256.png",
+  "character": "Zidane",
+  "name": "Burst Break: Zidane (Break Glint)",
+  "name_jp": "烈破・ジタン",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "IX",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

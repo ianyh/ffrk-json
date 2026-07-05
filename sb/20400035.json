@@ -1,0 +1,72 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Bonds of Earth] to the user"
+    },
+    {
+      "name": "Earthen Goblin Punch",
+      "text": "Six single attacks (0.85/0.90/0.95 each) scaling with activations",
+      "condition": "Earth",
+      "slot": "Attack"
+    },
+    {
+      "name": "Sandstorm Shank",
+      "text": "Three single attacks (0.90 each), grants [100% Critical 1] and [Quick Cast 2] to the user if 1+ FF5 allies are alive, grants [Critical Damage +50% 1] to the user if 2+ FF5 allies are alive",
+      "condition": "Earth",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Bonds of Earth",
+      "text": "Grants [Attach Earth] after using three Earth abilities"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Bonds of Earth] to the user"
+    },
+    {
+      "name": "Earthen Goblin Punch",
+      "text": "Six single attacks (0.85/0.90/0.95 each) scaling with activations",
+      "condition": "Earth",
+      "slot": "Attack"
+    },
+    {
+      "name": "Sandstorm Shank",
+      "text": "Three single attacks (0.90 each), grants [100% Critical 1] and [Quick Cast 2] to the user if 1+ FF5 allies are alive, grants [Critical Damage +50% 1] to the user if 2+ FF5 allies are alive",
+      "condition": "Earth",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20400035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20400035/20400035_256.png",
+  "character": "Bartz",
+  "name": "Earthen Bond",
+  "name_jp": "土のきずな",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "V",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Bonds of Earth] to the user",
+  "verified": true
+}

@@ -1,0 +1,128 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode (Ice, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Kurasame], [Ice Reaper Damage Tracker] and [Ice Reaper Level]"
+    },
+    {
+      "name": "Twin Element Mode (Ice, Dark)",
+      "text": "Grants [Attach Ice]/[Attach Dark] after using a Ice/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Kurasame",
+      "text": "Keeps track of the number of uses of Ice Reaper (0~2), removed after using Ice Reaper two times"
+    },
+    {
+      "name": "Ice Reaper Damage Tracker",
+      "text": "Increases Ice Reaper level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Kurasame]"
+    },
+    {
+      "name": "Ice Reaper Level",
+      "text": "Keeps track of Ice Reaper level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Kurasame]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Ice, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Kurasame], [Ice Reaper Damage Tracker] and [Ice Reaper Level]"
+    },
+    {
+      "name": "Twin Element Mode (Ice, Dark)",
+      "text": "Grants [Attach Ice]/[Attach Dark] after using a Ice/Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Kurasame",
+      "text": "Keeps track of the number of uses of Ice Reaper (0~2), removed after using Ice Reaper two times"
+    },
+    {
+      "name": "Ice Reaper Damage Tracker",
+      "text": "Increases Ice Reaper level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Kurasame]"
+    },
+    {
+      "name": "Ice Reaper Level",
+      "text": "Keeps track of Ice Reaper level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Kurasame]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode (Ice, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Kurasame], [Ice Reaper Damage Tracker] and [Ice Reaper Level]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Ice, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Kurasame], [Ice Reaper Damage Tracker] and [Ice Reaper Level]"
+    },
+    {
+      "name": "Twin Element Mode (Ice, Dark)",
+      "text": "Grants [Attach Ice]/[Attach Dark] after using a Ice/Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Kurasame",
+      "text": "Keeps track of the number of uses of Ice Reaper (0~2), removed after using Ice Reaper two times"
+    },
+    {
+      "name": "Ice Reaper Damage Tracker",
+      "text": "Increases Ice Reaper level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Kurasame]"
+    },
+    {
+      "name": "Ice Reaper Level",
+      "text": "Keeps track of Ice Reaper level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Kurasame]"
+    }
+  ],
+  "id": "23550005",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23550005/23550005_256.png",
+  "character": "Kurasame",
+  "name": "Ice Reaper (Engaged)",
+  "name_jp": "氷剣の死神",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Type-0",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Twin Element Mode (Ice, Dark)], [Damage Cap +10000], [Arcane Dyad Empowered: Kurasame], [Ice Reaper Damage Tracker] and [Ice Reaper Level]",
+  "verified": true
+}

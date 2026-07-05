@@ -1,0 +1,66 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK and MND +50%], [Haste] and [Physical Quick Cast], grants [Awoken Frog-Catcher] and [Delicious Discovery!] to the user"
+    },
+    {
+      "name": "Awoken Frog-Catcher",
+      "text": "Support abilities don't consume uses, cast speed x3.00 for Support abilities, restores 1000 HP to the user after using Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Physical Quick Cast",
+      "text": "Cast speed x2.00 for PHY attacks",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Delicious Discovery!",
+      "text": "Grants [100% Critical 1] and [Critical Damage +50% 1] to all allies and casts Frog Stomp after using three Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "100% Critical 1",
+      "text": "Critical chance =100%",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Critical Damage +50% 1",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Frog Stomp",
+      "text": "One single ranged attack (4.44) capped at 99999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK and MND +50%], [Haste] and [Physical Quick Cast], grants [Awoken Frog-Catcher] and [Delicious Discovery!] to the user"
+    },
+    {
+      "name": "Awoken Frog-Catcher",
+      "text": "Support abilities don't consume uses, cast speed x3.00 for Support abilities, restores 1000 HP to the user after using Support abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20840008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840008/20840008_256.png",
+  "character": "Quina",
+  "name": "Delicious Discovery!",
+  "name_jp": "美味を発見！",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK and MND +50%], [Haste] and [Physical Quick Cast], grants [Awoken Frog-Catcher] and [Delicious Discovery!] to the user",
+  "verified": true
+}

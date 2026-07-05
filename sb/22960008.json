@@ -1,0 +1,69 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Instant Cast 1] and [Stoneskin: 100%], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Sacred Iris",
+      "text": "Restores HP (55) if target hasn't any Stoneskin, grants [Stoneskin: 50%]/[Stoneskin: 100%] if target hasn't/has any Stoneskin",
+      "condition": "Bard, White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Rainbow Sky Veil",
+      "text": "Restores HP (25)",
+      "condition": "Bard, White Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Stoneskin: 100%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 100% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Instant Cast 1] and [Stoneskin: 100%], grants [Synchro Mode] and [Damage Cap +10000] to the user"
+    },
+    {
+      "name": "Sacred Iris",
+      "text": "Restores HP (55) if target hasn't any Stoneskin, grants [Stoneskin: 50%]/[Stoneskin: 100%] if target hasn't/has any Stoneskin",
+      "condition": "Bard, White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Rainbow Sky Veil",
+      "text": "Restores HP (25)",
+      "condition": "Bard, White Magic",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22960008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22960008/22960008_256.png",
+  "character": "Aria",
+  "name": "Ephemeral Maiden",
+  "name_jp": "うたかたの巫女",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "III",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [Instant Cast 1] and [Stoneskin: 100%], grants [Synchro Mode] and [Damage Cap +10000] to the user",
+  "verified": true
+}

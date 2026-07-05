@@ -1,0 +1,132 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gladiolus], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Earth abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [111% ATB 1] after using Earth abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [40% Damage Reduction Barrier 1] to all allies, grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Tactical Chase Mode: Gladiolus] to user if Level 2+ EnEarth, grants [Attach Earth 2 with Stacking] to user if not."
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Earth Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Earth attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Earth 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Earth ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Tactical Chase Mode: Gladiolus",
+      "text": "Triggers [Battle Strike: Gladiolus] when any Damage Reduction Barrier is removed (max 4), Earth abilities deal 40/50/60/70% more damage after triggering 1/2/3/4 times, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Battle Strike: Gladiolus",
+      "text": "Grants [10% Damage Reduction Barrier 1] to all allies."
+    },
+    {
+      "name": "10% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 10% for the next attack"
+    },
+    {
+      "name": "Attach Earth 2 with Stacking",
+      "text": "Increase Attach Earth Level by 2 and increase Max Attach Element Level by 2, up to Attach Earth 3",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gladiolus], [ATK +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Earth abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [111% ATB 1] after using Earth abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (11.00 each) capped at 199,999. Grants [40% Damage Reduction Barrier 1] to all allies, grants [Earth Damage Cap +20000 (Tactical)], [Earth 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Tactical Chase Mode: Gladiolus] to user if Level 2+ EnEarth, grants [Attach Earth 2 with Stacking] to user if not."
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    },
+    {
+      "name": "Earth Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Earth attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Earth 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Earth ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Tactical Chase Mode: Gladiolus",
+      "text": "Triggers [Battle Strike: Gladiolus] when any Damage Reduction Barrier is removed (max 4), Earth abilities deal 40/50/60/70% more damage after triggering 1/2/3/4 times, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Battle Strike: Gladiolus",
+      "text": "Grants [10% Damage Reduction Barrier 1] to all allies."
+    },
+    {
+      "name": "10% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 10% for the next attack"
+    },
+    {
+      "name": "Attach Earth 2 with Stacking",
+      "text": "Increase Attach Earth Level by 2 and increase Max Attach Element Level by 2, up to Attach Earth 3",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "22900027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22900027/22900027_256.png",
+  "character": "Gladiolus",
+  "name": "War-Awoken Rising Rage",
+  "name_jp": "戦醒ライジングレイジ",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XV",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Gladiolus], [ATK +500 (25s) (Tactical)] to user.",
+  "verified": true
+}

@@ -1,0 +1,128 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to the target, grants [HP Stock (6000)] and [Quick Cast 3] to all allies, grants [Dual Awoken Fortune-Teller Mode I (Cait Sith)] to the user, grants [VII Resonance +3% Boost] to all VII allies"
+    },
+    {
+      "name": "Dual Awoken Fortune-Teller Mode I (Cait Sith)",
+      "text": "Cast time x2.00 for Bard and Dancer abilities, chases Bard abilities with Heal Dice, chases Dancer abilities with Break Dance",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fortune-Teller Mode II (Cait Sith)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Fortune-Teller Mode II (Cait Sith)",
+      "text": "Cast time x999999 for Dancer and Bard abilities, chases Dancer and Bard abilities with Power Slots",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Power Slots",
+      "text": "Grants [Instant Cast 1]/[ATK and MAG +30%, DEF and RES +25% (8s)], [Critical Chance +50% (15s)] and [Instant Cast 1] if 0-3/4+ FF7 allies are alive"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "ATK and MAG +30%, DEF and RES +25% (8s)",
+      "text": "ATK and MAG +30%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Critical Chance +50% (15s)",
+      "text": "Critical chance +50% (additive with other critical chance sources)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Break Dance",
+      "text": "Causes [ATK and DEF -50% (8s)]/[MAG and RES -50% (8s)] after 1+2n/2+2n uses "
+    },
+    {
+      "name": "Heal Dice",
+      "text": "Grants [20% Damage Reduction Barrier 1] and [HP Stock (1000)] to all allies"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND -50% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "HP Stock (6000)",
+      "text": "Automatically restores HP, up to 6000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "VII Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is VII"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to the target, grants [HP Stock (6000)] and [Quick Cast 3] to all allies, grants [Dual Awoken Fortune-Teller Mode I (Cait Sith)] to the user, grants [VII Resonance +3% Boost] to all VII allies"
+    },
+    {
+      "name": "Dual Awoken Fortune-Teller Mode I (Cait Sith)",
+      "text": "Cast time x2.00 for Bard and Dancer abilities, chases Bard abilities with Heal Dice, chases Dancer abilities with Break Dance",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fortune-Teller Mode II (Cait Sith)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Fortune-Teller Mode II (Cait Sith)",
+      "text": "Cast time x999999 for Dancer and Bard abilities, chases Dancer and Bard abilities with Power Slots",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Power Slots",
+      "text": "Grants [Instant Cast 1]/[ATK and MAG +30%, DEF and RES +25% (8s)], [Critical Chance +50% (15s)] and [Instant Cast 1] if 0-3/4+ FF7 allies are alive"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "ATK and MAG +30%, DEF and RES +25% (8s)",
+      "text": "ATK and MAG +30%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Critical Chance +50% (15s)",
+      "text": "Critical chance +50% (additive with other critical chance sources)",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22250013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22250013/22250013_256.png",
+  "character": "Cait Sith",
+  "name": "Awoken Exciting Jackpot",
+  "name_jp": "覚醒痛快ジャックポット",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VII",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to the target, grants [HP Stock (6000)] and [Quick Cast 3] to all allies, grants [Dual Awoken Fortune-Teller Mode I (Cait Sith)] to the user, grants [VII Resonance +3% Boost] to all VII allies",
+  "verified": true
+}

@@ -1,0 +1,105 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Terra)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Fire Mode I (Terra)",
+      "text": "Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 2 additional times, casts speed x2.00 for equipped Fire abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Terra)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Fire Mode II (Terra)",
+      "text": "Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 1 additional time, cast speed x2.00 for Fire abilities, grants [Buff Fire 40% (5s)] and [Damage Cap +10000 3] to the user after using Fire abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Buff Fire 40% (5s)",
+      "text": "Increases Fire damage dealt by 40%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Damage Cap +10000 3",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "3 turns"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Fire Resonance +5% Boost",
+      "text": "Fire abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Terra)] and [Fire Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Fire Mode I (Terra)",
+      "text": "Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 2 additional times, casts speed x2.00 for equipped Fire abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Fire Mode II (Terra)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Fire Mode II (Terra)",
+      "text": "Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Fire abilities trigger 1 additional time, cast speed x2.00 for Fire abilities, grants [Buff Fire 40% (5s)] and [Damage Cap +10000 3] to the user after using Fire abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Buff Fire 40% (5s)",
+      "text": "Increases Fire damage dealt by 40%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Damage Cap +10000 3",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "3 turns"
+    }
+  ],
+  "id": "20100035",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20100035/20100035_256.png",
+  "character": "Terra",
+  "name": "Awoken Trance Fira",
+  "name_jp": "覚醒トランス・ファイラ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Fire with Stacking], [Damage Cap +10000], [Dual Awoken Fire Mode I (Terra)] and [Fire Resonance +5% Boost] to the user",
+  "verified": true
+}

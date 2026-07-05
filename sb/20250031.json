@@ -1,0 +1,68 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and Hatred for Mankind + 1 to the user"
+    },
+    {
+      "name": "Flame Prison Blade",
+      "text": "Six single attacks (0.90 each), grants [Fire Ability +30% Boost 1] and [100% Critical 1] to the user",
+      "condition": "Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Frenzied Flames",
+      "text": "Grants [Quick Cast 3] if the user has Hatred for Mankind level 0, grants [Instant Cast 3] and [Buff Fire 30% (5s)] if the user has Hatred for Mankind level 1, causes Hatred for Mankind -1",
+      "condition": "Fire",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and Hatred for Mankind + 1 to the user"
+    },
+    {
+      "name": "Flame Prison Blade",
+      "text": "Six single attacks (0.90 each), grants [Fire Ability +30% Boost 1] and [100% Critical 1] to the user",
+      "condition": "Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Frenzied Flames",
+      "text": "Grants [Quick Cast 3] if the user has Hatred for Mankind level 0, grants [Instant Cast 3] and [Buff Fire 30% (5s)] if the user has Hatred for Mankind level 1, causes Hatred for Mankind -1",
+      "condition": "Fire",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20250031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20250031/20250031_256.png",
+  "character": "Sephiroth",
+  "name": "Crimson Octaslash",
+  "name_jp": "八刀紅閃",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "VII",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and Hatred for Mankind + 1 to the user",
+  "verified": true
+}

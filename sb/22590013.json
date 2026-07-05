@@ -1,0 +1,233 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Resonance +5% Boost], [Dual Awoken Witch Mode I (Matoya)] to the user"
+    },
+    {
+      "name": "Dual Awoken Witch Mode I (Matoya)",
+      "text": "Witch abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Witch abilities trigger 2 additional times, cast speed x2.00 for Witch abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Witch Mode II (Matoya)] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (8s)",
+      "text": "ATK, DEF, MAG and RES +30%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Witch Mode II (Matoya)",
+      "text": "Witch abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Witch abilities trigger 1 additional time, instant cast speed for Witch abilities, chases a Witch ability with Dual Potion Spell",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Potion Spell",
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], [Imperil Lightning 10% (15s)] if 0-3 FF1 allies are alive, causes [Imperil Prismatic 30% (15s)] if 4+ FF1 allies are alive"
+    },
+    {
+      "name": "Imperil Fire 10% (15s)",
+      "text": "Fire Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 10% (15s)",
+      "text": "Ice Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 10% (15s)",
+      "text": "Lightning Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Prismatic 30% (15s)",
+      "text": "Causes [Imperil Fire 30% (15s)], [Imperil Ice 30% (15s)], [Imperil Lightning 30% (15s)], [Imperil Earth 30% (15s)], [Imperil Wind 30% (15s)], [Imperil Water 30% (15s)], [Imperil Holy 30% (15s)], [Imperil Dark 30% (15s)] and [Imperil Poison 30% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 30% (15s)",
+      "text": "Fire Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 30% (15s)",
+      "text": "Ice Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 30% (15s)",
+      "text": "Lightning Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Earth 30% (15s)",
+      "text": "Earth Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Wind 30% (15s)",
+      "text": "Wind Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Water 30% (15s)",
+      "text": "Water Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Holy 30% (15s)",
+      "text": "Holy Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 30% (15s)",
+      "text": "Dark Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 30% (15s)",
+      "text": "Poison Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Quartz Eye Mode II (Fire, Ice, Lightning)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Ice with Stacking]/[Attach Lightning with Stacking] after using a Fire/Ice/Lightning ability"
+    },
+    {
+      "name": "Witch Resonance +5% Boost",
+      "text": "Witch abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Resonance +5% Boost], [Dual Awoken Witch Mode I (Matoya)] to the user"
+    },
+    {
+      "name": "Dual Awoken Witch Mode I (Matoya)",
+      "text": "Witch abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Witch abilities trigger 2 additional times, cast speed x2.00 for Witch abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [ATK, DEF, MAG and RES +30% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Witch Mode II (Matoya)] to the user"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (8s)",
+      "text": "ATK, DEF, MAG and RES +30%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Witch Mode II (Matoya)",
+      "text": "Witch abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Witch abilities trigger 1 additional time, instant cast speed for Witch abilities, chases a Witch ability with Dual Potion Spell",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Potion Spell",
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], [Imperil Lightning 10% (15s)] if 0-3 FF1 allies are alive, causes [Imperil Prismatic 30% (15s)] if 4+ FF1 allies are alive"
+    },
+    {
+      "name": "Imperil Fire 10% (15s)",
+      "text": "Fire Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 10% (15s)",
+      "text": "Ice Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 10% (15s)",
+      "text": "Lightning Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Prismatic 30% (15s)",
+      "text": "Causes [Imperil Fire 30% (15s)], [Imperil Ice 30% (15s)], [Imperil Lightning 30% (15s)], [Imperil Earth 30% (15s)], [Imperil Wind 30% (15s)], [Imperil Water 30% (15s)], [Imperil Holy 30% (15s)], [Imperil Dark 30% (15s)] and [Imperil Poison 30% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 30% (15s)",
+      "text": "Fire Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 30% (15s)",
+      "text": "Ice Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 30% (15s)",
+      "text": "Lightning Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Earth 30% (15s)",
+      "text": "Earth Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Wind 30% (15s)",
+      "text": "Wind Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Water 30% (15s)",
+      "text": "Water Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Holy 30% (15s)",
+      "text": "Holy Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 30% (15s)",
+      "text": "Dark Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 30% (15s)",
+      "text": "Poison Resistance -30%, cumulable",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22590013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22590013/22590013_256.png",
+  "character": "Matoya",
+  "name": "Awoken Inner Eye",
+  "name_jp": "覚醒真眼の魔女",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "I",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Damage Cap +10000], [Quartz Eye Mode II (Fire, Ice, Lightning)], [Witch Resonance +5% Boost], [Dual Awoken Witch Mode I (Matoya)] to the user",
+  "verified": true
+}

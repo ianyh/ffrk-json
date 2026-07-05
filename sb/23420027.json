@@ -1,0 +1,79 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Cor], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Cor",
+      "text": "Triggers [Destruction: Cor] when using Fire abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Cor",
+      "text": "Six single attacks (0.90 each)."
+    },
+    {
+      "name": "Attach Fire with Secondary Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 5, up to Attach Fire 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Cor], [Instant ATB 1] to user. Grants [Attach Fire with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Cor",
+      "text": "Triggers [Destruction: Cor] when using Fire abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Cor",
+      "text": "Six single attacks (0.90 each)."
+    },
+    {
+      "name": "Attach Fire with Secondary Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 5, up to Attach Fire 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "23420027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23420027/23420027_256.png",
+  "character": "Cor",
+  "name": "Burst Break: Cor (Break Glint)",
+  "name_jp": "破術・コル",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "XV",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

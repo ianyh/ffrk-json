@@ -1,0 +1,120 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Guardian Mode I (Y'shtola)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Guardian Mode I (Y'shtola)",
+      "text": "Cast speed x2.00 for White Magic and Support abilities, casts Dual Asylum after using White Magic or Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Guardian Mode II (Y'shtola)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Guardian Mode II (Y'shtola)",
+      "text": "Instant cast speed for White Magic and Support abilities, casts Dual Divine Benizon after using White Magic or Support abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Divine Benizon",
+      "text": "Grants [Stoneskin: 50%] and [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Stoneskin: 50%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 50% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Asylum",
+      "text": "Grants [HP Stock (500/1000/1500/2000/3000)] at rank 1/2/3/4/5 of the triggering ability"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "White Magic Healing Resonance Boost +5%",
+      "text": "White Magic abilities restore 5% more HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Guardian Mode I (Y'shtola)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Guardian Mode I (Y'shtola)",
+      "text": "Cast speed x2.00 for White Magic and Support abilities, casts Dual Asylum after using White Magic or Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Guardian Mode II (Y'shtola)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Guardian Mode II (Y'shtola)",
+      "text": "Instant cast speed for White Magic and Support abilities, casts Dual Divine Benizon after using White Magic or Support abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Divine Benizon",
+      "text": "Grants [Stoneskin: 50%] and [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Stoneskin: 50%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 50% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "20960027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960027/20960027_256.png",
+  "character": "Y'shtola",
+  "name": "Awoken Goddess's Mercy",
+  "name_jp": "覚醒女神の慈悲",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "XIV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste], [Regenga] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Guardian Mode I (Y'shtola)] and [White Magic Healing Resonance Boost +5%] to the user",
+  "verified": true
+}

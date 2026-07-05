@@ -1,0 +1,109 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Leila)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Water Mode I (Leila)",
+      "text": "Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Water abilities after casting 1/2/3+ Water abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Leila)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Water Mode II (Leila)",
+      "text": "Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Water abilities, casts Dual Aqua Gaze after using Water abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Aqua Gaze",
+      "text": "Five single attacks (0.59 each), 100% hit rate, causes [Imperil Water 20% (5s)], grants [100% Critical (15s)] to the user"
+    },
+    {
+      "name": "Imperil Water 20% (5s)",
+      "text": "Water Resistance -20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "100% Critical (15s)",
+      "text": "Critical chance =100%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Water Resonance +5% Boost",
+      "text": "Water abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Leila)] and [Water Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Water Mode I (Leila)",
+      "text": "Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 for equipped Water abilities after casting 1/2/3+ Water abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Water Mode II (Leila)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Water Mode II (Leila)",
+      "text": "Water abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Water abilities, casts Dual Aqua Gaze after using Water abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Aqua Gaze",
+      "text": "Five single attacks (0.59 each), 100% hit rate, causes [Imperil Water 20% (5s)], grants [100% Critical (15s)] to the user"
+    },
+    {
+      "name": "Imperil Water 20% (5s)",
+      "text": "Water Resistance -20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "100% Critical (15s)",
+      "text": "Critical chance =100%",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22130022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130022/22130022_256.png",
+  "character": "Leila",
+  "name": "Awoken Pirate's Gaze",
+  "name_jp": "覚醒パイレーツゲイザー",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "II",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Water with Stacking], [Damage Cap +10000], [Dual Awoken Water Mode I (Leila)] and [Water Resonance +5% Boost] to the user",
+  "verified": true
+}

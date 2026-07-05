@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Weapon Skill",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Weapon Skill",
+      "text": ""
+    }
+  ],
+  "id": "22670050",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670050/22670050_256.png",
+  "character": "Cloud of Darkness",
+  "name": "War-Awoken Feint Flash Beam",
+  "name_jp": "戦醒潜地式雷光砲",
+  "tier": "TASB",
+  "sb_version": "TASB2",
+  "realm": "III",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

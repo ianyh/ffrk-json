@@ -1,0 +1,73 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Astra], [Instant Cast 1] and [Last Stand], grants [Synchro Mode], [Damage Cap +10000] and Guest +1 to the user"
+    },
+    {
+      "name": "Bottomless X-Potion",
+      "text": "Grants [HP Stock (6000)]",
+      "condition": "White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Bottomless Hi-Potion",
+      "text": "Restores HP (25), grants [HP Stock (3000)] if the user has Guest level 1, causes Guest -1",
+      "condition": "White Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "Astra",
+      "text": "Prevents Poison, Silence, Paralyze, Confuse, Slow, Stop, Blind, Sleep, Petrify, Berserk, Sap and Stun once"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Astra], [Instant Cast 1] and [Last Stand], grants [Synchro Mode], [Damage Cap +10000] and Guest +1 to the user"
+    },
+    {
+      "name": "Bottomless X-Potion",
+      "text": "Grants [HP Stock (6000)]",
+      "condition": "White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Bottomless Hi-Potion",
+      "text": "Restores HP (25), grants [HP Stock (3000)] if the user has Guest level 1, causes Guest -1",
+      "condition": "White Magic",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22440010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440010/22440010_256.png",
+  "character": "Larsa",
+  "name": "Amity Potion",
+  "name_jp": "アミティポーション",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [Astra], [Instant Cast 1] and [Last Stand], grants [Synchro Mode], [Damage Cap +10000] and Guest +1 to the user",
+  "verified": true
+}

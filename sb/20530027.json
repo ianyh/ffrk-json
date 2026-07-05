@@ -1,0 +1,133 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Change Machinery Mode II (Fire, Lightning, Poison)], [Damage Cap +10000], [Dual Awoken Machine Mania Mode I (Edgar)] and [Machinist Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Machine Mania Mode I (Edgar)",
+      "text": "Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Machinist abilities trigger 2 additional times, cast speed x2.00 for equipped Machinist abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Machine Mania Mode II (Edgar)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Machine Mania Mode II (Edgar)",
+      "text": "Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Machinist abilities, causes [Imperil Lightning 20% (15s)], [Imperil Fire 20% (15s)] and [Imperil Poison 20% (15s)] after using Machinist abilities if 0-3 FF6 allies are alive, grants [Critical Damage +50% (15s)] and [ATK, DEF, MAG and RES +30% (8s)] to all allies if 4+ FF6 allies are alive",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 20% (15s)",
+      "text": "Poison Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Critical Damage +50% (15s)",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (8s)",
+      "text": "ATK, DEF, MAG and RES +30%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Change Machinery Mode II (Fire, Lightning, Poison)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking]/[Attach Poison with Stacking] after using a Fire/Lightning/Poison ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Machinist Resonance +5% Boost",
+      "text": "Machinist abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Change Machinery Mode II (Fire, Lightning, Poison)], [Damage Cap +10000], [Dual Awoken Machine Mania Mode I (Edgar)] and [Machinist Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Machine Mania Mode I (Edgar)",
+      "text": "Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Machinist abilities trigger 2 additional times, cast speed x2.00 for equipped Machinist abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Machine Mania Mode II (Edgar)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Machine Mania Mode II (Edgar)",
+      "text": "Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Machinist abilities, causes [Imperil Lightning 20% (15s)], [Imperil Fire 20% (15s)] and [Imperil Poison 20% (15s)] after using Machinist abilities if 0-3 FF6 allies are alive, grants [Critical Damage +50% (15s)] and [ATK, DEF, MAG and RES +30% (8s)] to all allies if 4+ FF6 allies are alive",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 20% (15s)",
+      "text": "Poison Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Critical Damage +50% (15s)",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (8s)",
+      "text": "ATK, DEF, MAG and RES +30%",
+      "duration": "8 seconds"
+    }
+  ],
+  "id": "20530027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530027/20530027_256.png",
+  "character": "Edgar",
+  "name": "Awoken Trinity Boost",
+  "name_jp": "覚醒トリニティブースト",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Change Machinery Mode II (Fire, Lightning, Poison)], [Damage Cap +10000], [Dual Awoken Machine Mania Mode I (Edgar)] and [Machinist Resonance +5% Boost] to the user",
+  "verified": true
+}

@@ -1,0 +1,103 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999 based on EnWater or EnLightning or EnIce. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Lulu], [Instant ATB 1] to user. Grants [Attach Ice with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Lightning with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Lulu",
+      "text": "Triggers [Destruction: Lulu] when using Ice/Water/Lightning abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Lulu",
+      "text": "Six single attacks (3.05 each) based on EnWater or EnLightning or EnIce"
+    },
+    {
+      "name": "Attach Ice with Secondary Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 5, up to Attach Ice 5",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning with Secondary Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 5, up to Attach Lightning 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999 based on EnWater or EnLightning or EnIce. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Lulu], [Instant ATB 1] to user. Grants [Attach Ice with Secondary Stacking]/[Attach Water with Secondary Stacking]/[Attach Lightning with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Lulu",
+      "text": "Triggers [Destruction: Lulu] when using Ice/Water/Lightning abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Lulu",
+      "text": "Six single attacks (3.05 each) based on EnWater or EnLightning or EnIce"
+    },
+    {
+      "name": "Attach Ice with Secondary Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 5, up to Attach Ice 5",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning with Secondary Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 5, up to Attach Lightning 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "20880034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880034/20880034_256.png",
+  "character": "Lulu",
+  "name": "Burst Break: Lulu (Break Glint)",
+  "name_jp": "烈破・ルールー",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE",
+    "Lightning",
+    "NE",
+    "Ice",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (26.50 each) capped at 99,999 based on EnWater or EnLightning or EnIce. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

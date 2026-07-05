@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "20840022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840022/20840022_256.png",
+  "character": "Quina",
+  "name": "Starry Pumpkin Bomber",
+  "name_jp": "極星パンプキンボンバー",
+  "tier": "MASB",
+  "sb_version": "MASB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

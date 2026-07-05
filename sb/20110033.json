@@ -1,0 +1,80 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Ex-SOLDIER], [Damage Cap +10000], [Linked Materia Mode II (Wind, Dark)] and [Deathblow Materia Mode] to the user"
+    },
+    {
+      "name": "Awoken Ex-SOLDIER",
+      "text": "Wind and Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Spin Drive (VII) after using a Wind or Dark ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Spin Drive (VII)",
+      "text": "Six single attacks (0.71 each), 100% hit rate, grants [Damage Cap +10000 1] to the user every second cast"
+    },
+    {
+      "name": "Damage Cap +10000 1",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Linked Materia Mode II (Wind, Dark)",
+      "text": "Grants [Attach Wind with Stacking]/[Attach Dark with Stacking] after using a Wind/Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Deathblow Materia Mode",
+      "text": "Cast speed x2.00, keeps track of the number of Wind or Dark abilities used (0~4), grants [Deathblow Materia Mode Critical] to the user after using a Wind or Dark ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Deathblow Materia Mode Critical",
+      "text": "Critical chance =0/25/50/75/100% scaling with [Deathblow Materia Mode], removed if the character hasn't [Deathblow Materia Mode]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Awoken Ex-SOLDIER], [Damage Cap +10000], [Linked Materia Mode II (Wind, Dark)] and [Deathblow Materia Mode] to the user"
+    },
+    {
+      "name": "Awoken Ex-SOLDIER",
+      "text": "Wind and Dark abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Spin Drive (VII) after using a Wind or Dark ability",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20110033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20110033/20110033_256.png",
+  "character": "Cloud",
+  "name": "Dark Side Braver",
+  "name_jp": "ダークサイドブレイバー",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "VII",
+  "elements": [
+    "Wind",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Awoken Ex-SOLDIER], [Damage Cap +10000], [Linked Materia Mode II (Wind, Dark)] and [Deathblow Materia Mode] to the user",
+  "verified": true
+}

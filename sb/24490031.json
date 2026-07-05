@@ -1,0 +1,79 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Kimahri], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Kimahri",
+      "text": "Triggers [Destruction: Kimahri] when using Water abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Kimahri",
+      "text": "Six single attacks (0.90 each), ranged, jump."
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Kimahri], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Kimahri",
+      "text": "Triggers [Destruction: Kimahri] when using Water abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Kimahri",
+      "text": "Six single attacks (0.90 each), ranged, jump."
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "24490031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/24490031/24490031_256.png",
+  "character": "Kimahri",
+  "name": "Burst Break: Kimahri (Break Glint)",
+  "name_jp": "烈破・キマリ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

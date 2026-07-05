@@ -1,0 +1,128 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Damage Cap +10000], [Switch Draw Mode (Ice, Dark)], [Arcane Dyad Empowered: Kiros], [Apex Exsanguination Damage Tracker] and [Apex Exsanguination Level]"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Switch Draw Mode (Ice, Dark)",
+      "text": "Grants [Attach Ice]/[Attach Dark] after using a Ice/Dark ability"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Kiros",
+      "text": "Keeps track of the number of uses of Apex Exsanguination (0~2), removed after using Apex Exsanguination two times"
+    },
+    {
+      "name": "Apex Exsanguination Damage Tracker",
+      "text": "Increases Apex Exsanguination level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Kiros]"
+    },
+    {
+      "name": "Apex Exsanguination Level",
+      "text": "Keeps track of Apex Exsanguination level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Kiros]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Damage Cap +10000], [Switch Draw Mode (Ice, Dark)], [Arcane Dyad Empowered: Kiros], [Apex Exsanguination Damage Tracker] and [Apex Exsanguination Level]"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Switch Draw Mode (Ice, Dark)",
+      "text": "Grants [Attach Ice]/[Attach Dark] after using a Ice/Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Kiros",
+      "text": "Keeps track of the number of uses of Apex Exsanguination (0~2), removed after using Apex Exsanguination two times"
+    },
+    {
+      "name": "Apex Exsanguination Damage Tracker",
+      "text": "Increases Apex Exsanguination level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Kiros]"
+    },
+    {
+      "name": "Apex Exsanguination Level",
+      "text": "Keeps track of Apex Exsanguination level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Kiros]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Damage Cap +10000], [Switch Draw Mode (Ice, Dark)], [Arcane Dyad Empowered: Kiros], [Apex Exsanguination Damage Tracker] and [Apex Exsanguination Level]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Damage Cap +10000], [Switch Draw Mode (Ice, Dark)], [Arcane Dyad Empowered: Kiros], [Apex Exsanguination Damage Tracker] and [Apex Exsanguination Level]"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Switch Draw Mode (Ice, Dark)",
+      "text": "Grants [Attach Ice]/[Attach Dark] after using a Ice/Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Kiros",
+      "text": "Keeps track of the number of uses of Apex Exsanguination (0~2), removed after using Apex Exsanguination two times"
+    },
+    {
+      "name": "Apex Exsanguination Damage Tracker",
+      "text": "Increases Apex Exsanguination level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Kiros]"
+    },
+    {
+      "name": "Apex Exsanguination Level",
+      "text": "Keeps track of Apex Exsanguination level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Kiros]"
+    }
+  ],
+  "id": "22990011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22990011/22990011_256.png",
+  "character": "Kiros",
+  "name": "Apex Exsanguination (Engaged)",
+  "name_jp": "ブラッドペイン・極",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Damage Cap +10000], [Switch Draw Mode (Ice, Dark)], [Arcane Dyad Empowered: Kiros], [Apex Exsanguination Damage Tracker] and [Apex Exsanguination Level]",
+  "verified": true
+}

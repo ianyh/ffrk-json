@@ -1,0 +1,122 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Dual Job Mode I (Lenna)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Dual Job Mode I (Lenna)",
+      "text": "Cast speed x2.00/x2.50/x3.00 for White Magic and Dancer abilities after using 1/2/3+ White Magic or Dancer abilities, increases healing done by White Magic and Dancer abilities by 10%/15%/20% after using 1/2/3+ White Magic or Dancer abilities, casts Dual Saintly Tenets after using White Magic abilities, casts Dual Benevolent Heart after using Dancer abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dual Job Mode II (Lenna)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Dual Job Mode II (Lenna)",
+      "text": "Instant cast speed for White Magic abilities, casts Dual Gentle Vow after using White Magic abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Gentle Vow",
+      "text": "Restores HP (55), grants [Regenga] and [Quick Cast 1]"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds",
+      "duration": "4 seconds"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Saintly Tenets",
+      "text": "Grants [HP Stock (500/1000/1500/2000/3000)] at rank 1/2/3/4/5 of the triggering ability"
+    },
+    {
+      "name": "Dual Benevolent Heart",
+      "text": "Restores HP (10/15/25/35/45) at rank 1/2/3/4/5 of the triggering ability"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "White Magic Healing Resonance Boost +5%",
+      "text": "White Magic abilities restore 5% more HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Dual Job Mode I (Lenna)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Dual Job Mode I (Lenna)",
+      "text": "Cast speed x2.00/x2.50/x3.00 for White Magic and Dancer abilities after using 1/2/3+ White Magic or Dancer abilities, increases healing done by White Magic and Dancer abilities by 10%/15%/20% after using 1/2/3+ White Magic or Dancer abilities, casts Dual Saintly Tenets after using White Magic abilities, casts Dual Benevolent Heart after using Dancer abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dual Job Mode II (Lenna)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Dual Job Mode II (Lenna)",
+      "text": "Instant cast speed for White Magic abilities, casts Dual Gentle Vow after using White Magic abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Gentle Vow",
+      "text": "Restores HP (55), grants [Regenga] and [Quick Cast 1]"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds",
+      "duration": "4 seconds"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "20200021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20200021/20200021_256.png",
+  "character": "Lenna",
+  "name": "Awoken Champion of Life",
+  "name_jp": "覚醒命と魂の護り手",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "V",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Dual Job Mode I (Lenna)] and [White Magic Healing Resonance Boost +5%] to the user",
+  "verified": true
+}

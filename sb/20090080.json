@@ -1,0 +1,91 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999 based on Attach Water or Attach Holy. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Rydia (Water/Holy)], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking] or [Attach Holy with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Rydia (Water/Holy)",
+      "text": "Triggers [Destruction: Rydia (Water/Holy)] when using Water/Holy abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Rydia (Water/Holy)",
+      "text": "Six single attacks (3.05 each) based on Attach Water or Attach Holy"
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Holy with Secondary Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 5, up to Attach Holy 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999 based on Attach Water or Attach Holy. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Rydia (Water/Holy)], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking] or [Attach Holy with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Rydia (Water/Holy)",
+      "text": "Triggers [Destruction: Rydia (Water/Holy)] when using Water/Holy abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Rydia (Water/Holy)",
+      "text": "Six single attacks (3.05 each) based on Attach Water or Attach Holy"
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Holy with Secondary Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 5, up to Attach Holy 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "20090080",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20090080/20090080_256.png",
+  "character": "Rydia",
+  "name": "Burst Break: Rydia (Water, Holy) (Break Glint)",
+  "name_jp": "破術・リディア水聖",
+  "tier": "Buster",
+  "sb_version": "Buster2",
+  "realm": "IV",
+  "elements": [
+    "Water",
+    "NE",
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (26.50 each) capped at 99,999 based on Attach Water or Attach Holy. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

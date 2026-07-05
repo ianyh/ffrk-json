@@ -1,0 +1,65 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Holy with Stacking], [Damage Cap +10000], [Quick Cast], [Holy Ability +30% Boost (15s)] and [Awoken Ray of Hope] to the user"
+    },
+    {
+      "name": "Awoken Ray of Hope",
+      "text": "Unlimited Holy hones, Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Holy Light after using Holy abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Holy Light",
+      "text": "Six single attacks (2.44 each)"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quick Cast",
+      "text": "Cast speed x2.00",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Holy Ability +30% Boost (15s)",
+      "text": "Holy abilities deal 30% more damage",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Attach Holy with Stacking], [Damage Cap +10000], [Quick Cast], [Holy Ability +30% Boost (15s)] and [Awoken Ray of Hope] to the user"
+    },
+    {
+      "name": "Awoken Ray of Hope",
+      "text": "Unlimited Holy hones, Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Holy Light after using Holy abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20770027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20770027/20770027_256.png",
+  "character": "Hope",
+  "name": "Righteous Sanction",
+  "name_jp": "聖拳制裁",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "XIII",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (1.50 each), grants [Attach Holy with Stacking], [Damage Cap +10000], [Quick Cast], [Holy Ability +30% Boost (15s)] and [Awoken Ray of Hope] to the user",
+  "verified": true
+}

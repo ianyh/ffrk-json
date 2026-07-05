@@ -1,0 +1,108 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Whistle Mode I (Yuna)] and [Holy Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Whistle Mode I (Yuna)",
+      "text": "Cast speed x2.00 for White Magic and Summoning abilities, casts Dual Dual Smile Practice after using White Magic and Summoning abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1], [Attach Holy] and [Dual Awoken Whistle Mode II (Yuna)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Dual Awoken Whistle Mode II (Yuna)",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 2 additional times, instant cast speed for Summoning abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Smile Practice",
+      "text": "Restores HP (25/27.5/30) scaling with uses"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Whistle Mode I (Yuna)] and [Holy Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Whistle Mode I (Yuna)",
+      "text": "Cast speed x2.00 for White Magic and Summoning abilities, casts Dual Dual Smile Practice after using White Magic and Summoning abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1], [Attach Holy] and [Dual Awoken Whistle Mode II (Yuna)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Dual Awoken Whistle Mode II (Yuna)",
+      "text": "Summoning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Summoning abilities trigger 2 additional times, instant cast speed for Summoning abilities",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "20520033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20520033/20520033_256.png",
+  "character": "Yuna",
+  "name": "Awoken Calm Prayer",
+  "name_jp": "覚醒螺旋を癒す祈り",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "X",
+  "elements": [],
+  "type": "WHT",
+  "target": "",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Whistle Mode I (Yuna)] and [Holy Resonance Boost +5%] to the user",
+  "verified": true
+}

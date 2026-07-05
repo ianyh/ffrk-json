@@ -1,0 +1,84 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [PHY +30% Boost 3] to the user, grants [Damage Cap +10000 3] and [Fealty Mode] to the user if 4+ FF3 allies are alive"
+    },
+    {
+      "name": "Sasune Rush",
+      "text": "Six single attacks (0.90 each), grants [Quick Cast 1] to the user",
+      "condition": "Earth",
+      "slot": "Attack"
+    },
+    {
+      "name": "Sasune Guard",
+      "text": "Three single attacks (0.90 each), grants [Quick Cast 1] to the user, grants [40% Damage Reduction Barrier 1] to all FF3 allies",
+      "condition": "Earth",
+      "slot": "Defend"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Attach Earth 3 with Stacking",
+      "text": "Increase Attach Earth Level by 3 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "PHY +30% Boost 3",
+      "text": "PHY attacks deal 30% more damage"
+    },
+    {
+      "name": "Damage Cap +10000 3",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Fealty Mode",
+      "text": "Casts Knight's Espada after using a Earth ability, removed after triggering three times, removed if the character hasn't [Synchro Mode]"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [PHY +30% Boost 3] to the user, grants [Damage Cap +10000 3] and [Fealty Mode] to the user if 4+ FF3 allies are alive"
+    },
+    {
+      "name": "Sasune Rush",
+      "text": "Six single attacks (0.90 each), grants [Quick Cast 1] to the user",
+      "condition": "Earth",
+      "slot": "Attack"
+    },
+    {
+      "name": "Sasune Guard",
+      "text": "Three single attacks (0.90 each), grants [Quick Cast 1] to the user, grants [40% Damage Reduction Barrier 1] to all FF3 allies",
+      "condition": "Earth",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20800020",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800020/20800020_256.png",
+  "character": "Ingus",
+  "name": "Paragon of Chivalry",
+  "name_jp": "勇猛なる騎士道",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "III",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK, DEF, MAG and RES +30% (25s)] to all allies, grants [Attach Earth 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [PHY +30% Boost 3] to the user, grants [Damage Cap +10000 3] and [Fealty Mode] to the user if 4+ FF3 allies are alive",
+  "verified": true
+}

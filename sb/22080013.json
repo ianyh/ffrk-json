@@ -1,0 +1,75 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Awoken Darkwood], [Damage Cap +10000], [Twin Element Mode (Holy, Dark)] and [Emptiness Break] to the user"
+    },
+    {
+      "name": "Awoken Darkwood",
+      "text": "Dark and Holy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Holy abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Twin Element Mode (Holy, Dark)",
+      "text": "Grants [Attach Holy]/[Attach Dark] after using a Holy/Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Emptiness Break",
+      "text": "Grants [40% Damage Reduction Barrier 1] to all allies after using a Dark or Holy ability",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "40% Damage Reduction Barrier 1",
+      "text": "Reduces damage taken by 40% for the next attack"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 or 1.60 each), grants [Awoken Darkwood], [Damage Cap +10000], [Twin Element Mode (Holy, Dark)] and [Emptiness Break] to the user"
+    },
+    {
+      "name": "Awoken Darkwood",
+      "text": "Dark and Holy abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Holy abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22080013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22080013/22080013_256.png",
+  "character": "Exdeath",
+  "name": "Emptiness Break",
+  "name_jp": "エンプティネスブレイク",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "V",
+  "elements": [
+    "Dark",
+    "Holy",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 or 1.60 each), grants [Awoken Darkwood], [Damage Cap +10000], [Twin Element Mode (Holy, Dark)] and [Emptiness Break] to the user",
+  "verified": true
+}

@@ -1,0 +1,132 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Kuja], [MAG +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Dark abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Dark abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Dark Damage Cap +20000 (Tactical)], [Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Dark Damage Cap +30000 (Tactical)], [Dark Ability +50% Boost (Tactical)], [Dark 142% ATB Quick Cycle (Tactical)] or [Dark Ability +50% Boost (Tactical)], [Dark Ability Quick Cast (Tactical)] to user."
+    },
+    {
+      "name": "Dark Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Dark attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Dark 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Dark ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dark Damage Cap +30000 (Tactical)",
+      "text": "Increases the damage/healing cap for Dark attacks by 30000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Dark Ability +50% Boost (Tactical)",
+      "text": "Dark abilities deal 50% more damage, removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Dark 142% ATB Quick Cycle (Tactical)",
+      "text": "Grants [142% ATB 1] after using a Dark ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "142% ATB 1",
+      "text": "Increase ATB charge speed by x1.42",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dark Ability Quick Cast (Tactical)",
+      "text": "Cast speed x2.00 for Dark while in Tactical Awoken Mode"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Kuja], [MAG +500 (25s) (Tactical)] to user."
+    },
+    {
+      "name": "Mode",
+      "text": "Dark abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Dark abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Dark Damage Cap +20000 (Tactical)], [Dark 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Dark Damage Cap +30000 (Tactical)], [Dark Ability +50% Boost (Tactical)], [Dark 142% ATB Quick Cycle (Tactical)] or [Dark Ability +50% Boost (Tactical)], [Dark Ability Quick Cast (Tactical)] to user."
+    },
+    {
+      "name": "Dark Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Dark attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Dark 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Dark ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dark Damage Cap +30000 (Tactical)",
+      "text": "Increases the damage/healing cap for Dark attacks by 30000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Dark Ability +50% Boost (Tactical)",
+      "text": "Dark abilities deal 50% more damage, removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Dark 142% ATB Quick Cycle (Tactical)",
+      "text": "Grants [142% ATB 1] after using a Dark ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "142% ATB 1",
+      "text": "Increase ATB charge speed by x1.42",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dark Ability Quick Cast (Tactical)",
+      "text": "Cast speed x2.00 for Dark while in Tactical Awoken Mode"
+    }
+  ],
+  "id": "22240033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240033/22240033_256.png",
+  "character": "Kuja",
+  "name": "War-Awoken Ruinous Siege",
+  "name_jp": "戦醒破滅への包囲網",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Kuja], [MAG +500 (25s) (Tactical)] to user.",
+  "verified": true
+}

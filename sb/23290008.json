@@ -1,0 +1,98 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) and grants [Haste] to all allies, grants [Dual Awoken Miracle Mode I (Tama)], [Damage Cap +10000] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Miracle Mode I (Tama)",
+      "text": "Cast speed x2.00 for White Magic and Black Magic abilities, chases two White Magic and Black Magic abilities with Tama's Guidance",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Miracle Mode II (Tama)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Miracle Mode II (Tama)",
+      "text": "Cast speed x999999 for Black Magic and White Magic abilities, chases Black Magic and White Magic abilities with Tama's Encouragement"
+    },
+    {
+      "name": "Tama's Encouragement",
+      "text": "Restores HP (55) and grants [Magical Quick Cast 3] to all allies"
+    },
+    {
+      "name": "Magical Quick Cast 3",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Tama's Guidance",
+      "text": "Grants [Weakness +50% Boost 1] to all allies"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "White Magic Healing Resonance Boost +5%",
+      "text": "White Magic abilities restore 5% more HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) and grants [Haste] to all allies, grants [Dual Awoken Miracle Mode I (Tama)], [Damage Cap +10000] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Miracle Mode I (Tama)",
+      "text": "Cast speed x2.00 for White Magic and Black Magic abilities, chases two White Magic and Black Magic abilities with Tama's Guidance",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Miracle Mode II (Tama)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Miracle Mode II (Tama)",
+      "text": "Cast speed x999999 for Black Magic and White Magic abilities, chases Black Magic and White Magic abilities with Tama's Encouragement"
+    },
+    {
+      "name": "Tama's Encouragement",
+      "text": "Restores HP (55) and grants [Magical Quick Cast 3] to all allies"
+    },
+    {
+      "name": "Magical Quick Cast 3",
+      "text": "Cast speed x2.00 for BLK, WHT, BLU, SUM or NAT attacks that deal magical damage",
+      "duration": "3 turns"
+    }
+  ],
+  "id": "23290008",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23290008/23290008_256.png",
+  "character": "Tama",
+  "name": "Awoken World Parade",
+  "name_jp": "覚醒ワールド・パレード",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) and grants [Haste] to all allies, grants [Dual Awoken Miracle Mode I (Tama)], [Damage Cap +10000] and [White Magic Healing Resonance Boost +5%] to the user",
+  "verified": true
+}

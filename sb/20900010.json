@@ -1,0 +1,65 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], grants [Synchro Mode] and [Arcane Virtuoso Mode] to the user"
+    },
+    {
+      "name": "Moogle Salsa",
+      "text": "Causes [ATK and MAG -50% (8s)], restores 1500 HP to all allies",
+      "condition": "White Magic, Dancer",
+      "slot": "Attack"
+    },
+    {
+      "name": "Moogle Samba",
+      "text": "Grants [Quick Cast 1]",
+      "condition": "White Magic, Dancer",
+      "slot": "Defend"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Arcane Virtuoso Mode",
+      "text": "Grants [Magical +70% Boost 1] to all allies after using Moogle Salsa, removed after triggering three times"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [MAG and MND +50% (25s)], grants [Synchro Mode] and [Arcane Virtuoso Mode] to the user"
+    },
+    {
+      "name": "Moogle Salsa",
+      "text": "Causes [ATK and MAG -50% (8s)], restores 1500 HP to all allies",
+      "condition": "White Magic, Dancer",
+      "slot": "Attack"
+    },
+    {
+      "name": "Moogle Samba",
+      "text": "Grants [Quick Cast 1]",
+      "condition": "White Magic, Dancer",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20900010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20900010/20900010_256.png",
+  "character": "Mog",
+  "name": "Snow Ensemble",
+  "name_jp": "雪のアンサンブル",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "VI",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Grants [MAG and MND +50% (25s)], grants [Synchro Mode] and [Arcane Virtuoso Mode] to the user",
+  "verified": true
+}

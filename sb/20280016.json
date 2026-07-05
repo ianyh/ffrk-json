@@ -1,0 +1,126 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)], [Quick Cast 3] and [Fire/Earth/Ice Resonance +3% Boost], grants [Dual Awoken Sovereign Mode I (Gordon)] to the user, grants [100% Critical (25s)] to all allies with any Attach Fire, Attach Earth or Attach Ice"
+    },
+    {
+      "name": "Dual Awoken Sovereign Mode I (Gordon)",
+      "text": "Instant cast speed for Support abilities, casts Dual Sorrow of a Nation after using Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sovereign Mode II (Gordon)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Sovereign Mode II (Gordon)",
+      "text": "Instant cast speed for Support abilities, causes [Imperil Fire 20% (5s)], [Imperil Earth 20% (5s)] and [Imperil Ice 20% (5s)] after using Support abilities, grants [Fire/Earth/Ice Ability +30% Boost 2] to all allies after using Support abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Fire 20% (5s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Imperil Earth 20% (5s)",
+      "text": "Earth Resistance -20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (5s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Fire/Earth/Ice Ability +30% Boost 2",
+      "text": "Fire, Earth and Ice abilities deal 30% more damage",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Dual Sorrow of a Nation",
+      "text": "Four single ranged hybrid attacks (0.48 or 1.98 each), causes [ATK and DEF -50% (15s)]/[MAG and RES -50% (15s)]/[ATK, DEF, MAG and RES -50% (15s)] after 1+3n/2+3n/3+3n uses"
+    },
+    {
+      "name": "ATK, MAG and MND +30% (25s)",
+      "text": "ATK, MAG and MND +30%"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Fire/Earth/Ice Resonance +3% Boost",
+      "text": "Fire, Earth and Ice abilities deal 3% more damage"
+    },
+    {
+      "name": "100% Critical (25s)",
+      "text": "Critical chance =100%"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, MAG and MND +30% (25s)], [Quick Cast 3] and [Fire/Earth/Ice Resonance +3% Boost], grants [Dual Awoken Sovereign Mode I (Gordon)] to the user, grants [100% Critical (25s)] to all allies with any Attach Fire, Attach Earth or Attach Ice"
+    },
+    {
+      "name": "Dual Awoken Sovereign Mode I (Gordon)",
+      "text": "Instant cast speed for Support abilities, casts Dual Sorrow of a Nation after using Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Sovereign Mode II (Gordon)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Sovereign Mode II (Gordon)",
+      "text": "Instant cast speed for Support abilities, causes [Imperil Fire 20% (5s)], [Imperil Earth 20% (5s)] and [Imperil Ice 20% (5s)] after using Support abilities, grants [Fire/Earth/Ice Ability +30% Boost 2] to all allies after using Support abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Imperil Fire 20% (5s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Imperil Earth 20% (5s)",
+      "text": "Earth Resistance -20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (5s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Fire/Earth/Ice Ability +30% Boost 2",
+      "text": "Fire, Earth and Ice abilities deal 30% more damage",
+      "duration": "2 turns"
+    }
+  ],
+  "id": "20280016",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20280016/20280016_256.png",
+  "character": "Gordon",
+  "name": "Awoken Kashuan Royal Shield",
+  "name_jp": "覚醒カシュオーンの王盾",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "II",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [ATK, MAG and MND +30% (25s)], [Quick Cast 3] and [Fire/Earth/Ice Resonance +3% Boost], grants [Dual Awoken Sovereign Mode I (Gordon)] to the user, grants [100% Critical (25s)] to all allies with any Attach Fire, Attach Earth or Attach Ice",
+  "verified": true
+}

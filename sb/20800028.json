@@ -1,0 +1,119 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I: Ingus v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies"
+    },
+    {
+      "name": "Dual Awoken Earth Mode I: Ingus v2",
+      "text": "Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 2 additional times, cast speed x2.00 for Earth abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Earth Mode II: Ingus v2] to the user"
+    },
+    {
+      "name": "ATK and MND +15%, DEF and RES +25% (8s)",
+      "text": "ATK and MND +15%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Earth Mode II: Ingus v2",
+      "text": "Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Earth abilities, casts Dual Sasune Call after using an Earth ability (max 1)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Sasune Call",
+      "text": "Grants [Dualcast Knight 1] and [Knight +30% Boost 1] to all allies"
+    },
+    {
+      "name": "Dualcast Knight 1",
+      "text": "Knight abilities trigger 1 additional time",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Knight +30% Boost 1",
+      "text": "Knight abilities deal 30% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Knight Resonance +3% Boost",
+      "text": "Knight abilities deal 3% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I: Ingus v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies"
+    },
+    {
+      "name": "Dual Awoken Earth Mode I: Ingus v2",
+      "text": "Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 2 additional times, cast speed x2.00 for Earth abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [ATK and MND +15%, DEF and RES +25% (8s)] to all allies, grants [Instant ATB 1] and [Dual Awoken Earth Mode II: Ingus v2] to the user"
+    },
+    {
+      "name": "ATK and MND +15%, DEF and RES +25% (8s)",
+      "text": "ATK and MND +15%, DEF and RES +25%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Earth Mode II: Ingus v2",
+      "text": "Earth abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Earth abilities, casts Dual Sasune Call after using an Earth ability (max 1)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Sasune Call",
+      "text": "Grants [Dualcast Knight 1] and [Knight +30% Boost 1] to all allies"
+    },
+    {
+      "name": "Dualcast Knight 1",
+      "text": "Knight abilities trigger 1 additional time",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Knight +30% Boost 1",
+      "text": "Knight abilities deal 30% more damage",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "20800028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20800028/20800028_256.png",
+  "character": "Ingus",
+  "name": "Awoken Monolith Sword",
+  "name_jp": "覚醒モノリスソード",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "III",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Earth with Stacking], [Damage Cap +10000], [Dual Awoken Earth Mode I: Ingus v2] to the user, grants [Knight Resonance +3% Boost] to all Knight allies",
+  "verified": true
+}

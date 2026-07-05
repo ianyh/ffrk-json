@@ -1,0 +1,106 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF10 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF10 allies are alive, grants [Double Sphere Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Legend Mode I (Jecht)], [Dark/Fire Resonance +5% Boost] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Dual Awoken Legend Mode I (Jecht)",
+      "text": "Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Fire abilities trigger 2 additional times, cast speed x2.00/2.50/3.00 for equipped Dark/Fire abilities after using Dark/Fire abilities, casts Dual Beat Stream after using Dark and Fire abilities (max 2)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Legend Mode II (Jecht)], removes [Dual Awoken Legend Mode I (Jecht)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Legend Mode II (Jecht)",
+      "text": "Increase the damage/healing cap by 10000, Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark/Fire abilities trigger 1 additional time, critical hits deal 50% more damage (additive with the base critical coefficient), grants [Fire, Dark Ability +30% Boost 1] to the user, Braska and Auron if Braska or Auron are alive"
+    },
+    {
+      "name": "Fire, Dark Ability +30% Boost 1",
+      "text": "Fire or Dark abilities deal 30% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Beast Stream",
+      "text": "Six single attacks (0.63 each), 0.70 each if exploiting Dark or Fire weakness, 100% hit rate"
+    },
+    {
+      "name": "DEF, RES and MND -50% (8s)",
+      "text": "DEF, RES and MND -50%"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +15% (8s)",
+      "text": "ATK, DEF, MAG and RES +15%"
+    },
+    {
+      "name": "Double Sphere Mode II (Fire, Dark)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Dark with Stacking] after using a Fire/Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dark/Fire Resonance +5% Boost",
+      "text": "Dark and Fire abilities deal 5% more damage"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF10 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF10 allies are alive, grants [Double Sphere Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Legend Mode I (Jecht)], [Dark/Fire Resonance +5% Boost] and [Instant Cast 1] to the user"
+    },
+    {
+      "name": "Dual Awoken Legend Mode I (Jecht)",
+      "text": "Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark and Fire abilities trigger 2 additional times, cast speed x2.00/2.50/3.00 for equipped Dark/Fire abilities after using Dark/Fire abilities, casts Dual Beat Stream after using Dark and Fire abilities (max 2)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Legend Mode II (Jecht)], removes [Dual Awoken Legend Mode I (Jecht)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Legend Mode II (Jecht)",
+      "text": "Increase the damage/healing cap by 10000, Dark/Fire abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark/Fire abilities trigger 1 additional time, critical hits deal 50% more damage (additive with the base critical coefficient), grants [Fire, Dark Ability +30% Boost 1] to the user, Braska and Auron if Braska or Auron are alive"
+    },
+    {
+      "name": "Fire, Dark Ability +30% Boost 1",
+      "text": "Fire or Dark abilities deal 30% more damage",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22090022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22090022/22090022_256.png",
+  "character": "Jecht",
+  "name": "Awoken Jecht Rush",
+  "name_jp": "覚醒ジェクトラッシュ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "X",
+  "elements": [
+    "Dark",
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, causes [DEF, RES and MND -50% (8s)] if 0-3 FF10 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF10 allies are alive, grants [Double Sphere Mode II (Fire, Dark)], [Damage Cap +10000], [Dual Awoken Legend Mode I (Jecht)], [Dark/Fire Resonance +5% Boost] and [Instant Cast 1] to the user",
+  "verified": true
+}

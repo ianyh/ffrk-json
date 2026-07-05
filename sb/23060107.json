@@ -1,0 +1,228 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Historical Covenant Follow-Up], [Nameless Historia Ability Tracker], [Nameless Historia Level] and [Arcane Dyad Empowered: Dr. Mog]"
+    },
+    {
+      "name": "Conditional Attach Element From Party",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Earth]/[Attach Wind]/[Attach Water]/[Attach Holy]/[Attach Dark]/[Attach Poison] if current number of combined Attach Element statuses on party members are a majority Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison. In the case of ties the prior listed order is used to determine status granted"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Historical Covenant Follow-Up",
+      "text": "Casts Historical Covenant after using two abilities"
+    },
+    {
+      "name": "Nameless Historia Ability Tracker",
+      "text": "Increases Nameless Historia level by 1 after using 6 or 10 abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Dr. Mog]"
+    },
+    {
+      "name": "Nameless Historia Level",
+      "text": "Keeps track of Nameless Historia level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Dr. Mog]"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Dr. Mog",
+      "text": "Keeps track of the number of uses of Nameless Historia (0~2), removed after using Nameless Historia two times"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Historical Covenant Follow-Up], [Nameless Historia Ability Tracker], [Nameless Historia Level] and [Arcane Dyad Empowered: Dr. Mog]"
+    },
+    {
+      "name": "Conditional Attach Element From Party",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Earth]/[Attach Wind]/[Attach Water]/[Attach Holy]/[Attach Dark]/[Attach Poison] if current number of combined Attach Element statuses on party members are a majority Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison. In the case of ties the prior listed order is used to determine status granted"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Water",
+      "text": "Replaces Attack command, increases Water damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Water resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Poison",
+      "text": "Replaces Attack command, increases Poison damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Poison resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Historical Covenant Follow-Up",
+      "text": "Casts Historical Covenant after using two abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Historical Covenant",
+      "text": "1/4 single attacks (7.50 or 2.04 each) capped at 99999/9999 every 1+2n/2+2n uses, grants [Quick Cast 1] to the user every 2+2n uses"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Nameless Historia Ability Tracker",
+      "text": "Increases Nameless Historia level by 1 after using 6 or 10 abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Dr. Mog]"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Dr. Mog",
+      "text": "Keeps track of the number of uses of Nameless Historia (0~2), removed after using Nameless Historia two times"
+    },
+    {
+      "name": "Nameless Historia Level",
+      "text": "Keeps track of Nameless Historia level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Dr. Mog]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Historical Covenant Follow-Up], [Nameless Historia Ability Tracker], [Nameless Historia Level] and [Arcane Dyad Empowered: Dr. Mog]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Historical Covenant Follow-Up], [Nameless Historia Ability Tracker], [Nameless Historia Level] and [Arcane Dyad Empowered: Dr. Mog]"
+    },
+    {
+      "name": "Conditional Attach Element From Party",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Earth]/[Attach Wind]/[Attach Water]/[Attach Holy]/[Attach Dark]/[Attach Poison] if current number of combined Attach Element statuses on party members are a majority Attach Fire/Ice/Lightning/Earth/Wind/Water/Holy/Dark/Poison. In the case of ties the prior listed order is used to determine status granted"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Water",
+      "text": "Replaces Attack command, increases Water damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Water resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Holy",
+      "text": "Replaces Attack command, increases Holy damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Holy resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Poison",
+      "text": "Replaces Attack command, increases Poison damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Poison resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Historical Covenant Follow-Up",
+      "text": "Casts Historical Covenant after using two abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Historical Covenant",
+      "text": "1/4 single attacks (7.50 or 2.04 each) capped at 99999/9999 every 1+2n/2+2n uses, grants [Quick Cast 1] to the user every 2+2n uses"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Nameless Historia Ability Tracker",
+      "text": "Increases Nameless Historia level by 1 after using 6 or 10 abilities during the status, removed if the character hasn't [Arcane Dyad Empowered: Dr. Mog]"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Dr. Mog",
+      "text": "Keeps track of the number of uses of Nameless Historia (0~2), removed after using Nameless Historia two times"
+    },
+    {
+      "name": "Nameless Historia Level",
+      "text": "Keeps track of Nameless Historia level (0~2), removed if the character hasn't [Arcane Dyad Empowered: Dr. Mog]"
+    }
+  ],
+  "id": "23060107",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23060107/23060107_256.png",
+  "character": "Dr. Mog",
+  "name": "Nameless Historia (Engaged)",
+  "name_jp": "名もなきヒストリア",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "Core",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [ATK, DEF, MAG, RES and MND +10%/20%/30%/40%/50% (25s)] if 1/2/3/4/5+ party members are alive, [Conditional Attach Element From Party], [Damage Cap +10000], [Historical Covenant Follow-Up], [Nameless Historia Ability Tracker], [Nameless Historia Level] and [Arcane Dyad Empowered: Dr. Mog]",
+  "verified": true
+}

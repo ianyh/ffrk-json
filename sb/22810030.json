@@ -1,0 +1,79 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Nine], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Nine",
+      "text": "Triggers [Destruction: Nine] when using Wind abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Nine",
+      "text": "Six single attacks (0.90 each), ranged, jump."
+    },
+    {
+      "name": "Attach Wind with Secondary Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 5, up to Attach Wind 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Buster Mode], [Buster Chase Mode: Nine], [Instant ATB 1] to user. Grants [Attach Wind with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Nine",
+      "text": "Triggers [Destruction: Nine] when using Wind abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Nine",
+      "text": "Six single attacks (0.90 each), ranged, jump."
+    },
+    {
+      "name": "Attach Wind with Secondary Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 5, up to Attach Wind 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "22810030",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22810030/22810030_256.png",
+  "character": "Nine",
+  "name": "Burst Break: Nine (Break Glint)",
+  "name_jp": "破術・ナイン",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "Type-0",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (8.00 each) capped at 99,999, ranged, jump. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

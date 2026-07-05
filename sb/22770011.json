@@ -1,0 +1,295 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000] and [Dual Awoken Lightning Mode I (Reks)] to the user, grants [XII Resonance +3% Boost] to all FF12 allies"
+    },
+    {
+      "name": "Dual Awoken Lightning Mode I (Reks)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 2 additional times, grants [Quick Cast 1] to all allies in the character's row after using Lightning attacks",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reks)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Lightning Mode II (Reks)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Lightning abilities, casts Dual Dalmascan Mind after using Lightning abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Dalmascan Mind",
+      "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 20% (15s)] if 0-3/4+ FF12 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF12 allies are alive"
+    },
+    {
+      "name": "Imperil Prismatic 10% (15s)",
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], [Imperil Lightning 10% (15s)], [Imperil Earth 10% (15s)], [Imperil Wind 10% (15s)], [Imperil Water 10% (15s)], [Imperil Holy 10% (15s)], [Imperil Dark 10% (15s)] and [Imperil Poison 10% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 10% (15s)",
+      "text": "Fire Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 10% (15s)",
+      "text": "Ice Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 10% (15s)",
+      "text": "Lightning Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Earth 10% (15s)",
+      "text": "Earth Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Wind 10% (15s)",
+      "text": "Wind Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Water 10% (15s)",
+      "text": "Water Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Holy 10% (15s)",
+      "text": "Holy Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 10% (15s)",
+      "text": "Dark Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 10% (15s)",
+      "text": "Poison Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Prismatic 20% (15s)",
+      "text": "Causes [Imperil Fire 20% (15s)], [Imperil Ice 20% (15s)], [Imperil Lightning 20% (15s)], [Imperil Earth 20% (15s)], [Imperil Wind 20% (15s)], [Imperil Water 20% (15s)], [Imperil Holy 20% (15s)], [Imperil Dark 20% (15s)] and [Imperil Poison 20% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Earth 20% (15s)",
+      "text": "Earth Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Wind 20% (15s)",
+      "text": "Wind Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Water 20% (15s)",
+      "text": "Water Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Holy 20% (15s)",
+      "text": "Holy Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 20% (15s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 20% (15s)",
+      "text": "Poison Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +15% (8s)",
+      "text": "ATK, DEF, MAG and RES +15%",
+      "duration": "8 seconds"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "XII Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is XII"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000] and [Dual Awoken Lightning Mode I (Reks)] to the user, grants [XII Resonance +3% Boost] to all FF12 allies"
+    },
+    {
+      "name": "Dual Awoken Lightning Mode I (Reks)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Lightning abilities trigger 2 additional times, grants [Quick Cast 1] to all allies in the character's row after using Lightning attacks",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Lightning Mode II (Reks)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Lightning Mode II (Reks)",
+      "text": "Lightning abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Lightning abilities, casts Dual Dalmascan Mind after using Lightning abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Dalmascan Mind",
+      "text": "Causes [Imperil Prismatic 10% (15s)]/[Imperil Prismatic 20% (15s)] if 0-3/4+ FF12 allies are alive, grants [ATK, DEF, MAG and RES +15% (8s)] to all allies if 4+ FF12 allies are alive"
+    },
+    {
+      "name": "Imperil Prismatic 10% (15s)",
+      "text": "Causes [Imperil Fire 10% (15s)], [Imperil Ice 10% (15s)], [Imperil Lightning 10% (15s)], [Imperil Earth 10% (15s)], [Imperil Wind 10% (15s)], [Imperil Water 10% (15s)], [Imperil Holy 10% (15s)], [Imperil Dark 10% (15s)] and [Imperil Poison 10% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 10% (15s)",
+      "text": "Fire Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 10% (15s)",
+      "text": "Ice Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 10% (15s)",
+      "text": "Lightning Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Earth 10% (15s)",
+      "text": "Earth Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Wind 10% (15s)",
+      "text": "Wind Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Water 10% (15s)",
+      "text": "Water Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Holy 10% (15s)",
+      "text": "Holy Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 10% (15s)",
+      "text": "Dark Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 10% (15s)",
+      "text": "Poison Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Prismatic 20% (15s)",
+      "text": "Causes [Imperil Fire 20% (15s)], [Imperil Ice 20% (15s)], [Imperil Lightning 20% (15s)], [Imperil Earth 20% (15s)], [Imperil Wind 20% (15s)], [Imperil Water 20% (15s)], [Imperil Holy 20% (15s)], [Imperil Dark 20% (15s)] and [Imperil Poison 20% (15s)]"
+    },
+    {
+      "name": "Imperil Fire 20% (15s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 20% (15s)",
+      "text": "Ice Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 20% (15s)",
+      "text": "Lightning Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Earth 20% (15s)",
+      "text": "Earth Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Wind 20% (15s)",
+      "text": "Wind Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Water 20% (15s)",
+      "text": "Water Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Holy 20% (15s)",
+      "text": "Holy Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 20% (15s)",
+      "text": "Dark Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Poison 20% (15s)",
+      "text": "Poison Resistance -20%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +15% (8s)",
+      "text": "ATK, DEF, MAG and RES +15%",
+      "duration": "8 seconds"
+    }
+  ],
+  "id": "22770011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22770011/22770011_256.png",
+  "character": "Reks",
+  "name": "Awoken Voltaic Slash",
+  "name_jp": "覚醒サンダーSラッシュ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Lightning with Stacking], [Damage Cap +10000] and [Dual Awoken Lightning Mode I (Reks)] to the user, grants [XII Resonance +3% Boost] to all FF12 allies",
+  "verified": true
+}

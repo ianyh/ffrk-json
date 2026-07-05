@@ -1,0 +1,69 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s) Custom Param], [Physical Quick Cast] and [Haste], grants [Synchro Mode] and Snacks +2 to the user"
+    },
+    {
+      "name": "Epicurean Pursuit",
+      "text": "One single ranged attack (6.00) capped at 99999",
+      "condition": "Combat",
+      "slot": "Attack"
+    },
+    {
+      "name": "Gourmet Treat",
+      "text": "Restores 1500 HP, grants [Critical Damage +50% 1] if the user has Snacks > 0, causes Snacks -1",
+      "condition": "Combat",
+      "slot": "Defend"
+    },
+    {
+      "name": "100% Critical (25s) Custom Param",
+      "text": "Critical chance =100%"
+    },
+    {
+      "name": "Physical Quick Cast",
+      "text": "Cast speed x2.00 for PHY attacks"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [100% Critical (25s) Custom Param], [Physical Quick Cast] and [Haste], grants [Synchro Mode] and Snacks +2 to the user"
+    },
+    {
+      "name": "Epicurean Pursuit",
+      "text": "One single ranged attack (6.00) capped at 99999",
+      "condition": "Combat",
+      "slot": "Attack"
+    },
+    {
+      "name": "Gourmet Treat",
+      "text": "Restores 1500 HP, grants [Critical Damage +50% 1] if the user has Snacks > 0, causes Snacks -1",
+      "condition": "Combat",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20840014",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840014/20840014_256.png",
+  "character": "Quina",
+  "name": "Culinary Climb",
+  "name_jp": "かくもけわしき食の道",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Grants [100% Critical (25s) Custom Param], [Physical Quick Cast] and [Haste], grants [Synchro Mode] and Snacks +2 to the user",
+  "verified": true
+}

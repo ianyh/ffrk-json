@@ -1,0 +1,79 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Lunafreya], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Lunafreya",
+      "text": "Triggers [Destruction: Lunafreya] when using Water abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Lunafreya",
+      "text": "Six single attacks (3.05 each)."
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Lunafreya], [Instant ATB 1] to user. Grants [Attach Water with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Lunafreya",
+      "text": "Triggers [Destruction: Lunafreya] when using Water abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Lunafreya",
+      "text": "Six single attacks (3.05 each)."
+    },
+    {
+      "name": "Attach Water with Secondary Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 5, up to Attach Water 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "23460031",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23460031/23460031_256.png",
+  "character": "Lunafreya",
+  "name": "Burst Break: Lunafreya (Break Glint)",
+  "name_jp": "破術・ルナフレーナ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "XV",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "SUM",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

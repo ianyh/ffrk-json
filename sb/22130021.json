@@ -1,0 +1,103 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Water, Poison)], [Awoken Captain's Fury], [Damage Cap +10000] and [Sisterly Spirit Mode] to the user"
+    },
+    {
+      "name": "Awoken Captain's Fury",
+      "text": "Water and Poison abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water and Poison abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Twin Element Mode II (Water, Poison)",
+      "text": "Grants [Attach Water with Stacking]/[Attach Poison with Stacking] after using a Water/Poison ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Sisterly Spirit Mode",
+      "text": "Casts Scourge Splash (Water/Poison) after using two Water or Poison abilities if the triggering ability deals Water/Poison damage, removed after triggering",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Scourge Splash (Water)",
+      "text": "Grants [Instant Cast 1], [Soul Break Gauge +250], removes Sisterly Spirit Mode from the user"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Soul Break Gauge +250",
+      "text": "Grants 250 SB points when set"
+    },
+    {
+      "name": "Scourge Splash (Poison)",
+      "text": "Causes [Imperil Poison 10% (15s)], grants [Buff Poison 10% (15s)] to all allies, grants [Attach Poison] to the user, removes Sisterly Spirit Mode from the user"
+    },
+    {
+      "name": "Imperil Poison 10% (15s)",
+      "text": "Poison Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Poison 10% (15s)",
+      "text": "Increases Poison damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Attach Poison",
+      "text": "Replaces Attack command, increases Poison damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Poison resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Water, Poison)], [Awoken Captain's Fury], [Damage Cap +10000] and [Sisterly Spirit Mode] to the user"
+    },
+    {
+      "name": "Awoken Captain's Fury",
+      "text": "Water and Poison abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water and Poison abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22130021",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22130021/22130021_256.png",
+  "character": "Leila",
+  "name": "Bio Splash",
+  "name_jp": "バイオスプラッシュ",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "II",
+  "elements": [
+    "Water",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Twin Element Mode II (Water, Poison)], [Awoken Captain's Fury], [Damage Cap +10000] and [Sisterly Spirit Mode] to the user",
+  "verified": true
+}

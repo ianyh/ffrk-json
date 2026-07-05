@@ -1,0 +1,125 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Invincible General Mode I (Celes - Holy)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Invincible General Mode I (Celes - Holy)",
+      "text": "Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 2 additional times, cast speed x2.00 for equipped Holy abilities, casts Dual Divine End after using equipped Holy abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Invincible General Mode II (Celes - Holy)] to the user, removes Mode I from the user"
+    },
+    {
+      "name": "50% Critical (25s)",
+      "text": "Critical chance=50%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Invincible General Mode II (Celes - Holy)",
+      "text": "Increases the damage/healing cap by 10000, Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 1 additional time, grants [Dual Unleashed Runic Blade 60% Critical]/[Dual Unleashed Runic Blade 80% Critical]/[Dual Unleashed Runic Blade 100% Critical] to all allies after using 1/2/3+ Holy abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Unleashed Runic Blade 60% Critical",
+      "text": "Critical chance =60%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Unleashed Runic Blade 80% Critical",
+      "text": "Critical chance =80%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Unleashed Runic Blade 100% Critical",
+      "text": "Critical chance =100%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Divine End",
+      "text": "Four single attacks (0.50 each), 100% hit rate"
+    },
+    {
+      "name": "Attach Holy with Stacking",
+      "text": "Increase Attach Holy Level by 1 and increase Max Attach Element Level by 2, up to Attach Holy 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Holy Resonance +5% Boost",
+      "text": "Holy abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Invincible General Mode I (Celes - Holy)] and [Holy Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Invincible General Mode I (Celes - Holy)",
+      "text": "Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 2 additional times, cast speed x2.00 for equipped Holy abilities, casts Dual Divine End after using equipped Holy abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [50% Critical (25s)], grants [Instant ATB 1] and [Dual Awoken Invincible General Mode II (Celes - Holy)] to the user, removes Mode I from the user"
+    },
+    {
+      "name": "50% Critical (25s)",
+      "text": "Critical chance=50%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Invincible General Mode II (Celes - Holy)",
+      "text": "Increases the damage/healing cap by 10000, Holy abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Holy abilities trigger 1 additional time, grants [Dual Unleashed Runic Blade 60% Critical]/[Dual Unleashed Runic Blade 80% Critical]/[Dual Unleashed Runic Blade 100% Critical] to all allies after using 1/2/3+ Holy abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Unleashed Runic Blade 60% Critical",
+      "text": "Critical chance =60%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Unleashed Runic Blade 80% Critical",
+      "text": "Critical chance =80%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Unleashed Runic Blade 100% Critical",
+      "text": "Critical chance =100%",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20210027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20210027/20210027_256.png",
+  "character": "Celes",
+  "name": "Awoken Indomitable Blade",
+  "name_jp": "覚醒華麗なる常勝の剣",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VI",
+  "elements": [
+    "Holy",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Holy with Stacking], [Damage Cap +10000], [Dual Awoken Invincible General Mode I (Celes - Holy)] and [Holy Resonance +5% Boost] to the user",
+  "verified": true
+}

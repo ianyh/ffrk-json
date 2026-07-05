@@ -1,0 +1,77 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Change Machinery Mode II (Fire, Lightning, Poison)], [Awoken Machine Mania], [Damage Cap +10000] and [Affable King Mode] to the user"
+    },
+    {
+      "name": "Awoken Machine Mania",
+      "text": "Machinist abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Trinity Crossbow after using Machinist abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Trinity Crossbow",
+      "text": "Six single ranged attacks (0.70 each), 100% hit rate"
+    },
+    {
+      "name": "Change Machinery Mode II (Fire, Lightning, Poison)",
+      "text": "Grants [Attach Fire with Stacking]/[Attach Lightning with Stacking]/[Attach Poison with Stacking] after using a Fire/Lightning/Poison ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Fire with Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 2, up to Attach Fire 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Affable King Mode",
+      "text": "Cast speed x2.00, Machinist abilities deal 10/20/30% more damage after casting 1/2/3+ Machinist abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [Change Machinery Mode II (Fire, Lightning, Poison)], [Awoken Machine Mania], [Damage Cap +10000] and [Affable King Mode] to the user"
+    },
+    {
+      "name": "Awoken Machine Mania",
+      "text": "Machinist abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts Trinity Crossbow after using Machinist abilities",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20530023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530023/20530023_256.png",
+  "character": "Edgar",
+  "name": "Bravo Chainsaw",
+  "name_jp": "ブラボー！チェーンソー",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "VI",
+  "elements": [
+    "Poison",
+    "Fire",
+    "Lightning",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [Change Machinery Mode II (Fire, Lightning, Poison)], [Awoken Machine Mania], [Damage Cap +10000] and [Affable King Mode] to the user",
+  "verified": true
+}

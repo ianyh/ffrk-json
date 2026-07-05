@@ -1,0 +1,114 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000] and [Beg For Your Life Mode] to the user"
+    },
+    {
+      "name": "Awoken Water",
+      "text": "Water abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "ATK and MND +30%, DEF and RES +25% (25s)",
+      "text": "ATK and MND +30%, DEF and RES +25%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Beg For Your Life Mode",
+      "text": "Casts I'll Hit You! after another ally casts a Spellblade ability, removed after triggering five times",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "I'll Hit You!",
+      "text": "Three single attacks (0.67 each), 100% hit rate, grants [Buff Prismatic 10% (15s)] to the ally who triggered this ability"
+    },
+    {
+      "name": "Buff Prismatic 10% (15s)",
+      "text": "Grants [Buff Fire 10% (15s)], [Buff Ice 10% (15s)], [Buff Lightning 10% (15s)], [Buff Earth 10% (15s)], [Buff Wind 10% (15s)], [Buff Water 10% (15s)], [Buff Holy 10% (15s)], [Buff Dark 10% (15s)] and [Buff Poison 10% (15s)]"
+    },
+    {
+      "name": "Buff Fire 10% (15s)",
+      "text": "Increases Fire damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Ice 10% (15s)",
+      "text": "Increases Ice damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Lightning 10% (15s)",
+      "text": "Increases Lightning damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Earth 10% (15s)",
+      "text": "Increases Earth damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Wind 10% (15s)",
+      "text": "Increases Wind damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Water 10% (15s)",
+      "text": "Increases Water damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Holy 10% (15s)",
+      "text": "Increases Holy damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Dark 10% (15s)",
+      "text": "Increases Dark damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Poison 10% (15s)",
+      "text": "Increases Poison damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000] and [Beg For Your Life Mode] to the user"
+    },
+    {
+      "name": "Awoken Water",
+      "text": "Water abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Water abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22420023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22420023/22420023_256.png",
+  "character": "Paine",
+  "name": "Throttle Quickflow",
+  "name_jp": "斬騎剣術・奔流！",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [ATK and MND +30%, DEF and RES +25% (25s)] to all allies, grants [Attach Water with Stacking], [Awoken Water], [Damage Cap +10000] and [Beg For Your Life Mode] to the user",
+  "verified": true
+}

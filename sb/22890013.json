@@ -1,0 +1,129 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Zeid)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Dark Mode I (Zeid)",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 2 additional times, critical chance =50%/100% after casting 1/2+ Dark abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Zeid)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Dark Mode II (Zeid)",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Dark abilities, grants [Deadly Strikes +20% 1] and [Quick Cast 1] to the user if the user has less than 750 SB points, grants [Buff Dark 30% (5s)] and [Deadly Strikes +20% 3] to the user if the user has 750+ SB points, causes [Soul Break Gauge -250] to the user if the user has 750+ SB points",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Deadly Strikes +20% 1",
+      "text": "Critical hits deal 20% more damage (additive with the base critical coefficient and other Critical Damage statuses)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Buff Dark 30% (5s)",
+      "text": "Increases Dark damage dealt by 30%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Deadly Strikes +20% 3",
+      "text": "Critical hits deal 20% more damage (additive with the base critical coefficient and other Critical Damage statuses)",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Soul Break Gauge -250",
+      "text": "Removes 250 SB points when set"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Dark Resonance +5% Boost",
+      "text": "Dark abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Zeid)] and [Dark Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Dark Mode I (Zeid)",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Dark abilities trigger 2 additional times, critical chance =50%/100% after casting 1/2+ Dark abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Dark Mode II (Zeid)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Dark Mode II (Zeid)",
+      "text": "Dark abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Dark abilities, grants [Deadly Strikes +20% 1] and [Quick Cast 1] to the user if the user has less than 750 SB points, grants [Buff Dark 30% (5s)] and [Deadly Strikes +20% 3] to the user if the user has 750+ SB points, causes [Soul Break Gauge -250] to the user if the user has 750+ SB points",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Deadly Strikes +20% 1",
+      "text": "Critical hits deal 20% more damage (additive with the base critical coefficient and other Critical Damage statuses)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Buff Dark 30% (5s)",
+      "text": "Increases Dark damage dealt by 30%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Deadly Strikes +20% 3",
+      "text": "Critical hits deal 20% more damage (additive with the base critical coefficient and other Critical Damage statuses)",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Soul Break Gauge -250",
+      "text": "Removes 250 SB points when set"
+    }
+  ],
+  "id": "22890013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22890013/22890013_256.png",
+  "character": "Zeid",
+  "name": "Awoken Darksheen Blade",
+  "name_jp": "覚醒漆黒に煌きし闇刃",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XI",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Dark Mode I (Zeid)] and [Dark Resonance +5% Boost] to the user",
+  "verified": true
+}

@@ -1,0 +1,77 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Ayame (Ice)] to the user"
+    },
+    {
+      "name": "Crystal Force I",
+      "text": "One single attack (10.00) capped at 199,999, grants [Damage Cap +10000 2], [Physical +30% Boost 2], [Quick Cast 2], [DEF and RES 50% Piercing 2] and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Crystal Force II",
+      "text": "One single attack (10.00) capped at 199,999, grants [Damage Cap +10000 2], [Physical +30% Boost 2], [Quick Cast 2], [DEF and RES 50% Piercing 2] and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Crystal Force Mode: Ayame (Ice)",
+      "text": "Samurai abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Samurai abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if user hasn't Crystal Force Mode"
+    },
+    {
+      "name": "DEF and RES 25% Piercing (15s)",
+      "text": "Ignores 25% of the target's DEF and RES",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Crystal Force Mode",
+      "text": "Grants Crystal Force Mode, Replaces Attack and Defend commands with Crystal Force I & II, unlocks II after three actions"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Ayame (Ice)] to the user"
+    },
+    {
+      "name": "Crystal Force I",
+      "text": "One single attack (10.00) capped at 199,999, grants [Damage Cap +10000 2], [Physical +30% Boost 2], [Quick Cast 2], [DEF and RES 50% Piercing 2] and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Crystal Force II",
+      "text": "One single attack (10.00) capped at 199,999, grants [Damage Cap +10000 2], [Physical +30% Boost 2], [Quick Cast 2], [DEF and RES 50% Piercing 2] and [200% ATB 1] to the user"
+    },
+    {
+      "name": "Crystal Force Mode: Ayame (Ice)",
+      "text": "Samurai abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Samurai abilities trigger 1 additional time, [DEF and RES 25% Piercing (15s)], removed if user hasn't Crystal Force Mode"
+    },
+    {
+      "name": "DEF and RES 25% Piercing (15s)",
+      "text": "Ignores 25% of the target's DEF and RES",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22480018",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22480018/22480018_256.png",
+  "character": "Ayame",
+  "name": "Radiant Hagakure Yukikaze",
+  "name_jp": "耀光葉隠皆伝・雪風",
+  "tier": "CASB",
+  "sb_version": "CASB1",
+  "realm": "XI",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Crystal Force Mode] and [Crystal Force Mode: Ayame (Ice)] to the user",
+  "verified": true
+}

@@ -1,0 +1,115 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Darkness Mode I: Kuja] and [Darkness Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Darkness Mode I: Kuja",
+      "text": "Darkness abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Darkness abilities trigger 2 additional times, cast speed x2.00 for equipped Darkness abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Darkness Mode II: Kuja]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Darkness Mode II: Kuja",
+      "text": "Darkness abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Darkness abilities, grants [Damage Cap +10000 1]/[200% ATB 2] and [Damage Cap +10000 2] after using Darkness abilities if the user has 0-499/500+ SB points",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Damage Cap +10000 1",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "1 turn"
+    },
+    {
+      "name": "200% ATB 2",
+      "text": "Increase ATB charge speed by x2.00",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Damage Cap +10000 2",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "2 turns"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Dark with Stacking",
+      "text": "Increase Attach Dark Level by 1 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Darkness Resonance +5% Boost",
+      "text": "Darkness abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Darkness Mode I: Kuja] and [Darkness Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Darkness Mode I: Kuja",
+      "text": "Darkness abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Darkness abilities trigger 2 additional times, cast speed x2.00 for equipped Darkness abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Darkness Mode II: Kuja]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Darkness Mode II: Kuja",
+      "text": "Darkness abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Darkness abilities, grants [Damage Cap +10000 1]/[200% ATB 2] and [Damage Cap +10000 2] after using Darkness abilities if the user has 0-499/500+ SB points",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Damage Cap +10000 1",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "1 turn"
+    },
+    {
+      "name": "200% ATB 2",
+      "text": "Increase ATB charge speed by x2.00",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Damage Cap +10000 2",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "2 turns"
+    }
+  ],
+  "id": "22240022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22240022/22240022_256.png",
+  "character": "Kuja",
+  "name": "Awoken Darkflare Star",
+  "name_jp": "覚醒ダークフレアスター",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IX",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Dark with Stacking], [Damage Cap +10000], [Dual Awoken Darkness Mode I: Kuja] and [Darkness Resonance +5% Boost] to the user",
+  "verified": true
+}

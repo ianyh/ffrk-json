@@ -1,0 +1,72 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], and Phoenix Stance to the user, grants [Critical Damage +50% 3] to all allies"
+    },
+    {
+      "name": "Roar of the Dragon",
+      "text": "Six single attacks (0.90 each), has 25/50/75/100% additional critical chance, scaling with activations",
+      "condition": "Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Will of the Phoenix",
+      "text": "Grants [Monk +30% Boost 1], [Dualcast Monk 1] to the user if user does not have Phoenix Stance, grants [Monk +30% Boost 1], [Dualcast Monk 1] to all allies if the user has Phoenix Stance, removes Phoenix Stance from the user",
+      "condition": "Fire",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Fire 3 with Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 2, up to Attach Fire 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Critical Damage +50% 3",
+      "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], and Phoenix Stance to the user, grants [Critical Damage +50% 3] to all allies"
+    },
+    {
+      "name": "Roar of the Dragon",
+      "text": "Six single attacks (0.90 each), has 25/50/75/100% additional critical chance, scaling with activations",
+      "condition": "Fire",
+      "slot": "Attack"
+    },
+    {
+      "name": "Will of the Phoenix",
+      "text": "Grants [Monk +30% Boost 1], [Dualcast Monk 1] to the user if user does not have Phoenix Stance, grants [Monk +30% Boost 1], [Dualcast Monk 1] to all allies if the user has Phoenix Stance, removes Phoenix Stance from the user",
+      "condition": "Fire",
+      "slot": "Defend"
+    }
+  ],
+  "id": "20550023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20550023/20550023_256.png",
+  "character": "Sabin",
+  "name": "Draconic Phantom Rush",
+  "name_jp": "猛火夢幻竜闘舞",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Attach Fire 3 with Stacking], [Synchro Mode], [Damage Cap +10000], and Phoenix Stance to the user, grants [Critical Damage +50% 3] to all allies",
+  "verified": true
+}

@@ -1,0 +1,69 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Lightning, Dark)] to the user"
+    },
+    {
+      "name": "Dark Coil",
+      "text": "Six single attacks (0.90 each), 100% additional critical chance if 4+ party members have any Attach Lightning or Attach Dark, grants [Quick Cast 1] and [(Lightning/Dark) Ability +50% Boost] to the user",
+      "condition": "Lightning, Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Flashing Fury",
+      "text": "One single attack (0.80), grants [Conditional Attach Element] (based on the Attach Element of the user) to a random ally without any Attach Element, grants [Conditional Attach Element] and [Quick Cast 1] to the user if all allies have any Attach Element",
+      "condition": "Lightning, Dark",
+      "slot": "Defend"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Twin Element Mode III (Lightning, Dark)",
+      "text": "Grants [Attach Lightning 2 with Stacking]/[Attach Dark 2 with Stacking] after using a Lightning/Dark ability"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Lightning, Dark)] to the user"
+    },
+    {
+      "name": "Dark Coil",
+      "text": "Six single attacks (0.90 each), 100% additional critical chance if 4+ party members have any Attach Lightning or Attach Dark, grants [Quick Cast 1] and [(Lightning/Dark) Ability +50% Boost] to the user",
+      "condition": "Lightning, Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Flashing Fury",
+      "text": "One single attack (0.80), grants [Conditional Attach Element] (based on the Attach Element of the user) to a random ally without any Attach Element, grants [Conditional Attach Element] and [Quick Cast 1] to the user if all allies have any Attach Element",
+      "condition": "Lightning, Dark",
+      "slot": "Defend"
+    }
+  ],
+  "id": "23530006",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23530006/23530006_256.png",
+  "character": "Ravus",
+  "name": "Hateful Onslaught",
+  "name_jp": "憎悪の猛突",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XV",
+  "elements": [
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), grants [Synchro Mode], [Damage Cap +10000] and [Twin Element Mode III (Lightning, Dark)] to the user",
+  "verified": true
+}

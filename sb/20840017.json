@@ -1,0 +1,124 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to all enemies, grants [ATK, DEF, MAG and RES +30% (25s)] and [Quick Cast 3] to all allies, grants [Dual Awoken Frog-Catcher Mode I (Quina)] to the user, grants [IX Resonance +3% Boost] to all FFIX allies"
+    },
+    {
+      "name": "Dual Awoken Frog-Catcher Mode I (Quina)",
+      "text": "Cast speed x2.00 for Support abilities, casts Dual Frog Guard after using Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Frog-Catcher Mode II (Quina)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Frog-Catcher Mode II (Quina)",
+      "text": "Instant cast speed for Support abilities, casts Dual Legendary Frog after using a support ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Legendary Frog",
+      "text": "Grants [Weakness +9% Boost 2]/[Weakness +50% Boost 2] to all allies if 0-3/4+ FFIX allies are alive, [Quick Cast 2] to all allies"
+    },
+    {
+      "name": "Weakness +9% Boost 2",
+      "text": "Increases damage dealt by 9% when exploiting elemental weaknesses",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Weakness +50% Boost 2",
+      "text": "Increases damage dealt by 50% when exploiting elemental weaknesses",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Dual Frog Guard",
+      "text": "Grants [20% Damage Reduction Barrier 1] and [HP Stock (1000)] to all allies"
+    },
+    {
+      "name": "ATK, DEF, MAG, RES and MND -50% (25s)",
+      "text": "ATK, DEF, MAG, RES and MND -50%"
+    },
+    {
+      "name": "ATK, DEF, MAG and RES +30% (25s)",
+      "text": "ATK, DEF, MAG and RES +30%"
+    },
+    {
+      "name": "Quick Cast 3",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "IX Resonance +3% Boost",
+      "text": "Increases damage dealt by 3% if the character's Realm is IX"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to all enemies, grants [ATK, DEF, MAG and RES +30% (25s)] and [Quick Cast 3] to all allies, grants [Dual Awoken Frog-Catcher Mode I (Quina)] to the user, grants [IX Resonance +3% Boost] to all FFIX allies"
+    },
+    {
+      "name": "Dual Awoken Frog-Catcher Mode I (Quina)",
+      "text": "Cast speed x2.00 for Support abilities, casts Dual Frog Guard after using Support abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Frog-Catcher Mode II (Quina)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Frog-Catcher Mode II (Quina)",
+      "text": "Instant cast speed for Support abilities, casts Dual Legendary Frog after using a support ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Legendary Frog",
+      "text": "Grants [Weakness +9% Boost 2]/[Weakness +50% Boost 2] to all allies if 0-3/4+ FFIX allies are alive, [Quick Cast 2] to all allies"
+    },
+    {
+      "name": "Weakness +9% Boost 2",
+      "text": "Increases damage dealt by 9% when exploiting elemental weaknesses",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Weakness +50% Boost 2",
+      "text": "Increases damage dealt by 50% when exploiting elemental weaknesses",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00",
+      "duration": "2 turns"
+    }
+  ],
+  "id": "20840017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840017/20840017_256.png",
+  "character": "Quina",
+  "name": "Awoken Angel's Snack",
+  "name_jp": "覚醒天使のおやつ",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "Causes [ATK, DEF, MAG, RES and MND -50% (25s)] to all enemies, grants [ATK, DEF, MAG and RES +30% (25s)] and [Quick Cast 3] to all allies, grants [Dual Awoken Frog-Catcher Mode I (Quina)] to the user, grants [IX Resonance +3% Boost] to all FFIX allies",
+  "verified": true
+}

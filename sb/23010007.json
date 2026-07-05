@@ -1,0 +1,105 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Awoken Stoic Sunglasses], [Damage Cap +10000], [Linked Materia Mode II (Lightning, Earth)] and [Deeds Not Words Mode] to the user"
+    },
+    {
+      "name": "Awoken Stoic Sunglasses",
+      "text": "Unlimited Earth and Lightning hones, Earth and Lightining abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth and Lightning abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Linked Materia Mode II (Lightning, Earth)",
+      "text": "Grants [Attach Lightning with Stacking]/[Attach Earth with Stacking] after using a Lightning/Earth ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Lightning with Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 2, up to Attach Lightning 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Deeds Not Words Mode",
+      "text": "Casts Let's Get to Work (Lightning/Earth) after using two Earth or Lightning abilities if the triggering ability deals Lightning/Earth damage",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Let's Get to Work (Earth/Lightning)",
+      "text": "Grants [Attach Earth]/[Attach Lightning] if triggering ability deals Earth/Lightning damage, grants [BLK +30% Boost 1]/[BLK +50% Boost 1] if MAG > ATK, otherwise grants [PHY +30% Boost 1]/[PHY +50% Boost 1] if Reno, Elena or Tifa are not alive/alive"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "BLK +30% Boost 1",
+      "text": "BLK attacks deal 30% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "BLK +50% Boost 1",
+      "text": "BLK attacks deal 50% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "PHY +30% Boost 1",
+      "text": "PHY attacks deal 30% more damage",
+      "duration": "1 turn"
+    },
+    {
+      "name": "PHY +50% Boost 1",
+      "text": "PHY attacks deal 50% more damage",
+      "duration": "1 turn"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Awoken Stoic Sunglasses], [Damage Cap +10000], [Linked Materia Mode II (Lightning, Earth)] and [Deeds Not Words Mode] to the user"
+    },
+    {
+      "name": "Awoken Stoic Sunglasses",
+      "text": "Unlimited Earth and Lightning hones, Earth and Lightining abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth and Lightning abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "23010007",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23010007/23010007_256.png",
+  "character": "Rude",
+  "name": "Earthwalker Conduction",
+  "name_jp": "招雷・地走り",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "VII",
+  "elements": [
+    "Earth",
+    "Lightning",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [Awoken Stoic Sunglasses], [Damage Cap +10000], [Linked Materia Mode II (Lightning, Earth)] and [Deeds Not Words Mode] to the user",
+  "verified": true
+}

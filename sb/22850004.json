@@ -1,0 +1,96 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Wrieg], ATK +500 to user\n"
+    },
+    {
+      "name": "Mode",
+      "text": "Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 2 additional time, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities. Cast one single AOE Earth/NE jump attack at True Cap Break Level 1 when TP level reaches 6."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single-target Earth/NE piercing jump attack at True Cap Break Level 1, Instant Cast & Zero SB Cost, Instant ATB 1 & Instant Cast 1 to user. \n[Earth Damage Cap +20000 (Tactical)] & [Earth 125% ATB Quick Cycle (Tactical)] to user, and Weapon Skill Blue/Gold if user has 0-749/750+ SB points\nWS Blue: Grant [No Soul Break Cost (Tactical, max 1)] to user\nWS Gold: Grant [Earth Ability +50% Boost (Tactical)] & [Quadracast Earth 1] to user"
+    },
+    {
+      "name": "Earth Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Earth attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Earth 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Earth ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "No Soul Break Cost (Tactical, max 1)",
+      "text": "Soul Breaks don't cost SB points, removed after casting a Soul Break or if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Earth Ability +50% Boost (Tactical)",
+      "text": "Earth abilities deal 50% more damage, removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Quadracast Earth 1",
+      "text": "Earth abilities trigger 3 additional times",
+      "duration": "1 turn"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Wrieg], ATK +500 to user\n"
+    },
+    {
+      "name": "Mode",
+      "text": "Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 2 additional time, Cap Break Level 1 to Earth Abilities, Earth Ability Damage +30% & ATB Speed x1.1 to Earth Abilities; Ends after using 8 Earth abilities. Cast one single AOE Earth/NE jump attack at True Cap Break Level 1 when TP level reaches 6."
+    },
+    {
+      "name": "Weapon Skill",
+      "text": "One single-target Earth/NE piercing jump attack at True Cap Break Level 1, Instant Cast & Zero SB Cost, Instant ATB 1 & Instant Cast 1 to user. \n[Earth Damage Cap +20000 (Tactical)] & [Earth 125% ATB Quick Cycle (Tactical)] to user, and Weapon Skill Blue/Gold if user has 0-749/750+ SB points\nWS Blue: Grant [No Soul Break Cost (Tactical, max 1)] to user\nWS Gold: Grant [Earth Ability +50% Boost (Tactical)] & [Quadracast Earth 1] to user"
+    },
+    {
+      "name": "Earth Damage Cap +20000 (Tactical)",
+      "text": "Increases the damage/healing cap for Earth attacks by 20000, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Earth 125% ATB Quick Cycle (Tactical)",
+      "text": "Grants [125% ATB 1] after using a Earth ability, removed if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "No Soul Break Cost (Tactical, max 1)",
+      "text": "Soul Breaks don't cost SB points, removed after casting a Soul Break or if the user hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Earth Ability +50% Boost (Tactical)",
+      "text": "Earth abilities deal 50% more damage, removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "Quadracast Earth 1",
+      "text": "Earth abilities trigger 3 additional times",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22850004",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22850004/22850004_256.png",
+  "character": "Wrieg",
+  "name": "War-Awoken Space-Time Soaring",
+  "name_jp": "戦醒時空翔",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "Beyond",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Wrieg], ATK +500 to user\n",
+  "verified": false
+}

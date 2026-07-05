@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "id": "20360061",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20360061/20360061_256.png",
+  "character": "Garnet",
+  "name": "Burst Break: Garnet (Lightning) (Break Glint)",
+  "name_jp": "烈破・ガーネット雷",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "IX",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

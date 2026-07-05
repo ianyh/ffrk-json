@@ -1,0 +1,79 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Ashe], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Ashe",
+      "text": "Triggers [Destruction: Ashe] when using Lightning abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Ashe",
+      "text": "Six single attacks (3.05 each)."
+    },
+    {
+      "name": "Attach Lightning with Secondary Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 5, up to Attach Lightning 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (26.50 each) capped at 99,999. Grants [Buster Mode], [Buster Chase Mode: Ashe], [Instant ATB 1] to user. Grants [Attach Lightning with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Ashe",
+      "text": "Triggers [Destruction: Ashe] when using Lightning abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Ashe",
+      "text": "Six single attacks (3.05 each)."
+    },
+    {
+      "name": "Attach Lightning with Secondary Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 5, up to Attach Lightning 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "20710043",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20710043/20710043_256.png",
+  "character": "Ashe",
+  "name": "Burst Break: Ashe (Break Glint)",
+  "name_jp": "破術・アーシェ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "XII",
+  "elements": [
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (26.50 each) capped at 99,999. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "20840023",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20840023/20840023_256.png",
+  "character": "Quina",
+  "name": "Super Flash (Quina)",
+  "name_jp": "超閃【クイナ】",
+  "tier": "LBG+",
+  "sb_version": "LBG+1",
+  "realm": "IX",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

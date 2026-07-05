@@ -1,0 +1,104 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Chain Materia Mode II (Earth, Water)], [Instant Cast 1], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie)] and [Ninja Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Ninja Mode I (Yuffie)",
+      "text": "Ninja abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 2 additional times, Deadly strikes 5/10/15/20% for equipped Ninja abilities after using 1/2/3/4+ Ninja abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Yuffie)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Ninja Mode II (Yuffie)",
+      "text": "Ninja abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Ninja abilities, chases a ninja ability with The Art of Leaping Forward",
+      "duration": "1 turn"
+    },
+    {
+      "name": "The Art of Leaping Forward",
+      "text": "Grants [Ninja +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Ninja +30% Boost (15s)",
+      "text": "Ninja abilities deal 30% more damage",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Chain Materia Mode II (Earth, Water)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Water with Stacking] after using a Earth/Water ability"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ninja Resonance +5% Boost",
+      "text": "Ninja abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Chain Materia Mode II (Earth, Water)], [Instant Cast 1], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie)] and [Ninja Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Ninja Mode I (Yuffie)",
+      "text": "Ninja abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 2 additional times, Deadly strikes 5/10/15/20% for equipped Ninja abilities after using 1/2/3/4+ Ninja abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ninja Mode II (Yuffie)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Ninja Mode II (Yuffie)",
+      "text": "Ninja abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, instant cast speed for Ninja abilities, chases a ninja ability with The Art of Leaping Forward",
+      "duration": "1 turn"
+    },
+    {
+      "name": "The Art of Leaping Forward",
+      "text": "Grants [Ninja +30% Boost (15s)] to the user"
+    },
+    {
+      "name": "Ninja +30% Boost (15s)",
+      "text": "Ninja abilities deal 30% more damage",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22040041",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040041/22040041_256.png",
+  "character": "Yuffie",
+  "name": "Awoken Improvised Camouflage",
+  "name_jp": "覚醒我流・迷彩",
+  "tier": "DASB",
+  "sb_version": "DASB3",
+  "realm": "VII",
+  "elements": [
+    "Water",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Chain Materia Mode II (Earth, Water)], [Instant Cast 1], [Damage Cap +10000], [Dual Awoken Ninja Mode I (Yuffie)] and [Ninja Resonance +5% Boost] to the user",
+  "verified": true
+}

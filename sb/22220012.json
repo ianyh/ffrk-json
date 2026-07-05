@@ -1,0 +1,77 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Lightning Quick Cast 4] to all allies, grants [Attach Lightning], [Damage Cap +10000], [Synchro Mode] and [Staunch Sister Mode] to the user"
+    },
+    {
+      "name": "Silvery Lightning",
+      "text": "Three single attacks (3.10 each), restores HP (17.5/20/25) if 0-2/3-4/4+ allies have any Attach Lightning",
+      "condition": "White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Mysidian Heal",
+      "text": "Restores HP (85), grants [Quick Cast 1]",
+      "condition": "White Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Lightning Quick Cast 4",
+      "text": "Cast speed x2.00 for Lightning attacks"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Staunch Sister Mode",
+      "text": "Casts Precocious Gift after using Silvery Lightning or Mysidian Heal, removed after triggering four times"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), removes KO [Raise: 100%], grants [Lightning Quick Cast 4] to all allies, grants [Attach Lightning], [Damage Cap +10000], [Synchro Mode] and [Staunch Sister Mode] to the user"
+    },
+    {
+      "name": "Silvery Lightning",
+      "text": "Three single attacks (3.10 each), restores HP (17.5/20/25) if 0-2/3-4/4+ allies have any Attach Lightning",
+      "condition": "White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Mysidian Heal",
+      "text": "Restores HP (85), grants [Quick Cast 1]",
+      "condition": "White Magic",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22220012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22220012/22220012_256.png",
+  "character": "Porom",
+  "name": "Twincast Curaga",
+  "name_jp": "ふたりがけ・ケアルダ",
+  "tier": "SASB",
+  "sb_version": "SASB2",
+  "realm": "IV",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105), removes KO [Raise: 100%], grants [Lightning Quick Cast 4] to all allies, grants [Attach Lightning], [Damage Cap +10000], [Synchro Mode] and [Staunch Sister Mode] to the user",
+  "verified": true
+}

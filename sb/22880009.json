@@ -1,0 +1,116 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Automaton Mode I (Aphmau)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Automaton Mode I (Aphmau)",
+      "text": "Cast speed x2.00/x2.50/x3.00 for White Magic and Monk abilities after using 1/2/3+ White Magic or Monk abilities, increases healing done by White Magic and Monk abilities by 10%/15%/20% after using 1/2/3+ White Magic or Monk abilities, casts Dual Activate: Cure after using White Magic or Monk abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Automaton Mode II (Aphmau)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Automaton Mode II (Aphmau)",
+      "text": "Instant cast speed for White Magic abilities, casts Dual Imperial Shield after using White Magic abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Imperial Shield",
+      "text": "Restores HP (25), grants [Dual Blink 1] and [Quick Cast 1]"
+    },
+    {
+      "name": "Dual Blink 1",
+      "text": "Evades the next attack that could be evaded with [Physical Blink] or [Magical Blink], lower priority than [Physical Blink] and [Magical Blink]"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Activate: Cure",
+      "text": "Restores HP (25), grants [HP Stock (2000)]"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "White Magic Healing Resonance Boost +5%",
+      "text": "White Magic abilities restore 5% more HP"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Automaton Mode I (Aphmau)] and [White Magic Healing Resonance Boost +5%] to the user"
+    },
+    {
+      "name": "Dual Awoken Automaton Mode I (Aphmau)",
+      "text": "Cast speed x2.00/x2.50/x3.00 for White Magic and Monk abilities after using 1/2/3+ White Magic or Monk abilities, increases healing done by White Magic and Monk abilities by 10%/15%/20% after using 1/2/3+ White Magic or Monk abilities, casts Dual Activate: Cure after using White Magic or Monk abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Automaton Mode II (Aphmau)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Automaton Mode II (Aphmau)",
+      "text": "Instant cast speed for White Magic abilities, casts Dual Imperial Shield after using White Magic abilities",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Imperial Shield",
+      "text": "Restores HP (25), grants [Dual Blink 1] and [Quick Cast 1]"
+    },
+    {
+      "name": "Dual Blink 1",
+      "text": "Evades the next attack that could be evaded with [Physical Blink] or [Magical Blink], lower priority than [Physical Blink] and [Magical Blink]"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    }
+  ],
+  "id": "22880009",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22880009/22880009_256.png",
+  "character": "Aphmau",
+  "name": "Awoken Realignment",
+  "name_jp": "覚醒最適化",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%] capped at 19999, grants [Haste] and [High Quick Cast 2], grants [Damage Cap +10000], [Dual Awoken Automaton Mode I (Aphmau)] and [White Magic Healing Resonance Boost +5%] to the user",
+  "verified": true
+}

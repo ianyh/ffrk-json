@@ -1,0 +1,127 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Scion Sorceress], [Damage Cap +10000], [Quad Element Mode (Fire, Ice, Lightning, Dark)] and [Night's Prayer Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Scion Sorceress",
+      "text": "Black Magic and Witch abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic and Witch abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quad Element Mode (Fire, Ice, Lightning, Dark)",
+      "text": "Grants [Attach Fire]/[Attach Ice]/[Attach Lightning]/[Attach Dark] after using a Fire/Ice/Lightning/Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Night's Prayer Follow-Up",
+      "text": "Casts Night's Prayer (Fire/Ice/Lightning/Dark) after using two Fire, Ice, Lightning or Dark abilities if the triggering ability deals Fire/Ice/Lightning/Dark damage",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Night's Prayer (Fire/Ice/Lightning/Dark)",
+      "text": "Causes [Imperil Fire 10% (15s)], grants [Buff Fire 10% (15s)]/Causes [Imperil Ice 10% (15s)], grants [Buff Ice 10% (15s)]/Causes [Imperil Lightning 10% (15s)], grants [Buff Lightning 10% (15s)]/Causes [Imperil Dark 10% (15s)], grants [Buff Dark 10% (15s)]  to the user if the triggering ability cause Fire/Ice/Lightning/Dark damage"
+    },
+    {
+      "name": "Imperil Fire 10% (15s)",
+      "text": "Fire Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Fire 10% (15s)",
+      "text": "Increases Fire damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Ice 10% (15s)",
+      "text": "Ice Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Ice 10% (15s)",
+      "text": "Increases Ice damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Lightning 10% (15s)",
+      "text": "Lightning Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Lightning 10% (15s)",
+      "text": "Increases Lightning damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Dark 10% (15s)",
+      "text": "Dark Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Buff Dark 10% (15s)",
+      "text": "Increases Dark damage dealt by 10%, cumulable",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (1.50 each), grants [Awoken Scion Sorceress], [Damage Cap +10000], [Quad Element Mode (Fire, Ice, Lightning, Dark)] and [Night's Prayer Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Scion Sorceress",
+      "text": "Black Magic and Witch abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Black Magic and Witch abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "20960013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20960013/20960013_256.png",
+  "character": "Y'shtola",
+  "name": "Sorceress's Secret",
+  "name_jp": "魔女の奥義",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Lightning",
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single attacks (1.50 each), grants [Awoken Scion Sorceress], [Damage Cap +10000], [Quad Element Mode (Fire, Ice, Lightning, Dark)] and [Night's Prayer Follow-Up] to the user",
+  "verified": true
+}

@@ -1,0 +1,103 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Fire 20% (25s)], [Imperil Earth 20% (25s)], [Imperil Wind 20% (25s)], [Imperil Poison 20% (25s)], [Awoken Engineer], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Overheat Mode] to the user"
+    },
+    {
+      "name": "Awoken Engineer",
+      "text": "Unlimited Machinist hones, Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Machinist abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Imperil Fire 20% (25s)",
+      "text": "Fire Resistance -20%, cumulable",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Imperil Earth 20% (25s)",
+      "text": "Earth Resistance -20%, cumulable",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Imperil Wind 20% (25s)",
+      "text": "Wind Resistance -20%, cumulable",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Imperil Poison 20% (25s)",
+      "text": "Poison Resistance -20%, cumulable",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Quad Element Mode (Fire, Earth, Wind, Poison)",
+      "text": "Grants [Attach Fire]/[Attach Earth]/[Attach Wind]/[Attach Poison] after using a Fire/Earth/Wind/Poison ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Fire",
+      "text": "Replaces Attack command, increases Fire damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Fire resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Earth",
+      "text": "Replaces Attack command, increases Earth damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Earth resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Wind",
+      "text": "Replaces Attack command, increases Wind damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Wind resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Poison",
+      "text": "Replaces Attack command, increases Poison damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Poison resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Overheat Mode",
+      "text": "Fire, Earth, Wind or Poison abilities deal 10/20/30% more damage if the target's Fire, Earth, Wind or Poison weakness is 20/30/40%+",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), causes [Imperil Fire 20% (25s)], [Imperil Earth 20% (25s)], [Imperil Wind 20% (25s)], [Imperil Poison 20% (25s)], [Awoken Engineer], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Overheat Mode] to the user"
+    },
+    {
+      "name": "Awoken Engineer",
+      "text": "Unlimited Machinist hones, Machinist abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Machinist abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22780011",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22780011/22780011_256.png",
+  "character": "Cid (XIV)",
+  "name": "Heated Combo Shot",
+  "name_jp": "ヒートショットコンボ",
+  "tier": "AASB",
+  "sb_version": "AASB1",
+  "realm": "XIV",
+  "elements": [
+    "Fire",
+    "Earth",
+    "Wind",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), causes [Imperil Fire 20% (25s)], [Imperil Earth 20% (25s)], [Imperil Wind 20% (25s)], [Imperil Poison 20% (25s)], [Awoken Engineer], [Damage Cap +10000], [Quad Element Mode (Fire, Earth, Wind, Poison)] and [Overheat Mode] to the user",
+  "verified": true
+}

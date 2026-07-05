@@ -1,0 +1,72 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Ronso Resolve] to the user"
+    },
+    {
+      "name": "Flowing Tide",
+      "text": "Six single ranged jump attacks (0.90 each), grants [Dragoon +30% Boost 1] to the user",
+      "condition": "Water",
+      "slot": "Attack"
+    },
+    {
+      "name": "Azure Will",
+      "text": "One single ranged jump attack (6.00) capped at 99999, grants [Dragoon +30% Boost 1] to the user",
+      "condition": "Water",
+      "slot": "Defend"
+    },
+    {
+      "name": "Attach Water 3 with Stacking",
+      "text": "Increase Attach Water Level by 3 and increase Max Attach Element Level by 2, up to Attach Water 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ronso Resolve",
+      "text": "Grants [Dualcast Dragoon 1], [Damage Cap +10000 1] and [Buff Water 40% (8s)] after using three of Flowing Tide or Azure Will, removed after triggering"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Ronso Resolve] to the user"
+    },
+    {
+      "name": "Flowing Tide",
+      "text": "Six single ranged jump attacks (0.90 each), grants [Dragoon +30% Boost 1] to the user",
+      "condition": "Water",
+      "slot": "Attack"
+    },
+    {
+      "name": "Azure Will",
+      "text": "One single ranged jump attack (6.00) capped at 99999, grants [Dragoon +30% Boost 1] to the user",
+      "condition": "Water",
+      "slot": "Defend"
+    }
+  ],
+  "id": "24490010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/24490010/24490010_256.png",
+  "character": "Kimahri",
+  "name": "Inherited Resolve",
+  "name_jp": "覚悟を継いで",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "X",
+  "elements": [
+    "Water",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": true,
+  "effects": "Fifteen single ranged jump attacks (0.60 each), grants [Attach Water 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Ronso Resolve] to the user",
+  "verified": true
+}

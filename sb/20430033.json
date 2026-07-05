@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "id": "20430033",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20430033/20430033_256.png",
+  "character": "Refia",
+  "name": "Burst Break: Refia (Break Glint)",
+  "name_jp": "烈破・レフィア",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "III",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

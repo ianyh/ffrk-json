@@ -1,0 +1,99 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Instructor Mode I (Quistis - Poison)] and [Poison Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Instructor Mode I (Quistis - Poison)",
+      "text": "Poison abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison abilities trigger 2 additional times, casts Dual Bio Fragrance after using equipped Poison abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Instructor Mode II (Quistis - Poison)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Instructor Mode II (Quistis - Poison)",
+      "text": "Poison abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison abilities trigger 1 additional time, grants [Instant Cast 2] after using a Poison ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Dual Bio Fragrance",
+      "text": "Five single attacks (1.53/1.61/1.69 each) scaling with uses"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Poison with Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 2, up to Attach Poison 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Poison Resonance +5% Boost",
+      "text": "Poison abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Instructor Mode I (Quistis - Poison)] and [Poison Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Instructor Mode I (Quistis - Poison)",
+      "text": "Poison abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison abilities trigger 2 additional times, casts Dual Bio Fragrance after using equipped Poison abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Instructor Mode II (Quistis - Poison)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Instructor Mode II (Quistis - Poison)",
+      "text": "Poison abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Poison abilities trigger 1 additional time, grants [Instant Cast 2] after using a Poison ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 2",
+      "text": "Instant cast speed",
+      "duration": "2 turns"
+    }
+  ],
+  "id": "20500025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20500025/20500025_256.png",
+  "character": "Quistis",
+  "name": "Awoken Hail to the Queen",
+  "name_jp": "覚醒コールミーキング",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "VIII",
+  "elements": [
+    "Poison",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Poison with Stacking], [Damage Cap +10000], [Dual Awoken Instructor Mode I (Quistis - Poison)] and [Poison Resonance +5% Boost] to the user",
+  "verified": true
+}

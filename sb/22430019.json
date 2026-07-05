@@ -1,0 +1,74 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF and RES -50% (25s)], grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Instant Cast 1], [Bestial Seismic Strike Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Earth",
+      "text": "Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "DEF and RES -50% (25s)",
+      "text": "DEF and RES -50%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Bestial Seismic Strike Follow-Up",
+      "text": "Casts Bestial Seismic Strike after using a Earth ability"
+    },
+    {
+      "name": "Bestial Seismic Strike",
+      "text": "Grants [Quick Cast 1] to all allies"
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00",
+      "duration": "1 turn"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single attacks (0.60 each), causes [DEF and RES -50% (25s)], grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Instant Cast 1], [Bestial Seismic Strike Follow-Up] to the user"
+    },
+    {
+      "name": "Awoken Earth",
+      "text": "Earth abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Earth abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22430019",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22430019/22430019_256.png",
+  "character": "Guy",
+  "name": "Bestial Seismic Strike",
+  "name_jp": "大地を震わす野獣の一撃",
+  "tier": "AASB",
+  "sb_version": "AASB2",
+  "realm": "II",
+  "elements": [
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single attacks (0.60 each), causes [DEF and RES -50% (25s)], grants [Attach Earth with Stacking], [Awoken Earth], [Damage Cap +10000], [Instant Cast 1], [Bestial Seismic Strike Follow-Up] to the user",
+  "verified": true
+}

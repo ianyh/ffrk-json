@@ -1,0 +1,103 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: Edgar], [Instant ATB 1] to user. Grants [Attach Poison with Secondary Stacking]/[Attach Fire with Secondary Stacking]/[Attach Lightning with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Edgar",
+      "text": "Triggers [Destruction: Edgar] when using Poison/Fire/Lightning abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Edgar",
+      "text": "Six single attacks (0.90 each)"
+    },
+    {
+      "name": "Attach Poison with Secondary Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 5, up to Attach Poison 5",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Fire with Secondary Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 5, up to Attach Fire 5",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning with Secondary Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 5, up to Attach Lightning 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user."
+    },
+    {
+      "name": "Break Arte",
+      "text": "One single attack (8.00 each) capped at 99,999, ranged. Grants [Buster Mode], [Buster Chase Mode: Edgar], [Instant ATB 1] to user. Grants [Attach Poison with Secondary Stacking]/[Attach Fire with Secondary Stacking]/[Attach Lightning with Secondary Stacking]."
+    },
+    {
+      "name": "Buster Mode",
+      "text": "Enables Buster Soul Break's Break Arte"
+    },
+    {
+      "name": "Buster Chase Mode: Edgar",
+      "text": "Triggers [Destruction: Edgar] when using Poison/Fire/Lightning abilities (max 5)",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Destruction: Edgar",
+      "text": "Six single attacks (0.90 each)"
+    },
+    {
+      "name": "Attach Poison with Secondary Stacking",
+      "text": "Increase Attach Poison Level by 1 and increase Max Attach Element Level by 5, up to Attach Poison 5",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Fire with Secondary Stacking",
+      "text": "Increase Attach Fire Level by 1 and increase Max Attach Element Level by 5, up to Attach Fire 5",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Lightning with Secondary Stacking",
+      "text": "Increase Attach Lightning Level by 1 and increase Max Attach Element Level by 5, up to Attach Lightning 5",
+      "duration": "25 seconds"
+    }
+  ],
+  "id": "20530045",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20530045/20530045_256.png",
+  "character": "Edgar",
+  "name": "Burst Break: Edgar (Break Glint)",
+  "name_jp": "烈破・エドガー",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "VI",
+  "elements": [
+    "Fire",
+    "NE",
+    "Lighting",
+    "NE",
+    "Poison",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "All enemies",
+  "lensable": false,
+  "effects": "One single attack (8.00 each) capped at 99,999. Grants [Instant ATB 1] to user.",
+  "verified": true
+}

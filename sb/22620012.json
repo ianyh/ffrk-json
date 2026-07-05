@@ -1,0 +1,80 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK and DEF +50% (25s)] or [DEF and MAG +50% (25s)] to the user, grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Scheming Statesman Mode] to the user"
+    },
+    {
+      "name": "Dark Domination",
+      "text": "Six single ranged hybrid attacks (0.90 or 3.05 each), damages the user for 25%/15%/5% max HP scaling with activations, grants [Damage Cap +10000 1] to the user",
+      "condition": "Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Shadow Tactics",
+      "text": "One single ranged hybrid attack (6.00 or 16.40) capped at 99999, sets the user's HP to 1 if the user has [Scheming Statesman Mode], grants [Dark Ability +30% Boost 2] to the user if the user has [Scheming Statesman Mode]",
+      "condition": "Dark",
+      "slot": "Defend"
+    },
+    {
+      "name": "ATK and DEF +50% (25s)",
+      "text": "ATK and DEF +50%"
+    },
+    {
+      "name": "DEF and MAG +50% (25s)",
+      "text": "DEF and MAG +50%"
+    },
+    {
+      "name": "Attach Dark 3 with Stacking",
+      "text": "Increase Attach Dark Level by 3 and increase Max Attach Element Level by 2, up to Attach Dark 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Scheming Statesman Mode",
+      "text": "Restores HP for 100% of the user's maximum HP when HP fall below 20%, grants [Last Stand] and casts Evil Sephira when HP fall below 20%"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK and DEF +50% (25s)] or [DEF and MAG +50% (25s)] to the user, grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Scheming Statesman Mode] to the user"
+    },
+    {
+      "name": "Dark Domination",
+      "text": "Six single ranged hybrid attacks (0.90 or 3.05 each), damages the user for 25%/15%/5% max HP scaling with activations, grants [Damage Cap +10000 1] to the user",
+      "condition": "Dark",
+      "slot": "Attack"
+    },
+    {
+      "name": "Shadow Tactics",
+      "text": "One single ranged hybrid attack (6.00 or 16.40) capped at 99999, sets the user's HP to 1 if the user has [Scheming Statesman Mode], grants [Dark Ability +30% Boost 2] to the user if the user has [Scheming Statesman Mode]",
+      "condition": "Dark",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22620012",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22620012/22620012_256.png",
+  "character": "Vayne",
+  "name": "Steel Fusillade",
+  "name_jp": "セフィラの葉叢",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "XII",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single hybrid ranged attacks (0.60 or 1.50 each), grants [ATK and DEF +50% (25s)] or [DEF and MAG +50% (25s)] to the user, grants [Attach Dark 3 with Stacking], [Synchro Mode], [Damage Cap +10000] and [Scheming Statesman Mode] to the user",
+  "verified": true
+}

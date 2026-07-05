@@ -1,0 +1,107 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Barbariccia)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Wind Mode I (Barbariccia)",
+      "text": "Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 2 additional times, casts Dual Tornado Breath after casting equipped Wind abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Barbariccia)], removes [Dual Awoken Wind Mode I (Barbariccia)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Wind Mode II (Barbariccia)",
+      "text": "Increases the damage/healing cap by 20000, Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 1 additional time, casts Dual Storm Descent after using Wind abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Storm Descent",
+      "text": "Two single attacks (3.72 each), causes [Imperil Wind 10% (15s)]"
+    },
+    {
+      "name": "Imperil Wind 10% (15s)",
+      "text": "Wind Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Tornado Breath",
+      "text": "Four single attacks (2.04 each), grants [Quick Cast 1] to the user every second use"
+    },
+    {
+      "name": "MAG and MND +50% (25s)",
+      "text": "MAG and MND +50%"
+    },
+    {
+      "name": "Attach Wind with Stacking",
+      "text": "Increase Attach Wind Level by 1 and increase Max Attach Element Level by 2, up to Attach Wind 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Wind Resonance +5% Boost",
+      "text": "Wind abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Barbariccia)] and [Wind Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Wind Mode I (Barbariccia)",
+      "text": "Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 2 additional times, casts Dual Tornado Breath after casting equipped Wind abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Wind Mode II (Barbariccia)], removes [Dual Awoken Wind Mode I (Barbariccia)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Wind Mode II (Barbariccia)",
+      "text": "Increases the damage/healing cap by 20000, Wind abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Wind abilities trigger 1 additional time, casts Dual Storm Descent after using Wind abilities",
+      "duration": "3/3/2/1/0 turns (Dual Shift)"
+    },
+    {
+      "name": "Dual Storm Descent",
+      "text": "Two single attacks (3.72 each), causes [Imperil Wind 10% (15s)]"
+    },
+    {
+      "name": "Imperil Wind 10% (15s)",
+      "text": "Wind Resistance -10%, cumulable",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "23220010",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/23220010/23220010_256.png",
+  "character": "Barbariccia",
+  "name": "Awoken Raging Squall",
+  "name_jp": "覚醒おおあらし",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "IV",
+  "elements": [
+    "Wind",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single attacks (3.05 each) capped at 19999, grants [MAG and MND +50% (25s)], [Attach Wind with Stacking], [Damage Cap +10000], [Dual Awoken Wind Mode I (Barbariccia)] and [Wind Resonance +5% Boost] to the user",
+  "verified": true
+}

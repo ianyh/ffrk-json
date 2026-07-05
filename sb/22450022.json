@@ -1,0 +1,91 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Noel)] and [Ice Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Ice Mode I (Noel)",
+      "text": "Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 and critical chance =50%/75%/100% for equipped Ice abilities after casting 1/2/3+ Ice abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Noel)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Ice Mode II (Noel)",
+      "text": "Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts speed x9999999 for Ice abilities, causes [DEF, RES and MND -50% (25s)] after using Ice abilities if 0-3 FF13 allies are alive, grants [Prismatic Ability +30% Boost 3] to all allies after using Ice abilities if 4+ FF13 allies are alive",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Prismatic Ability +30% Boost 3",
+      "text": "Fire, Ice, Lightning, Earth, Wind, Water, Holy, Dark and Poison abilities deal 30% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Attach Ice with Stacking",
+      "text": "Increase Attach Ice Level by 1 and increase Max Attach Element Level by 2, up to Attach Ice 3"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Ice Resonance +5% Boost",
+      "text": "Ice abilities deal 5% more damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Noel)] and [Ice Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Ice Mode I (Noel)",
+      "text": "Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ice abilities trigger 2 additional times, cast speed x2.00/x2.50/x3.00 and critical chance =50%/75%/100% for equipped Ice abilities after casting 1/2/3+ Ice abilities",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Ice Mode II (Noel)]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Ice Mode II (Noel)",
+      "text": "Ice abilities deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, casts speed x9999999 for Ice abilities, causes [DEF, RES and MND -50% (25s)] after using Ice abilities if 0-3 FF13 allies are alive, grants [Prismatic Ability +30% Boost 3] to all allies after using Ice abilities if 4+ FF13 allies are alive",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Prismatic Ability +30% Boost 3",
+      "text": "Fire, Ice, Lightning, Earth, Wind, Water, Holy, Dark and Poison abilities deal 30% more damage",
+      "duration": "3 turns"
+    }
+  ],
+  "id": "22450022",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22450022/22450022_256.png",
+  "character": "Noel",
+  "name": "Awoken Meteor Javelin",
+  "name_jp": "覚醒メテオジャベリン",
+  "tier": "DASB",
+  "sb_version": "DASB2",
+  "realm": "XIII",
+  "elements": [
+    "Ice",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Seven single ranged attacks (0.90 each) capped at 19999, grants [Attach Ice with Stacking], [Damage Cap +10000], [Dual Awoken Ice Mode I (Noel)] and [Ice Resonance +5% Boost] to the user",
+  "verified": true
+}

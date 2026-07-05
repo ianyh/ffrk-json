@@ -1,0 +1,40 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Squall], [Instant ATB 1] to user."
+    },
+    {
+      "name": "Soul Drive Mode",
+      "text": "After the duration expires, the status is removed only after the character takes an action"
+    },
+    {
+      "name": "Soul Drive Mode: Squall",
+      "text": "Reduces the SB points cost for Soul Breaks by 250, instant cast speed for Soul Breaks, increases the damage/healing cap by 10000 for Soul Breaks, Soul Breaks deal 50% more damage, grants [Instant ATB 1] after using a Soul Break, removed after triggering, removed if the character hasn't [Soul Drive Mode]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Squall], [Instant ATB 1] to user."
+    }
+  ],
+  "id": "20350062",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20350062/20350062_256.png",
+  "character": "Squall",
+  "name": "Soul Drive: Squall",
+  "name_jp": "SD・スコール",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "VIII",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Squall], [Instant ATB 1] to user.",
+  "verified": true
+}

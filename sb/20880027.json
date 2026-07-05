@@ -1,0 +1,62 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single-target Ice/Water/Lightning/NE magical attacks (? each), grants [Quick Magic (15s)] & Ice/Water/Lightning Damage +20% to all allies, grants [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)], & (Awoken Well-Informed Guardian Mode) to user\nAwoken Well-Informed Guardian Mode: Unlimited Ice/Water/Lightning Hones, Ice/Water/Lightning Ability Boost & Dualcast Ice/Water/Lightning"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Triple Sphere Mode (Ice, Lightning, Water)",
+      "text": "Grants [Attach Ice]/[Attach Lightning]/[Attach Water] after using a Ice/Lightning/Water ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Ice",
+      "text": "Replaces Attack command, increases Ice damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Ice resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Water",
+      "text": "Replaces Attack command, increases Water damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Water resistance +20%",
+      "duration": "25 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single-target Ice/Water/Lightning/NE magical attacks (? each), grants [Quick Magic (15s)] & Ice/Water/Lightning Damage +20% to all allies, grants [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)], & (Awoken Well-Informed Guardian Mode) to user\nAwoken Well-Informed Guardian Mode: Unlimited Ice/Water/Lightning Hones, Ice/Water/Lightning Ability Boost & Dualcast Ice/Water/Lightning"
+    }
+  ],
+  "id": "20880027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20880027/20880027_256.png",
+  "character": "Lulu",
+  "name": "Plushie Parade",
+  "name_jp": "ぬいぐるみパレード",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "X",
+  "elements": [
+    "Ice",
+    "Water",
+    "Lightning",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single-target Ice/Water/Lightning/NE magical attacks (? each), grants [Quick Magic (15s)] & Ice/Water/Lightning Damage +20% to all allies, grants [Damage Cap +10000], [Triple Sphere Mode (Ice, Lightning, Water)], & (Awoken Well-Informed Guardian Mode) to user\nAwoken Well-Informed Guardian Mode: Unlimited Ice/Water/Lightning Hones, Ice/Water/Lightning Ability Boost & Dualcast Ice/Water/Lightning",
+  "verified": false
+}

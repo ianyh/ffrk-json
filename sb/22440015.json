@@ -1,0 +1,120 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Potion Prince Mode I (Larsa)], and [White Magic Healing Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Potion Prince Mode I (Larsa)",
+      "text": "Cast speed x2.00 for White Magic and Support abilities, restores HP (10/15/25/35/45) after White Magic or Support abilities at rank 1/2/3/4/5 ",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Potion Prince Mode II (Larsa)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Potion Prince Mode II (Larsa)",
+      "text": "Cast speed xx9999999 for White Magic and Support abilities, casts Dual Prince's Strategy after using a White Magic or Support ability"
+    },
+    {
+      "name": "Dual Prince's Strategy",
+      "text": "[DEF -50% (15s)], grants [HP Stock (3000)] and [Quick Cast 2] to all allies"
+    },
+    {
+      "name": "DEF -50% (15s)",
+      "text": "DEF -50%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00",
+      "duration": "2 turns"
+    },
+    {
+      "name": "Raise: 100%",
+      "text": "Removes KO (100% HP)"
+    },
+    {
+      "name": "Haste",
+      "text": "ATB speed x2.00"
+    },
+    {
+      "name": "Regenga",
+      "text": "Restores 2000 HP every 2.00 seconds"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Potion Prince Mode I (Larsa)], and [White Magic Healing Resonance +5% Boost] to the user"
+    },
+    {
+      "name": "Dual Awoken Potion Prince Mode I (Larsa)",
+      "text": "Cast speed x2.00 for White Magic and Support abilities, restores HP (10/15/25/35/45) after White Magic or Support abilities at rank 1/2/3/4/5 ",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Dual Shift",
+      "text": "Grants [Instant ATB 1] and [Dual Awoken Potion Prince Mode II (Larsa)] to the user"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Dual Awoken Potion Prince Mode II (Larsa)",
+      "text": "Cast speed xx9999999 for White Magic and Support abilities, casts Dual Prince's Strategy after using a White Magic or Support ability"
+    },
+    {
+      "name": "Dual Prince's Strategy",
+      "text": "[DEF -50% (15s)], grants [HP Stock (3000)] and [Quick Cast 2] to all allies"
+    },
+    {
+      "name": "DEF -50% (15s)",
+      "text": "DEF -50%",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "HP Stock (3000)",
+      "text": "Automatically restores HP, up to 3000 HP, removed when that amount is reached"
+    },
+    {
+      "name": "Quick Cast 2",
+      "text": "Cast speed x2.00",
+      "duration": "2 turns"
+    }
+  ],
+  "id": "22440015",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22440015/22440015_256.png",
+  "character": "Larsa",
+  "name": "Awoken Manufacted Marvel",
+  "name_jp": "覚醒人造破魔石の輝き",
+  "tier": "DASB",
+  "sb_version": "DASB1",
+  "realm": "XII",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": false,
+  "effects": "Restores HP (105) capped at 19999, removes KO [Raise: 100%], grants [Haste], [Regenga], and [High Quick Cast 2] to all allies, grants [Damage Cap +10000], [Dual Awoken Potion Prince Mode I (Larsa)], and [White Magic Healing Resonance +5% Boost] to the user",
+  "verified": false
+}

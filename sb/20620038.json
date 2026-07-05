@@ -1,0 +1,40 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Eiko (IX)], [Instant ATB 1] to user."
+    },
+    {
+      "name": "Soul Drive Mode",
+      "text": "After the duration expires, the status is removed only after the character takes an action"
+    },
+    {
+      "name": "Soul Drive Mode: Eiko (IX)",
+      "text": "Reduces the SB points cost for Soul Breaks by 250, instant cast speed for Soul Breaks, grants [Damage +30% Boost 1] and [200% ATB 1] to all IX allies after using a Soul Break, removed after triggering, removed if the character hasn't [Soul Drive Mode]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Soul Drive Mode], [Soul Drive Mode: Eiko (IX)], [Instant ATB 1] to user."
+    }
+  ],
+  "id": "20620038",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/20620038/20620038_256.png",
+  "character": "Eiko",
+  "name": "Soul Drive: Eiko",
+  "name_jp": "SD・エーコ",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "IX",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": false,
+  "effects": "Grants [Soul Drive Mode], [Soul Drive Mode: Eiko (IX)], [Instant ATB 1] to user.",
+  "verified": false
+}

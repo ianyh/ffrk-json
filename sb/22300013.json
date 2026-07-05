@@ -1,0 +1,69 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [High Quick Cast 2], grants [Synchro Mode], [Damage Cap +10000] and Desire +1"
+    },
+    {
+      "name": "Peaceful Exultation",
+      "text": "Grants [HP Stock (1000)]/[HP Stock (2000)]/[HP Stock (3000)] if the user has Desire level 1/2/3",
+      "condition": "Bard, White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Aria of Desire",
+      "text": "Restores HP (25), grants Desire +1 to the user",
+      "condition": "Bard, White Magic",
+      "slot": "Defend"
+    },
+    {
+      "name": "Last Stand",
+      "text": "If HP reaches 0, prevents [KO] restoring HP for 1% maximum HP, removed after triggering"
+    },
+    {
+      "name": "High Quick Cast 2",
+      "text": "Cast speed x3.00"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Synchro Mode",
+      "text": "Replaces the Attack and Defend commands",
+      "duration": "15 seconds"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Restores HP (105), grants [Last Stand] and [High Quick Cast 2], grants [Synchro Mode], [Damage Cap +10000] and Desire +1"
+    },
+    {
+      "name": "Peaceful Exultation",
+      "text": "Grants [HP Stock (1000)]/[HP Stock (2000)]/[HP Stock (3000)] if the user has Desire level 1/2/3",
+      "condition": "Bard, White Magic",
+      "slot": "Attack"
+    },
+    {
+      "name": "Aria of Desire",
+      "text": "Restores HP (25), grants Desire +1 to the user",
+      "condition": "Bard, White Magic",
+      "slot": "Defend"
+    }
+  ],
+  "id": "22300013",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22300013/22300013_256.png",
+  "character": "Sarah",
+  "name": "Far-Reaching Prayer",
+  "name_jp": "彼方に届く王女の祈り",
+  "tier": "SASB",
+  "sb_version": "SASB1",
+  "realm": "I",
+  "elements": [],
+  "type": "WHT",
+  "target": "All allies",
+  "lensable": true,
+  "effects": "Restores HP (105), grants [Last Stand] and [High Quick Cast 2], grants [Synchro Mode], [Damage Cap +10000] and Desire +1",
+  "verified": true
+}

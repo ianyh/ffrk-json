@@ -1,0 +1,128 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Cloud of Darkness], [Ultra Particle Beam Damage Tracker] and [Ultra Particle Beam Level]"
+    },
+    {
+      "name": "Twin Element Mode (Lightning, Dark) v2",
+      "text": "Grants [Attach Lightning]/[Attach Dark] after using a Lightning or Dark ability"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Cloud of Darkness",
+      "text": "Keeps track of the number of uses of Ultra Particle Beam (0~2), removed after using Ultra Particle Beam two times"
+    },
+    {
+      "name": "Ultra Particle Beam Damage Tracker",
+      "text": "Increases Ultra Particle Beam level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Cloud of Darkness]"
+    },
+    {
+      "name": "Ultra Particle Beam Level",
+      "text": "Keeps track of Ultra Particle Beam level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Cloud of Darkness]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Cloud of Darkness], [Ultra Particle Beam Damage Tracker] and [Ultra Particle Beam Level]"
+    },
+    {
+      "name": "Twin Element Mode (Lightning, Dark) v2",
+      "text": "Grants [Attach Lightning]/[Attach Dark] after using a Lightning or Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Cloud of Darkness",
+      "text": "Keeps track of the number of uses of Ultra Particle Beam (0~2), removed after using Ultra Particle Beam two times"
+    },
+    {
+      "name": "Ultra Particle Beam Damage Tracker",
+      "text": "Increases Ultra Particle Beam level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Cloud of Darkness]"
+    },
+    {
+      "name": "Ultra Particle Beam Level",
+      "text": "Keeps track of Ultra Particle Beam level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Cloud of Darkness]"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Cloud of Darkness], [Ultra Particle Beam Damage Tracker] and [Ultra Particle Beam Level]"
+    },
+    {
+      "name": "Engaged",
+      "text": "Grants [Twin Element Mode (Lightning, Dark) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Cloud of Darkness], [Ultra Particle Beam Damage Tracker] and [Ultra Particle Beam Level]"
+    },
+    {
+      "name": "Twin Element Mode (Lightning, Dark) v2",
+      "text": "Grants [Attach Lightning]/[Attach Dark] after using a Lightning or Dark ability",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Attach Lightning",
+      "text": "Replaces Attack command, increases Lightning damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Lightning resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attack",
+      "text": "One single attack (1.00)"
+    },
+    {
+      "name": "Attach Dark",
+      "text": "Replaces Attack command, increases Dark damage dealt by 50/80/120% (abilities) or 80/100/120% (Soul Breaks), Dark resistance +20%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Arcane Dyad Empowered: Cloud of Darkness",
+      "text": "Keeps track of the number of uses of Ultra Particle Beam (0~2), removed after using Ultra Particle Beam two times"
+    },
+    {
+      "name": "Ultra Particle Beam Damage Tracker",
+      "text": "Increases Ultra Particle Beam level by 1 after dealing 100001 total damage during the status, removed if the character hasn't [Arcane Dyad Empowered: Cloud of Darkness]"
+    },
+    {
+      "name": "Ultra Particle Beam Level",
+      "text": "Keeps track of Ultra Particle Beam level (0~1), removed if the character hasn't [Arcane Dyad Empowered: Cloud of Darkness]"
+    }
+  ],
+  "id": "22670017",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22670017/22670017_256.png",
+  "character": "Cloud of Darkness",
+  "name": "Ultra Particle Beam (Engaged)",
+  "name_jp": "超波動砲",
+  "tier": "ADSB",
+  "sb_version": "ADSB1",
+  "realm": "III",
+  "elements": [],
+  "type": "NAT",
+  "target": "Self",
+  "lensable": true,
+  "effects": "Grants [Twin Element Mode (Lightning, Dark) v2], [Damage Cap +10000], [Arcane Dyad Empowered: Cloud of Darkness], [Ultra Particle Beam Damage Tracker] and [Ultra Particle Beam Level]",
+  "verified": true
+}

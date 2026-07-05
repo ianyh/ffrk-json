@@ -1,0 +1,86 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [100% Critical], [Awoken Ninja], [Damage Cap +10000], [Chain Materia Mode II (Earth, Water)], [Ninja Spirit], [Physical Blink Stacking 2] and [Physical Blink 2] to the user"
+    },
+    {
+      "name": "Awoken Ninja",
+      "text": "Ninja abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "100% Critical",
+      "text": "Critical chance =100%",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Damage Cap +10000",
+      "text": "Increases the damage/healing cap by 10000",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Chain Materia Mode II (Earth, Water)",
+      "text": "Grants [Attach Earth with Stacking]/[Attach Water with Stacking] after using a Earth/Water ability",
+      "duration": "1 turn or 15 seconds"
+    },
+    {
+      "name": "Attach Earth with Stacking",
+      "text": "Increase Attach Earth Level by 1 and increase Max Attach Element Level by 2, up to Attach Earth 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Attach Water with Stacking",
+      "text": "Increase Attach Water Level by 1 and increase Max Attach Element Level by 2, up to Attach Water 3",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Ninja Spirit",
+      "text": "Grants [Ninja +30% Boost 3] to the user after using a Ninja ability, removed after triggering",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Ninja +30% Boost 3",
+      "text": "Ninja abilities deal 30% more damage",
+      "duration": "3 turns"
+    },
+    {
+      "name": "Physical Blink Stacking 2",
+      "text": "Allows to stack Physical Blink, up to Physical Blink 2",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Physical Blink 2",
+      "text": "Evades the next 2 PHY attacks that deal physical, missing HP or fixed damage or NAT attacks that deal physical or fractional damage"
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": "Fifteen single ranged attacks (0.60 each), grants [100% Critical], [Awoken Ninja], [Damage Cap +10000], [Chain Materia Mode II (Earth, Water)], [Ninja Spirit], [Physical Blink Stacking 2] and [Physical Blink 2] to the user"
+    },
+    {
+      "name": "Awoken Ninja",
+      "text": "Ninja abilities don't consume uses and deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, Ninja abilities trigger 1 additional time",
+      "duration": "15 seconds"
+    }
+  ],
+  "id": "22040034",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22040034/22040034_256.png",
+  "character": "Yuffie",
+  "name": "Sublimation",
+  "name_jp": "昇華・鎧袖一触",
+  "tier": "AASB",
+  "sb_version": "AASB3",
+  "realm": "VII",
+  "elements": [
+    "Water",
+    "Earth",
+    "NE"
+  ],
+  "type": "PHY",
+  "target": "Single enemy",
+  "lensable": false,
+  "effects": "Fifteen single ranged attacks (0.60 each), grants [100% Critical], [Awoken Ninja], [Damage Cap +10000], [Chain Materia Mode II (Earth, Water)], [Ninja Spirit], [Physical Blink Stacking 2] and [Physical Blink 2] to the user",
+  "verified": true
+}
