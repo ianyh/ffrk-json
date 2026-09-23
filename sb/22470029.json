@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "22470029",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22470029/22470029_256.png",
+  "character": "Curilla",
+  "name": "Soul Drive: Curilla",
+  "name_jp": "SD・クリルラ",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "XI",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

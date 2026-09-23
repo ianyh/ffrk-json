@@ -2,13 +2,25 @@
   "description": [
     {
       "name": "Entry",
-      "text": ""
+      "text": "Grants [Quick Cast 1] to all allies, grants [Instant ATB 1] to user, grants [Sorcery +15% Boost (15s)] to allies with Attach Dark or Attach Wind."
+    },
+    {
+      "name": "Quick Cast 1",
+      "text": "Cast speed x2.00"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Sorcery +15% Boost (15s)",
+      "text": "BLK, WHT, BLU, SUM or NIN attacks deal 15% more damage (additive with other Sorcery statuses)"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
-      "text": ""
+      "text": "Grants [Quick Cast 1] to all allies, grants [Instant ATB 1] to user, grants [Sorcery +15% Boost (15s)] to allies with Attach Dark or Attach Wind."
     }
   ],
   "id": "23230052",
@@ -20,9 +32,9 @@
   "sb_version": "LBG+2",
   "realm": "VIII",
   "elements": [],
-  "type": "?",
-  "target": "",
+  "type": "NAT",
+  "target": "All allies",
   "lensable": false,
-  "effects": "",
-  "verified": false
+  "effects": "Grants [Quick Cast 1] to all allies, grants [Instant ATB 1] to user, grants [Sorcery +15% Boost (15s)] to allies with Attach Dark or Attach Wind.",
+  "verified": true
 }

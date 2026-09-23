@@ -5,10 +5,6 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Aranea], [ATK +500 (25s) (Tactical)] to user."
     },
     {
-      "name": "Mode",
-      "text": "Lightning abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Lightning abilities while in Tactical Awoken Mode, No air time for jump abilities; removed if the character hasn't [Tactical Awoken Mode]"
-    },
-    {
       "name": "Weapon Skill",
       "text": "One single attack (11.00 each) capped at 199,999, ranged, jump. Grants [Lightning Damage Cap +20000 (Tactical)], [Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Lightning 166% ATB Quick Cycle (Tactical)], [Lightning Quick Cast (Tactical)] to user if Level 3+ EnLightning, grants [Attach Lightning 3 with Stacking] to user if not."
     },
@@ -52,6 +48,19 @@
       "name": "Attach Lightning 3 with Stacking",
       "text": "Increase Attach Lightning Level by 3 and increase Max Attach Element Level by 2, up to Attach Lightning 3",
       "duration": "25 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. ",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode: Aranea",
+      "text": "Lightning abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Lightning abilities while in Tactical Awoken Mode, No air time for jump abilities; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "ATK +500 (25s) (Tactical)",
+      "text": "ATK +500"
     }
   ],
   "card_description": [
@@ -60,10 +69,6 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Aranea], [ATK +500 (25s) (Tactical)] to user."
     },
     {
-      "name": "Mode",
-      "text": "Lightning abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Lightning abilities while in Tactical Awoken Mode, No air time for jump abilities; removed if the character hasn't [Tactical Awoken Mode]"
-    },
-    {
       "name": "Weapon Skill",
       "text": "One single attack (11.00 each) capped at 199,999, ranged, jump. Grants [Lightning Damage Cap +20000 (Tactical)], [Lightning 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Lightning 166% ATB Quick Cycle (Tactical)], [Lightning Quick Cast (Tactical)] to user if Level 3+ EnLightning, grants [Attach Lightning 3 with Stacking] to user if not."
     },
@@ -107,6 +112,15 @@
       "name": "Attach Lightning 3 with Stacking",
       "text": "Increase Attach Lightning Level by 3 and increase Max Attach Element Level by 2, up to Attach Lightning 3",
       "duration": "25 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. ",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode: Aranea",
+      "text": "Lightning abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Lightning abilities while in Tactical Awoken Mode, No air time for jump abilities; removed if the character hasn't [Tactical Awoken Mode]"
     }
   ],
   "id": "22980023",

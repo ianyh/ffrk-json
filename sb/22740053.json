@@ -2,11 +2,7 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Noctis], ATK +500 to user\nTP Max: AOE Fire/NE, Earth/NE, or Lightning/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Mode",
-      "text": "Fire, Lightning or Earth abilities deal 30% more damage, have +10000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times and don't consume ability uses, Fire, Lightning or Earth abilities ignore 20% of the target's DEF and RES, keeps track of the number of Fire, Lightning or Earth abilities used, removes [Tactical Awoken Mode] after using 8 Fire, Lightning or Earth abilities, removed if the user hasn't [Tactical Awoken Mode]"
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Noctis], ATK +500 to user"
     },
     {
       "name": "Weapon Skill",
@@ -26,16 +22,21 @@
       "name": "200% ATB 2",
       "text": "Increase ATB charge speed by x2.00",
       "duration": "2 turns"
+    },
+    {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. ",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode: Noctis",
+      "text": "Fire, Lightning or Earth abilities deal 30% more damage, have +10000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times and don't consume ability uses, Fire, Lightning or Earth abilities ignore 20% of the target's DEF and RES, keeps track of the number of Fire, Lightning or Earth abilities used, removes [Tactical Awoken Mode] after using 8 Fire, Lightning or Earth abilities, removed if the user hasn't [Tactical Awoken Mode]"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
-      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Noctis], ATK +500 to user\nTP Max: AOE Fire/NE, Earth/NE, or Lightning/NE physical attack at True Cap Break Level 1"
-    },
-    {
-      "name": "Mode",
-      "text": "Fire, Lightning or Earth abilities deal 30% more damage, have +10000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times and don't consume ability uses, Fire, Lightning or Earth abilities ignore 20% of the target's DEF and RES, keeps track of the number of Fire, Lightning or Earth abilities used, removes [Tactical Awoken Mode] after using 8 Fire, Lightning or Earth abilities, removed if the user hasn't [Tactical Awoken Mode]"
+      "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Noctis], ATK +500 to user"
     },
     {
       "name": "Weapon Skill",
@@ -55,6 +56,15 @@
       "name": "200% ATB 2",
       "text": "Increase ATB charge speed by x2.00",
       "duration": "2 turns"
+    },
+    {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. ",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode: Noctis",
+      "text": "Fire, Lightning or Earth abilities deal 30% more damage, have +10000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times and don't consume ability uses, Fire, Lightning or Earth abilities ignore 20% of the target's DEF and RES, keeps track of the number of Fire, Lightning or Earth abilities used, removes [Tactical Awoken Mode] after using 8 Fire, Lightning or Earth abilities, removed if the user hasn't [Tactical Awoken Mode]"
     }
   ],
   "id": "22740053",

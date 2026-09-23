@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "22680027",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680027/22680027_256.png",
+  "character": "Prishe",
+  "name": "Soul Drive: Prishe",
+  "name_jp": "SD・プリッシュ",
+  "tier": "LBSD",
+  "sb_version": "LBSD1",
+  "realm": "XI",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

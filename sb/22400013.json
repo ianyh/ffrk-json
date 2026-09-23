@@ -5,10 +5,6 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Mustadio], [ATK +500 (25s) (Tactical)] to user."
     },
     {
-      "name": "Mode",
-      "text": "Fire/Ice/Lightning/Poison abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [111% ATB 1]/[125% ATB 1] after using Fire/Ice/Lightning/Poison abilities before/after triggering Weapon Skill while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
-    },
-    {
       "name": "Weapon Skill",
       "text": "One single piercing attack (11.00) capped at 199,999, ranged. Grants [Fire, Ice, Lightning, Poison Damage Cap +20000 (Tactical)], [Fire, Ice, Lightning, Poison 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Deadly Strikes +20% (15s)] to all allies if user has 100% Critical Rate, grants [100% Critical (15s)], [Critical Damage +50% (15s)] to all allies if not"
     },
@@ -19,11 +15,6 @@
     {
       "name": "Fire, Ice, Lightning, Poison 125% ATB Quick Cycle (Tactical)",
       "text": "Grants [125% ATB 1] after using a Fire, Ice, Lightning, or Poison ability, removed if the user hasn't [Tactical Awoken Mode]"
-    },
-    {
-      "name": "125% ATB 1",
-      "text": "Increase ATB charge speed by x1.25",
-      "duration": "1 turn"
     },
     {
       "name": "Instant ATB 1",
@@ -49,6 +40,29 @@
       "name": "Critical Damage +50% (15s)",
       "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
       "duration": "15 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. ",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode: Mustadio",
+      "text": "Fire/Ice/Lightning/Poison abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [111% ATB 1]/[125% ATB 1] after using Fire/Ice/Lightning/Poison abilities before/after triggering Weapon Skill while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "111% ATB 1",
+      "text": "Increase ATB charge speed by x1.11",
+      "duration": "1 turn"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
+    },
+    {
+      "name": "ATK +500 (25s) (Tactical)",
+      "text": "ATK +500"
     }
   ],
   "card_description": [
@@ -57,10 +71,6 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Mustadio], [ATK +500 (25s) (Tactical)] to user."
     },
     {
-      "name": "Mode",
-      "text": "Fire/Ice/Lightning/Poison abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [111% ATB 1]/[125% ATB 1] after using Fire/Ice/Lightning/Poison abilities before/after triggering Weapon Skill while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
-    },
-    {
       "name": "Weapon Skill",
       "text": "One single piercing attack (11.00) capped at 199,999, ranged. Grants [Fire, Ice, Lightning, Poison Damage Cap +20000 (Tactical)], [Fire, Ice, Lightning, Poison 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Deadly Strikes +20% (15s)] to all allies if user has 100% Critical Rate, grants [100% Critical (15s)], [Critical Damage +50% (15s)] to all allies if not"
     },
@@ -71,11 +81,6 @@
     {
       "name": "Fire, Ice, Lightning, Poison 125% ATB Quick Cycle (Tactical)",
       "text": "Grants [125% ATB 1] after using a Fire, Ice, Lightning, or Poison ability, removed if the user hasn't [Tactical Awoken Mode]"
-    },
-    {
-      "name": "125% ATB 1",
-      "text": "Increase ATB charge speed by x1.25",
-      "duration": "1 turn"
     },
     {
       "name": "Instant ATB 1",
@@ -101,6 +106,25 @@
       "name": "Critical Damage +50% (15s)",
       "text": "Critical hits deal 50% more damage (additive with the base critical coefficient)",
       "duration": "15 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. ",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode: Mustadio",
+      "text": "Fire/Ice/Lightning/Poison abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [111% ATB 1]/[125% ATB 1] after using Fire/Ice/Lightning/Poison abilities before/after triggering Weapon Skill while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "111% ATB 1",
+      "text": "Increase ATB charge speed by x1.11",
+      "duration": "1 turn"
+    },
+    {
+      "name": "125% ATB 1",
+      "text": "Increase ATB charge speed by x1.25",
+      "duration": "1 turn"
     }
   ],
   "id": "22400013",

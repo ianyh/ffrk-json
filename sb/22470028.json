@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "id": "22470028",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22470028/22470028_256.png",
+  "character": "Curilla",
+  "name": "Burst Break: Curilla (Break Glint)",
+  "name_jp": "烈破・クリルラ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "XI",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

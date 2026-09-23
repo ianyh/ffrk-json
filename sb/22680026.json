@@ -1,0 +1,36 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    },
+    {
+      "name": "Break Arte",
+      "text": ""
+    }
+  ],
+  "id": "22680026",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680026/22680026_256.png",
+  "character": "Prishe",
+  "name": "Burst Break: Prishe (Break Glint)",
+  "name_jp": "烈破・プリッシュ",
+  "tier": "Buster",
+  "sb_version": "Buster1",
+  "realm": "XI",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

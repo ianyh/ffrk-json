@@ -5,10 +5,6 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Arc], [MAG and MND +500 (25s) (Tactical)] to user."
     },
     {
-      "name": "Mode",
-      "text": "Holy/Water abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Holy/Water abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
-    },
-    {
       "name": "Weapon Skill",
       "text": "One single attack (31.00 or 33.00 each) capped at 199,999 based on MAG and MND. Grants [Water, Holy Damage Cap +20000 (Tactical)], [Holy, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Holy, Water Buff Damage Boost (15s)] to all allies if user has at least element buff level 3 for Holy or Water, else [Buff Holy 40% (15s)], [Buff Water 40% (15s)] to all allies"
     },
@@ -49,6 +45,19 @@
       "name": "Buff Water 40% (15s)",
       "text": "Increases Water damage dealt by 40%, cumulable",
       "duration": "15 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. ",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode: Arc",
+      "text": "Holy/Water abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Holy/Water abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
+    },
+    {
+      "name": "MAG and MND +500 (25s) (Tactical)",
+      "text": "MAG and MND +500"
     }
   ],
   "card_description": [
@@ -57,10 +66,6 @@
       "text": "Grants [Tactical Awoken Mode], [Tactical Awoken Mode: Arc], [MAG and MND +500 (25s) (Tactical)] to user."
     },
     {
-      "name": "Mode",
-      "text": "Holy/Water abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Holy/Water abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
-    },
-    {
       "name": "Weapon Skill",
       "text": "One single attack (31.00 or 33.00 each) capped at 199,999 based on MAG and MND. Grants [Water, Holy Damage Cap +20000 (Tactical)], [Holy, Water 125% ATB Quick Cycle (Tactical)], [Instant ATB 1], [Instant Cast 1] to user, grants [Holy, Water Buff Damage Boost (15s)] to all allies if user has at least element buff level 3 for Holy or Water, else [Buff Holy 40% (15s)], [Buff Water 40% (15s)] to all allies"
     },
@@ -101,6 +106,15 @@
       "name": "Buff Water 40% (15s)",
       "text": "Increases Water damage dealt by 40%, cumulable",
       "duration": "15 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode",
+      "text": "Keeps track of TP level (0~6), increases TP level by 1 when the character is hit by a damaging attack or an ally uses a damaging action, casts a certain ability when TP level reaches 6. Removed after 8 abilities. ",
+      "duration": "25 seconds"
+    },
+    {
+      "name": "Tactical Awoken Mode: Arc",
+      "text": "Holy/Water abilities deal 30% more damage, have +10,000 damage cap, deal 5/10/15/20/30% more damage at ability rank 1/2/3/4/5, trigger 2 additional times, have zero hone cost, triggers [ATB_10%] after using Holy/Water abilities while in Tactical Awoken Mode; removed if the character hasn't [Tactical Awoken Mode]"
     }
   ],
   "id": "20420041",

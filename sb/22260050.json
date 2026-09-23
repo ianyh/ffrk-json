@@ -2,21 +2,29 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 MAG to user, Instant Cast\nTactical Awoken Mode: Water Ability Boost, Triplecast Water, Unlimited Water Hones, Cap Break Level 1 to Water Abilities, Water Ability Damage +30% & ATB Speed x1.1 to Water Abilities; Ends after using 8 Water abilities\nTP Max: AOE Water/NE magic attack at True Cap Break Level 1"
+      "text": "Tactical Awoken Mode & +500 MAG to user, Instant Cast"
     },
     {
       "name": "Weapon Skill",
-      "text": "Single-target Water/NE piercing magic attack at True Cap Break Level 1, Instant Cast & Zero SB Cost, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Water Abilities, and a Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Water\nWS Blue: [Lv.2 En-Water Stack to user]\nWS Gold: [DeShell 20% to all targets]"
+      "text": "Single-target Water/NE piercing magic attack at True Cap Break Level 1, Instant Cast & Zero SB Cost, Instant ATB 1 & Instant Cast 1 to user; During Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Water Abilities, and a Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Water WS Blue: [Lv.2 En-Water Stack to user] WS Gold: [DeShell 20% to all targets]"
+    },
+    {
+      "name": "Tactical Awoken Mode",
+      "text": "Water Ability Boost, Triplecast Water, Unlimited Water Hones, Cap Break Level 1 to Water Abilities, Water Ability Damage +30% & ATB Speed x1.1 to Water Abilities; Ends after using 8 Water abilities"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
-      "text": "Tactical Awoken Mode & +500 MAG to user, Instant Cast\nTactical Awoken Mode: Water Ability Boost, Triplecast Water, Unlimited Water Hones, Cap Break Level 1 to Water Abilities, Water Ability Damage +30% & ATB Speed x1.1 to Water Abilities; Ends after using 8 Water abilities\nTP Max: AOE Water/NE magic attack at True Cap Break Level 1"
+      "text": "Tactical Awoken Mode & +500 MAG to user, Instant Cast"
     },
     {
       "name": "Weapon Skill",
-      "text": "Single-target Water/NE piercing magic attack at True Cap Break Level 1, Instant Cast & Zero SB Cost, Instant ATB 1 & Instant Cast 1 to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Water Abilities, and a Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Water\nWS Blue: [Lv.2 En-Water Stack to user]\nWS Gold: [DeShell 20% to all targets]"
+      "text": "Single-target Water/NE piercing magic attack at True Cap Break Level 1, Instant Cast & Zero SB Cost, Instant ATB 1 & Instant Cast 1 to user; During Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Water Abilities, and a Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Water WS Blue: [Lv.2 En-Water Stack to user] WS Gold: [DeShell 20% to all targets]"
+    },
+    {
+      "name": "Tactical Awoken Mode",
+      "text": "Water Ability Boost, Triplecast Water, Unlimited Water Hones, Cap Break Level 1 to Water Abilities, Water Ability Damage +30% & ATB Speed x1.1 to Water Abilities; Ends after using 8 Water abilities"
     }
   ],
   "id": "22260050",

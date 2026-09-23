@@ -5,12 +5,16 @@
       "text": "Grants [Master Mode], [Master Mode: Emperor], [Instant ATB 1] and [Diffusion Barrier 1]"
     },
     {
-      "name": "Master Mode",
-      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
-    },
-    {
       "name": "Master Mode: Emperor",
       "text": "Casts Star Strike: Emperor every 2s (max 5), casts North Star: Stick Bomb after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Star Strike: Emperor",
+      "text": "10 single attacks (3.05 each), increases Hero Boost level by 1, causes [Deshell 10%]"
+    },
+    {
+      "name": "Master Mode",
+      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
     },
     {
       "name": "Instant ATB 1",
@@ -19,12 +23,38 @@
     {
       "name": "Diffusion Barrier 1",
       "text": "Prevents elemental diffusion once"
+    },
+    {
+      "name": "North Star: Stick Bomb",
+      "text": "1 single attack (26.50 each), grants [Instant Cast 1], causes [Deshell 30%]"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Grants [Master Mode], [Master Mode: Emperor], [Instant ATB 1] and [Diffusion Barrier 1]"
+    },
+    {
+      "name": "Master Mode: Emperor",
+      "text": "Casts Star Strike: Emperor every 2s (max 5), casts North Star: Stick Bomb after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Star Strike: Emperor",
+      "text": "10 single attacks (3.05 each), increases Hero Boost level by 1, causes [Deshell 10%]"
+    },
+    {
+      "name": "North Star: Stick Bomb",
+      "text": "1 single attack (26.50 each), grants [Instant Cast 1], causes [Deshell 30%]"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
     }
   ],
   "id": "22640028",

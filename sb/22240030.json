@@ -5,12 +5,16 @@
       "text": "Grants [Master Mode], [Master Mode: Kuja], [Instant ATB 1], [Diffusion Barrier 1] to the user"
     },
     {
-      "name": "Master Mode",
-      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
-    },
-    {
       "name": "Master Mode: Kuja",
       "text": "Casts Star Strike: Kuja every 2s (max 5), grants Damage Cap +10000/+20000/+30000/+40000/+50000 after 1/2/3/4/5 chases, casts North Star: Last Requiem after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Star Strike: Kuja",
+      "text": "10 single attacks (3.05 each), increases Hero Boost level by 1"
+    },
+    {
+      "name": "Master Mode",
+      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
     },
     {
       "name": "Instant ATB 1",
@@ -19,12 +23,58 @@
     {
       "name": "Diffusion Barrier 1",
       "text": "Prevents elemental diffusion once"
+    },
+    {
+      "name": "North Star: Last Requiem",
+      "text": "1 single attack (26.50 each), grants [Damage Cap +90000 1], [Instant Cast 1], [Hero Boost 50% 1]"
+    },
+    {
+      "name": "Damage Cap +90000 1",
+      "text": "Increases the damage/healing cap by 90000",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Hero Boost 50% 1",
+      "text": "Increases damage dealt by 50%",
+      "duration": "1 turn"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Grants [Master Mode], [Master Mode: Kuja], [Instant ATB 1], [Diffusion Barrier 1] to the user"
+    },
+    {
+      "name": "Master Mode: Kuja",
+      "text": "Casts Star Strike: Kuja every 2s (max 5), grants Damage Cap +10000/+20000/+30000/+40000/+50000 after 1/2/3/4/5 chases, casts North Star: Last Requiem after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Star Strike: Kuja",
+      "text": "10 single attacks (3.05 each), increases Hero Boost level by 1"
+    },
+    {
+      "name": "North Star: Last Requiem",
+      "text": "1 single attack (26.50 each), grants [Damage Cap +90000 1], [Instant Cast 1], [Hero Boost 50% 1]"
+    },
+    {
+      "name": "Damage Cap +90000 1",
+      "text": "Increases the damage/healing cap by 90000",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Hero Boost 50% 1",
+      "text": "Increases damage dealt by 50%",
+      "duration": "1 turn"
     }
   ],
   "id": "22240030",

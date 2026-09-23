@@ -2,13 +2,37 @@
   "description": [
     {
       "name": "Entry",
-      "text": ""
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Extra Mode], [Damage Cap +20000], [Extra Mode: Ultimecia (Dark)], [Instant ATB 1] to user. Causes [Deshell 20% (15s)] on enemies. Grants [Attach Dark 3 with Secondary Stacking]."
+    },
+    {
+      "name": "Extra Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses."
+    },
+    {
+      "name": "Damage Cap +20000",
+      "text": "Increases the damage/healing cap by 20000"
+    },
+    {
+      "name": "Extra Mode: Ultimecia (Dark)",
+      "text": "Increases Dark ability damage by 10/20/30/40/50% at Attach Dark level 1/2/3/4/5, Dark abilities trigger 1 additional time, removed if user hasn't [Extra Mode]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Deshell 20% (15s)",
+      "text": "Increases magical damage taken by 20%, cumulable"
+    },
+    {
+      "name": "Attach Dark 3 with Secondary Stacking",
+      "text": "Increase Attach Dark Level by 3 and increase Max Attach Element Level by 5, up to Attach Dark 5"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
-      "text": ""
+      "text": "One single attack (31.00 each) capped at 199,999. Grants [Extra Mode], [Damage Cap +20000], [Extra Mode: Ultimecia (Dark)], [Instant ATB 1] to user. Causes [Deshell 20% (15s)] on enemies. Grants [Attach Dark 3 with Secondary Stacking]."
     }
   ],
   "id": "23230050",
@@ -19,10 +43,13 @@
   "tier": "XSB",
   "sb_version": "XSB1",
   "realm": "VIII",
-  "elements": [],
-  "type": "?",
-  "target": "",
+  "elements": [
+    "Dark",
+    "NE"
+  ],
+  "type": "BLK",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "",
-  "verified": false
+  "effects": "One single attack (31.00 each) capped at 199,999. Grants [Extra Mode], [Damage Cap +20000], [Extra Mode: Ultimecia (Dark)], [Instant ATB 1] to user. Causes [Deshell 20% (15s)] on enemies. Grants [Attach Dark 3 with Secondary Stacking].",
+  "verified": true
 }

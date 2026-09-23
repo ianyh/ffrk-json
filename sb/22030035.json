@@ -2,41 +2,29 @@
   "description": [
     {
       "name": "Entry",
-      "text": "Grants Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Wind Ability Boost, Triplecast Wind, Unlimited Wind Hones, Cap Break Level 1 to Wind Abilities, Wind Ability Damage +30%, ATB Speed x1.1 to Wind Abilities & No Air Time; Ends after using 8 Wind abilities\nTP Max: AOE Wind/NE jump attack at True Cap Break Level 1"
+      "text": "Grants Tactical Awoken Mode & +500 ATK to user"
     },
     {
       "name": "Weapon Skill",
-      "text": "One single piercing jump attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Wind;\nWS Blue: [Lv.2 En-Wind Stack]\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Wind Abilities]"
+      "text": "One single piercing jump attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user; During Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Wind; WS Blue: [Lv.2 En-Wind Stack] WS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Wind Abilities]"
     },
     {
-      "name": "Instant ATB 1",
-      "text": "Increase ATB charge speed by x9999999",
-      "duration": "1 turn"
-    },
-    {
-      "name": "Instant Cast 1",
-      "text": "Instant cast speed",
-      "duration": "1 turn"
+      "name": "Tactical Awoken Mode",
+      "text": "Wind Ability Boost, Triplecast Wind, Unlimited Wind Hones, Cap Break Level 1 to Wind Abilities, Wind Ability Damage +30%, ATB Speed x1.1 to Wind Abilities & No Air Time; Ends after using 8 Wind abilities"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
-      "text": "Grants Tactical Awoken Mode & +500 ATK to user\nTactical Awoken Mode: Wind Ability Boost, Triplecast Wind, Unlimited Wind Hones, Cap Break Level 1 to Wind Abilities, Wind Ability Damage +30%, ATB Speed x1.1 to Wind Abilities & No Air Time; Ends after using 8 Wind abilities\nTP Max: AOE Wind/NE jump attack at True Cap Break Level 1"
+      "text": "Grants Tactical Awoken Mode & +500 ATK to user"
     },
     {
       "name": "Weapon Skill",
-      "text": "One single piercing jump attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user;\nDuring Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Wind;\nWS Blue: [Lv.2 En-Wind Stack]\nWS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Wind Abilities]"
+      "text": "One single piercing jump attack at True Cap Break Level 1, grants [Instant ATB 1], [Instant Cast 1] to user; During Tactical Awoken Mode, Cap Break Level 2 & ATB Speed x1.2 to Wind Abilities, and Weapon Skill Blue/Gold if user has at least Lv.0/2 En-Wind; WS Blue: [Lv.2 En-Wind Stack] WS Gold: [During Tactical Awoken Mode, Cap Break Level 3 & Damage +50% to Wind Abilities]"
     },
     {
-      "name": "Instant ATB 1",
-      "text": "Increase ATB charge speed by x9999999",
-      "duration": "1 turn"
-    },
-    {
-      "name": "Instant Cast 1",
-      "text": "Instant cast speed",
-      "duration": "1 turn"
+      "name": "Tactical Awoken Mode",
+      "text": "Wind Ability Boost, Triplecast Wind, Unlimited Wind Hones, Cap Break Level 1 to Wind Abilities, Wind Ability Damage +30%, ATB Speed x1.1 to Wind Abilities & No Air Time; Ends after using 8 Wind abilities"
     }
   ],
   "id": "22030035",

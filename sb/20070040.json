@@ -5,12 +5,16 @@
       "text": "Grants [Master Mode], [Master Mode: Cecil (Paladin)], [Instant ATB 1] and [Diffusion Barrier 1]"
     },
     {
-      "name": "Master Mode",
-      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
-    },
-    {
       "name": "Master Mode: Cecil (Paladin)",
       "text": "Casts Star Strike: Cecil (Paladin) every 2s (max 5), grants Damage Cap +10000/+20000/+30000/+40000/+50000 after 1/2/3/4/5 chases, casts North Star:Saint Thruster after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Star Strike: Cecil (Paladin)",
+      "text": "10 single hybrid attacks (0.90/3.10 each), increases Hero Boost level by 1"
+    },
+    {
+      "name": "Master Mode",
+      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
     },
     {
       "name": "Instant ATB 1",
@@ -19,12 +23,58 @@
     {
       "name": "Diffusion Barrier 1",
       "text": "Prevents elemental diffusion once"
+    },
+    {
+      "name": "North Star: Saint Thruster",
+      "text": "1 single attack (8.00/28.00 each) capped at 199999, grants [True Damage Cap 199999 1], [Instant Cast 1] and [Hero Boost 50% 1]"
+    },
+    {
+      "name": "True Damage Cap 199999 1",
+      "text": "Sets the True damage/healing cap to 199999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Hero Boost 50% 1",
+      "text": "Increases damage dealt by 50%",
+      "duration": "1 turn"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Grants [Master Mode], [Master Mode: Cecil (Paladin)], [Instant ATB 1] and [Diffusion Barrier 1]"
+    },
+    {
+      "name": "Master Mode: Cecil (Paladin)",
+      "text": "Casts Star Strike: Cecil (Paladin) every 2s (max 5), grants Damage Cap +10000/+20000/+30000/+40000/+50000 after 1/2/3/4/5 chases, casts North Star:Saint Thruster after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Star Strike: Cecil (Paladin)",
+      "text": "10 single hybrid attacks (0.90/3.10 each), increases Hero Boost level by 1"
+    },
+    {
+      "name": "North Star: Saint Thruster",
+      "text": "1 single attack (8.00/28.00 each) capped at 199999, grants [True Damage Cap 199999 1], [Instant Cast 1] and [Hero Boost 50% 1]"
+    },
+    {
+      "name": "True Damage Cap 199999 1",
+      "text": "Sets the True damage/healing cap to 199999",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Hero Boost 50% 1",
+      "text": "Increases damage dealt by 50%",
+      "duration": "1 turn"
     }
   ],
   "id": "20070040",

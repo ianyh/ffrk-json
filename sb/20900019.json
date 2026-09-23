@@ -5,12 +5,25 @@
       "text": "Grants [Master Mode], [Master Mode: Mog (Dragoon)], [Instant ATB 1] to user, grants [200% ATB 1] to all allies, grants [Learning Mode: Mog II] to all allies if there are at least 4 Dragoon party members, otherwise grants [Learning Mode: Mog] and [Soul Break Gauge +50] to all allies"
     },
     {
-      "name": "Master Mode",
-      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
-    },
-    {
       "name": "Master Mode: Mog (Dragoon)",
       "text": "Casts [Star Strike: Mog] every 2s (max 5), casts [North Star: Narshe Hero's Spear] after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Star Strike: Mog",
+      "text": "If the user has [Learning Mode: Mog II], ten single ranged, jump, physical attacks (0.90 each) and increases Learning Mode: Mog II level for all allies. Otherwise, ten single magical attacks (0.90 each), grants [Stoneskin: 10%] to all allies, and increases Learning Mode: Mog level for all allies."
+    },
+    {
+      "name": "Learning Mode: Mog II",
+      "text": "Keeps track of Learning Mode: Mog II level (0~5), Dragoon ability damage +25/30/35/40/45/50% at Learning Mode: Mog II level 0/1/2/3/4/5",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Stoneskin: 10%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 10% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Master Mode",
+      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
     },
     {
       "name": "Instant ATB 1",
@@ -21,22 +34,53 @@
       "text": "Increase ATB charge speed by x2.00"
     },
     {
-      "name": "Learning Mode: Mog II",
-      "text": "Keeps track of Learning Mode: Mog II level (0~5), Dragoon ability damage +25/30/35/40/45/50% at Learning Mode: Mog II level 0/1/2/3/4/5"
-    },
-    {
       "name": "Learning Mode: Mog",
       "text": "Keeps track of Learning Mode: Mog level (0~5), Damage +5/10/15/20/25/30% at Learning Mode: Mog level 0/1/2/3/4/5"
     },
     {
       "name": "Soul Break Gauge +50",
       "text": "Grants 50 soul break points when set"
+    },
+    {
+      "name": "North Star: Narshe Hero's Spear",
+      "text": "One single attack (8.00 each) capped at 199,999, ranged, jump. Grants [Weakness +30% Boost 1] to all allies."
+    },
+    {
+      "name": "Weakness +30% Boost 1",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses",
+      "duration": "1 turn"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
       "text": "Grants [Master Mode], [Master Mode: Mog (Dragoon)], [Instant ATB 1] to user, grants [200% ATB 1] to all allies, grants [Learning Mode: Mog II] to all allies if there are at least 4 Dragoon party members, otherwise grants [Learning Mode: Mog] and [Soul Break Gauge +50] to all allies"
+    },
+    {
+      "name": "Master Mode: Mog (Dragoon)",
+      "text": "Casts [Star Strike: Mog] every 2s (max 5), casts [North Star: Narshe Hero's Spear] after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Star Strike: Mog",
+      "text": "If the user has [Learning Mode: Mog II], ten single ranged, jump, physical attacks (0.90 each) and increases Learning Mode: Mog II level for all allies. Otherwise, ten single magical attacks (0.90 each), grants [Stoneskin: 10%] to all allies, and increases Learning Mode: Mog level for all allies."
+    },
+    {
+      "name": "Learning Mode: Mog II",
+      "text": "Keeps track of Learning Mode: Mog II level (0~5), Dragoon ability damage +25/30/35/40/45/50% at Learning Mode: Mog II level 0/1/2/3/4/5",
+      "duration": "15 seconds"
+    },
+    {
+      "name": "Stoneskin: 10%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 10% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "North Star: Narshe Hero's Spear",
+      "text": "One single attack (8.00 each) capped at 199,999, ranged, jump. Grants [Weakness +30% Boost 1] to all allies."
+    },
+    {
+      "name": "Weakness +30% Boost 1",
+      "text": "Increases damage dealt by 30% when exploiting elemental weaknesses",
+      "duration": "1 turn"
     }
   ],
   "id": "20900019",

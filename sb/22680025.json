@@ -1,0 +1,28 @@
+{
+  "description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "card_description": [
+    {
+      "name": "Entry",
+      "text": ""
+    }
+  ],
+  "id": "22680025",
+  "image_url": "https://dff.sp.mbga.jp/dff/static/lang/image/soulstrike/22680025/22680025_256.png",
+  "character": "Prishe",
+  "name": "War-Awoken Knuckle Sarnie",
+  "name_jp": "戦醒ナックルサーニー",
+  "tier": "TASB",
+  "sb_version": "TASB1",
+  "realm": "XI",
+  "elements": [],
+  "type": "?",
+  "target": "",
+  "lensable": false,
+  "effects": "",
+  "verified": false
+}

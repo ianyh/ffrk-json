@@ -2,13 +2,37 @@
   "description": [
     {
       "name": "Entry",
-      "text": ""
+      "text": "One single piercing attack (31.00 or 11.00) capped at 199,999 based on MAG and ATK. Grants [Extra Mode], [Damage Cap +20000], [Extra Mode: Vincent], [Instant ATB 1], [Attach Fire 3 with Secondary Stacking] to user. Grants [Buff Fire 30% (15s)] to all allies."
+    },
+    {
+      "name": "Extra Mode",
+      "text": "Replaces certain Hero Abilities, certain Hero Abilities don't consume uses."
+    },
+    {
+      "name": "Damage Cap +20000",
+      "text": "Increases the damage/healing cap by 20000"
+    },
+    {
+      "name": "Extra Mode: Vincent",
+      "text": "Increases Fire ability damage by 10/20/30/40/50% at Attach Fire level 1/2/3/4/5, Fire abilities trigger 1 additional time, removed if user hasn't [Extra Mode]"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Attach Fire 3 with Secondary Stacking",
+      "text": "Increase Attach Fire Level by 3 and increase Max Attach Element Level by 5, up to Attach Fire 5"
+    },
+    {
+      "name": "Buff Fire 30% (15s)",
+      "text": "Increases Fire damage dealt by 30%, cumulable"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
-      "text": ""
+      "text": "One single piercing attack (31.00 or 11.00) capped at 199,999 based on MAG and ATK. Grants [Extra Mode], [Damage Cap +20000], [Extra Mode: Vincent], [Instant ATB 1], [Attach Fire 3 with Secondary Stacking] to user. Grants [Buff Fire 30% (15s)] to all allies."
     }
   ],
   "id": "22170038",
@@ -19,10 +43,13 @@
   "tier": "XSB",
   "sb_version": "XSB1",
   "realm": "VII",
-  "elements": [],
-  "type": "?",
-  "target": "",
+  "elements": [
+    "Fire",
+    "NE"
+  ],
+  "type": "NAT",
+  "target": "Single enemy",
   "lensable": false,
-  "effects": "",
+  "effects": "One single piercing attack (31.00 or 11.00) capped at 199,999 based on MAG and ATK. Grants [Extra Mode], [Damage Cap +20000], [Extra Mode: Vincent], [Instant ATB 1], [Attach Fire 3 with Secondary Stacking] to user. Grants [Buff Fire 30% (15s)] to all allies.",
   "verified": false
 }

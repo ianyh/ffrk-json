@@ -2,13 +2,103 @@
   "description": [
     {
       "name": "Entry",
-      "text": ""
+      "text": "Grants [Master Mode], [Master Mode: Quina], and [Instant ATB 1] to user. Grants [Learning Mode: Quina (IX)] and [Instant ATB 1] to all allies if the user has realm synergy, else grants [Learning Mode: Quina] and [200% ATB 1] to all allies"
+    },
+    {
+      "name": "Master Mode: Quina",
+      "text": "Casts [Star Strike: Quina] every 2s (max 5), casts [North Star: Pumpkin Bomber] after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Star Strike: Quina",
+      "text": "If the user has realm synergy, ten single ranged attacks (0.90 each), grants [Soul Break Gauge +50] to the user, and increases Learning Mode: Quina (IX) level by one for all allies. Otherwise, causes [Deprotect 10% (5s)] to target, grants [Stoneskin: 10%] to all allies with Learning Mode: Quina, and increases Learning Mode: Quina level by one for all allies"
+    },
+    {
+      "name": "Soul Break Gauge +50",
+      "text": "Grants 50 soul break points when set"
+    },
+    {
+      "name": "Deprotect 10% (5s)",
+      "text": "Increases physical damage taken by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Stoneskin: 10%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 10% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "Master Mode",
+      "text": "Instant cast speed and no cost for the first Soul Break cast, grants [Hero Boost] and sets the Hero Boost level to 1 when set"
+    },
+    {
+      "name": "Instant ATB 1",
+      "text": "Increase ATB charge speed by x9999999"
+    },
+    {
+      "name": "Learning Mode: Quina (IX)",
+      "text": "Keeps track of Learning Mode: Quina (IX) level (0~5), Damage +5/10/15/20/25/30% at Learning Mode: Quina (IX) level 0/1/2/3/4/5"
+    },
+    {
+      "name": "Learning Mode: Quina",
+      "text": "Keeps track of Learning Mode: Quina level (0~5), Deadly Strikes 5/10/15/20%/25%/30% to the user Learning Mode: Quina level 0/1/2/3/4/5"
+    },
+    {
+      "name": "200% ATB 1",
+      "text": "Increase ATB charge speed by x2.00"
+    },
+    {
+      "name": "North Star: Pumpkin Bomber",
+      "text": "One single ranged attack (8.00 each) capped at 199999, grants [Deadly Strikes +30% 1] and [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Deadly Strikes +30% 1",
+      "text": "Critical hits deal 30% more damage (additive with the base critical coefficient and other Critical Damage statuses)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
     }
   ],
   "card_description": [
     {
       "name": "Entry",
-      "text": ""
+      "text": "Grants [Master Mode], [Master Mode: Quina], and [Instant ATB 1] to user. Grants [Learning Mode: Quina (IX)] and [Instant ATB 1] to all allies if the user has realm synergy, else grants [Learning Mode: Quina] and [200% ATB 1] to all allies"
+    },
+    {
+      "name": "Master Mode: Quina",
+      "text": "Casts [Star Strike: Quina] every 2s (max 5), casts [North Star: Pumpkin Bomber] after 15s, removed if user hasn't Master Mode"
+    },
+    {
+      "name": "Star Strike: Quina",
+      "text": "If the user has realm synergy, ten single ranged attacks (0.90 each), grants [Soul Break Gauge +50] to the user, and increases Learning Mode: Quina (IX) level by one for all allies. Otherwise, causes [Deprotect 10% (5s)] to target, grants [Stoneskin: 10%] to all allies with Learning Mode: Quina, and increases Learning Mode: Quina level by one for all allies"
+    },
+    {
+      "name": "Soul Break Gauge +50",
+      "text": "Grants 50 soul break points when set"
+    },
+    {
+      "name": "Deprotect 10% (5s)",
+      "text": "Increases physical damage taken by 10%, cumulable",
+      "duration": "5 seconds"
+    },
+    {
+      "name": "Stoneskin: 10%",
+      "text": "Reduces damage taken to 0, up to an amount equal to 10% of the character's maximum HP, removed when that amount is reached"
+    },
+    {
+      "name": "North Star: Pumpkin Bomber",
+      "text": "One single ranged attack (8.00 each) capped at 199999, grants [Deadly Strikes +30% 1] and [Instant Cast 1] to all allies"
+    },
+    {
+      "name": "Deadly Strikes +30% 1",
+      "text": "Critical hits deal 30% more damage (additive with the base critical coefficient and other Critical Damage statuses)",
+      "duration": "1 turn"
+    },
+    {
+      "name": "Instant Cast 1",
+      "text": "Instant cast speed",
+      "duration": "1 turn"
     }
   ],
   "id": "20840022",
@@ -20,9 +110,9 @@
   "sb_version": "MASB1",
   "realm": "IX",
   "elements": [],
-  "type": "?",
-  "target": "",
+  "type": "NAT",
+  "target": "Self",
   "lensable": false,
-  "effects": "",
-  "verified": false
+  "effects": "Grants [Master Mode], [Master Mode: Quina], and [Instant ATB 1] to user. Grants [Learning Mode: Quina (IX)] and [Instant ATB 1] to all allies if the user has realm synergy, else grants [Learning Mode: Quina] and [200% ATB 1] to all allies",
+  "verified": true
 }
